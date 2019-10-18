@@ -1,0 +1,1002 @@
+"id","name","host_id","host_name","neighbourhood_group","neighbourhood","latitude","longitude","room_type","price","minimum_nights","number_of_reviews","last_review","reviews_per_month","calculated_host_listings_count","availability_365"
+3109,"zen and calm",3631,"Anne",NA,"Observatoire",48.83349,2.31852,"Entire home/apt",60,3,8,"1545148800",0.26,1,227
+5396,"Explore the heart of old Paris",7903,"Borzou",NA,"Hôtel-de-Ville",48.851,2.35869,"Entire home/apt",115,1,180,"1561046400",1.47,1,27
+7397,"MARAIS - 2ROOMS APT - 2/4 PEOPLE",2626,"Franck",NA,"Hôtel-de-Ville",48.85758,2.35275,"Entire home/apt",115,10,248,"1561392000",2.47,1,240
+7964,"Large & sunny flat with balcony !",22155,"Anaïs",NA,"Opéra",48.87464,2.34341,"Entire home/apt",130,6,6,"1442160000",0.05,1,302
+8522,"GREAT FLAT w/ CITY VIEW",25435,"Adrien",NA,"Ménilmontant",48.86528,2.39326,"Entire home/apt",90,3,1,"1276617600",0.01,1,186
+9359,"Cozy, Central Paris: WALK or VELIB EVERYWHERE !",28422,"Bernadette",NA,"Louvre",48.85899,2.34735,"Entire home/apt",75,180,0,"",NA,1,99
+9952,"Paris petit coin douillet",33534,"Elisabeth",NA,"Popincourt",48.86227,2.37134,"Entire home/apt",75,5,20,"1562256000",0.26,1,289
+10586,"BAIL MOBILITE     Montmartre Studio 7",37107,"Michael",NA,"Buttes-Montmartre",48.88902,2.34656,"Entire home/apt",80,30,43,"1561824000",0.37,3,209
+10588,"Montmartre Studio 10",37107,"Michael",NA,"Buttes-Montmartre",48.88918,2.3449,"Entire home/apt",75,30,16,"1475251200",0.16,3,0
+10710,"Calm  place in a """"bourgeois"""" area !",38170,"Josiane",NA,"Élysée",48.879,2.31608,"Entire home/apt",90,3,40,"1548345600",0.35,1,203
+11170,"QUARTIER LATIN APART",40963,"Léna",NA,"Panthéon",48.8467,2.35095,"Entire home/apt",75,2,343,"1562428800",2.88,1,188
+11213,"DOWNTOWN PARIS",41322,"Mathieu",NA,"Entrepôt",48.8711,2.37424,"Entire home/apt",157,1,121,"1561478400",2.47,2,342
+11265,"Elegant appartment in Montmartre",41718,"Sylvie",NA,"Buttes-Montmartre",48.88434,2.34005,"Entire home/apt",100,7,14,"1561996800",0.37,1,226
+11798,"Loft very charming in Paris",44444,"Laurence",NA,"Gobelins",48.82405,2.36828,"Entire home/apt",110,2,80,"1560960000",0.97,1,348
+11848,"Swishy Cosy Paris Pad",44626,"Thierry",NA,"Popincourt",48.86578,2.37705,"Entire home/apt",79,30,319,"1562428800",3.03,1,255
+12268,"Faubourg Saint Antoine-chambrecalme",47196,"Charles",NA,"Popincourt",48.8509,2.38695,"Private room",60,6,1,"1274976000",0.01,2,0
+12452,"De Place Voltaire à Chemin vert. Paris 11ème",48733,"Irene",NA,"Popincourt",48.85909,2.37704,"Entire home/apt",100,5,11,"1551542400",0.76,1,5
+14264,"Charming sunny 2BR in Montmartre !",55995,"Lara",NA,"Buttes-Montmartre",48.88315,2.34158,"Entire home/apt",110,7,10,"1556985600",0.13,1,180
+14757,"Lovely Studio Montmartre",57954,"Nolwenn",NA,"Buttes-Montmartre",48.89052,2.34453,"Entire home/apt",75,3,200,"1547827200",1.95,1,160
+16048,"Absolute Paris 2 pièces 40 m²",62642,"Luis",NA,"Buttes-Chaumont",48.89083,2.37347,"Entire home/apt",75,5,2,"1363276800",0.03,1,54
+16455,"Spacious, Light-Filled Apartment",64054,"David",NA,"Gobelins",48.83616,2.36323,"Entire home/apt",55,4,24,"1562515200",0.39,2,19
+16457,"***ROOFTOP LE MARAIS***",64057,"Carole",NA,"Hôtel-de-Ville",48.85339,2.36284,"Entire home/apt",78,5,340,"1557417600",3,1,61
+16626,"Luxury in St Michel",64627,"Phoenice",NA,"Luxembourg",48.85324,2.34171,"Private room",120,5,70,"1561219200",0.61,3,326
+17283,"Charming Appartment Goncourt Paris",67010,"Sandra",NA,"Entrepôt",48.87033,2.37152,"Entire home/apt",105,2,59,"1556121600",0.71,3,190
+17316,"BEAUTIFUL APT IN PARIS CANAL ST MAR",67192,"Frank",NA,"Entrepôt",48.87217,2.36206,"Entire home/apt",80,120,1,"1533052800",0.09,1,0
+17918,"Big Flat in Paris with a retro feel",20633,"Patrick",NA,"Opéra",48.88282,2.33272,"Entire home/apt",110,2,3,"1541174400",0.03,2,191
+17919,"A Room in Paris 9e Pigalle",20633,"Patrick",NA,"Opéra",48.88327,2.33292,"Private room",65,1,124,"1562515200",1.12,2,161
+17994,"Center of paris: Louvre",69389,"Reem",NA,"Louvre",48.86093,2.34254,"Entire home/apt",250,2,155,"1562169600",1.35,1,350
+19150,"LOVELY  APARTMENT NEAR MONTMARTRE",71496,"Stephanie",NA,"Buttes-Montmartre",48.88565,2.35906,"Entire home/apt",80,3,2,"1309104000",0.02,1,0
+19306,"PARIS ROMANTIC MAISONETTE",73530,"Marie",NA,"Panthéon",48.83872,2.35297,"Entire home/apt",98,2,202,"1561132800",1.78,3,239
+20176,"Charming flat close to Eiffel Tower 7th",76355,"Julia Et Lucas",NA,"Palais-Bourbon",48.8585,2.31423,"Entire home/apt",145,5,217,"1559145600",1.91,18,288
+20823,"TWO FLOORS apartment in Paris 5eme",73530,"Marie",NA,"Panthéon",48.83901,2.35463,"Entire home/apt",130,2,535,"1562774400",4.74,3,0
+21004,"LUXURIOUS PENTHOUSE+ 80 SQM TERRACE",79843,"Nadia",NA,"Reuilly",48.84,2.40067,"Entire home/apt",190,2,95,"1560096000",0.84,8,335
+21167,"A peaceful and very well located bedroom",80630,"Isa",NA,"Buttes-Montmartre",48.8938,2.33584,"Private room",55,1,93,"1562601600",0.82,1,323
+21194,"LOVELY STUDIO IN QUARTIER LATIN",73530,"Marie",NA,"Panthéon",48.83802,2.35446,"Entire home/apt",98,2,168,"1561478400",1.51,3,256
+21264,"Paris holidays, with family or friends",81070,"Caroline",NA,"Popincourt",48.8514,2.39189,"Entire home/apt",80,5,19,"1524240000",0.17,1,191
+21282,"Amazing aptmnt near Montmartre",81178,"Karen",NA,"Buttes-Montmartre",48.88691,2.35483,"Entire home/apt",49,3,27,"1556294400",0.24,1,22
+21419,"charming heart of paris",81840,"Laurent",NA,"Bourse",48.86631,2.35033,"Entire home/apt",120,8,71,"1561478400",0.64,1,152
+21860,"Cute studio Nest (2p) Heart Paris/Marais/Louvre/",165470,"Monic",NA,"Bourse",48.86524,2.34807,"Entire home/apt",63,7,133,"1531584000",1.23,1,0
+22158,"Artist Loft with rooftop in the city center!",84874,"Fabienne",NA,"Élysée",48.871,2.32298,"Private room",110,2,39,"1560873600",0.48,1,330
+22888,"charming 3br flat, Paris 20th",88562,"Hanadi",NA,"Ménilmontant",48.85816,2.39974,"Entire home/apt",110,2,9,"1434297600",0.08,2,191
+22979,"Staying in the Heart of Paris!",89023,"Lisa",NA,"Hôtel-de-Ville",48.85347,2.35073,"Private room",70,3,244,"1560960000",2.19,1,46
+23441,"Charming at Montmartre & rue Lepic- mobility lease",91706,"Elise",NA,"Buttes-Montmartre",48.88451,2.33439,"Entire home/apt",70,30,75,"1560528000",0.66,1,143
+23742,"2 bedrooms apartment in a quiet green neighborhood",94254,"Marina",NA,"Ménilmontant",48.86842,2.40702,"Entire home/apt",100,5,4,"1533916800",0.16,1,205
+24260,"Lovely place near Champs Elysees",98012,"Emmanuel",NA,"Élysée",48.87952,2.30543,"Entire home/apt",96,10,30,"1502380800",0.27,1,31
+25819,"BBB : Bed & Breakfast Bouchardon",108444,"Jozsef",NA,"Entrepôt",48.86998,2.35834,"Private room",190,3,0,"",NA,1,282
+26278,"Montmartre Apart",111157,"Jeff",NA,"Buttes-Montmartre",48.88528,2.34588,"Entire home/apt",72,3,460,"1562256000",4.11,1,154
+26562,"The Eiffel Tower as your neighbour",107514,"Judith",NA,"Vaugirard",48.85339,2.29097,"Entire home/apt",120,3,162,"1560614400",1.45,1,16
+26567,"Cosy Temp Apt for summer + with View",112799,"Debbie",NA,"Batignolles-Monceau",48.89713,2.32254,"Entire home/apt",49,7,9,"1466870400",0.1,3,225
+26827,"UN LOFT A PARIS BELLEVILLE",114407,"Jrouma",NA,"Buttes-Chaumont",48.87426,2.38511,"Entire home/apt",80,7,78,"1560700800",0.7,2,322
+26939,"5th, Pantheon Great Studio w/ yard",115043,"Anne-Valérie",NA,"Panthéon",48.84549,2.34815,"Entire home/apt",76,60,32,"1532966400",0.29,1,190
+27008,"Cosy room in a loft - Père Lachaise",115574,"Catherine",NA,"Ménilmontant",48.8631,2.39527,"Private room",50,3,10,"1465660800",0.14,2,313
+27288,"Beautiful, huge, very Parisian ",77087,"Simone",NA,"Buttes-Chaumont",48.88562,2.37157,"Entire home/apt",125,5,55,"1560787200",0.55,1,11
+27650,"Your Artistic Home in Paris!",119557,"Miléna",NA,"Ménilmontant",48.8629,2.4038,"Entire home/apt",50,14,0,"",NA,2,270
+28652,"2 BR Loft in Le Marais / Bastille",123389,"Jonas",NA,"Popincourt",48.85996,2.36755,"Entire home/apt",159,5,16,"1556208000",0.18,1,213
+29108,"PARIS 650sqftVILLAGE PÈRE LACHAISE",125205,"Julien",NA,"Ménilmontant",48.85552,2.40457,"Entire home/apt",73,3,7,"1560614400",0.8,1,131
+30969,"View of the Eiffel Tower",132916,"Patty",NA,"Vaugirard",48.8522,2.299,"Entire home/apt",175,30,145,"1555257600",1.46,1,365
+31081,"Eiffel Tower, 7th Arrondissement, long term stay",101494,"Olivia",NA,"Palais-Bourbon",48.85613,2.30969,"Entire home/apt",115,30,266,"1560268800",2.44,1,60
+31435,"Stylish Flat + Sunny Balcony Paris",135024,"Kay",NA,"Buttes-Montmartre",48.89119,2.35516,"Entire home/apt",80,5,48,"1547481600",0.43,2,343
+31652,"Magnifique studio parisien",134793,"Claire",NA,"Observatoire",48.83892,2.32201,"Entire home/apt",90,1,41,"1561132800",1.12,1,313
+31893,"Nice appartment in Place d'Italie",137208,"Clément",NA,"Gobelins",48.82927,2.35672,"Entire home/apt",70,6,52,"1476547200",0.47,1,32
+32082,"BEAUTIFUL APARTMENT PARIS BASTILLE",138401,"Michel",NA,"Reuilly",48.84995,2.37373,"Entire home/apt",128,2,356,"1562256000",3.25,1,113
+32883,"Charming room in the 8th",142505,"Etienne",NA,"Élysée",48.87914,2.32687,"Entire home/apt",60,2,331,"1560009600",3.1,1,72
+33004,"flat to rent during the summer",143020,"Ketty",NA,"Entrepôt",48.87842,2.35029,"Entire home/apt",114,30,0,"",NA,1,365
+33114,"1-Bedroom: Paris 5th, Latin Quarter",143558,"Axel And Michelle",NA,"Panthéon",48.83977,2.35682,"Entire home/apt",88,30,70,"1558281600",0.74,1,0
+33210,"PERFECT LOCATION! GREAT RATES! BEST",76961,"Karen",NA,"Palais-Bourbon",48.85486,2.32885,"Entire home/apt",65,4,90,"1561046400",0.82,1,185
+33814,"2/3 rooms70m2 PARIS quiet, bright, 2 big balconies",146066,"Léna",NA,"Observatoire",48.82481,2.32332,"Entire home/apt",150,4,45,"1560700800",0.41,1,354
+33993,"Gardened Terrace Flat in Montmartre",146671,"Romain & Joseph",NA,"Buttes-Montmartre",48.8912,2.33447,"Entire home/apt",250,2,91,"1561305600",0.85,1,90
+34453,"Bienvenue à Opéra Bastille",148773,"Brigitte Marie",NA,"Reuilly",48.85043,2.37111,"Private room",60,3,345,"1561219200",3.14,1,191
+35065,"Lovely Loft Saint-Germain des Pres",150876,"Benoit",NA,"Palais-Bourbon",48.85387,2.3244,"Entire home/apt",132,1,539,"1561219200",5.01,1,221
+35697,"Very nice flat batignolles district",153430,"Claire",NA,"Batignolles-Monceau",48.88743,2.31811,"Entire home/apt",115,2,1,"1531324800",0.08,1,15
+36267,"Titon FaubourgSaint-AntoineBastille",47196,"Charles",NA,"Popincourt",48.85145,2.38703,"Entire home/apt",110,6,15,"1451491200",0.14,2,0
+36490,"Low budget in a residential area",156936,"Christian",NA,"Reuilly",48.83613,2.40176,"Private room",32,3,87,"1547740800",0.82,1,0
+36586,"Charming sunny 1BR Buttes Chaumont",157430,"Stephanie",NA,"Buttes-Chaumont",48.88047,2.39408,"Entire home/apt",50,3,36,"1544198400",0.36,1,129
+36868,"Great family size apt near park !",159102,"Philippe",NA,"Buttes-Chaumont",48.88257,2.38782,"Entire home/apt",1800,1,29,"1509897600",0.27,1,89
+37801,"EIFFEL TOWER QUALITY STAY",112192,"Marc",NA,"Vaugirard",48.84106,2.28245,"Entire home/apt",94,6,49,"1398268800",0.45,1,153
+38303,"Charming Flat on the roof",146581,"Antoine",NA,"Popincourt",48.86511,2.36675,"Private room",50,10,20,"1542038400",0.19,1,0
+38871,"Special promotion for """"Stylish and convenient""""",166743,"Monica",NA,"Gobelins",48.83344,2.34601,"Entire home/apt",99,3,217,"1562342400",2.39,1,191
+39651,"Charming Studio close to Bastille",170325,"Carole",NA,"Popincourt",48.8493,2.39022,"Entire home/apt",59,5,38,"1535558400",0.35,1,74
+39666,"Paris 5 Star Luxury on the Ile Saint-Louis",170397,"Judith",NA,"Hôtel-de-Ville",48.85172,2.35504,"Entire home/apt",921,2,36,"1562342400",0.36,1,273
+39716,"GEORGEOUS 2 Bedroom in Montmartre",170600,"Jean Michel",NA,"Buttes-Montmartre",48.88745,2.34695,"Entire home/apt",140,2,346,"1561478400",3.2,1,6
+39948,"COSY INDEPENDENT ROOM IN CENTRAL PARIS",171483,"Aliyah & Philippe",NA,"Bourse",48.87064,2.3451,"Entire home/apt",90,4,57,"1561219200",0.81,1,285
+40143,"Stylish & Design 1BR flat- Voltaire Bastille",172322,"Emmanuelle",NA,"Popincourt",48.85672,2.37771,"Entire home/apt",139,7,11,"1492272000",0.1,1,0
+40174,"Great, central Paris rental!",172460,"Leila",NA,"Hôtel-de-Ville",48.85362,2.36336,"Entire home/apt",95,2,79,"1560873600",0.77,1,303
+40775,"Great Flat to Rent in Paris Center",176060,"Sophie",NA,"Popincourt",48.86375,2.37586,"Entire home/apt",75,10,81,"1534089600",0.79,1,76
+40899,"Lovely flat Canal Saint Martin",177130,"Lola",NA,"Entrepôt",48.87549,2.37224,"Entire home/apt",75,4,70,"1561219200",1.35,1,255
+40911,"The White & Cosy Flat",177212,"David",NA,"Batignolles-Monceau",48.88787,2.31093,"Entire home/apt",105,5,9,"1420387200",0.09,1,23
+41077,"Bed&Breakfast The Welcoming Dragon",178239,"Philipp",NA,"Gobelins",48.82515,2.3627,"Private room",98,3,6,"1529596800",0.06,1,250
+41106,"STYLE&COMFORT@LE MARAIS, what else?",177387,"LetsgetSirius",NA,"Hôtel-de-Ville",48.85768,2.35545,"Entire home/apt",175,4,75,"1560700800",0.7,1,0
+41745,"Charmant loft en duplex au calme da",182588,"Maxence",NA,"Popincourt",48.8693,2.37163,"Entire home/apt",79,5,9,"1526745600",0.12,2,296
+42348,"tres beau studio à trés bon PRIX",184942,"Max",NA,"Opéra",48.8783,2.33966,"Entire home/apt",75,3,79,"1561392000",1,1,241
+42507,"Calm, Renovated, Equipped, on the Canal & Metro",142478,"Yael",NA,"Buttes-Chaumont",48.88868,2.37544,"Entire home/apt",78,3,51,"1554652800",0.51,1,0
+43027,"Montmartre by foot ! Beautiful & cosy 70m2",187799,"Charlotte",NA,"Buttes-Montmartre",48.88747,2.32604,"Entire home/apt",150,3,63,"1553356800",0.59,1,363
+43219,"Cozy 2 bdr Loft apartment in Paris",188624,"Sylvie",NA,"Popincourt",48.86579,2.37937,"Entire home/apt",140,5,10,"1436457600",0.14,1,189
+43355,"STUDIO REPUBLIQUE  CANAL  ST MARTIN",187798,"Chris",NA,"Entrepôt",48.86965,2.36719,"Entire home/apt",60,28,8,"1559923200",0.11,1,2
+43500,"MONTMARTRE SACRE COEUR",152242,"Delphine",NA,"Buttes-Montmartre",48.88487,2.34445,"Entire home/apt",155,6,2,"1532016000",0.03,6,360
+44123,"Le Marais - L'île St-Louis",152242,"Delphine",NA,"Hôtel-de-Ville",48.85329,2.35978,"Entire home/apt",215,3,47,"1561305600",0.45,6,291
+44198,"Paris's Heart Peaceful Duplex 43m2",193617,"Edith",NA,"Entrepôt",48.87095,2.35622,"Entire home/apt",92,2,27,"1441555200",0.25,2,198
+45175,"Appartement XIX century near Buttes",199617,"Simone",NA,"Buttes-Chaumont",48.87564,2.38717,"Private room",63,3,0,"",NA,1,0
+45630,"room in anice 40m2 flat/great view!",202804,"Regis",NA,"Buttes-Montmartre",48.89078,2.3601,"Private room",34,3,58,"1560182400",0.54,2,88
+45967,"Palais Royal central 2 beds 450ft2",204922,"Benoit",NA,"Bourse",48.86603,2.34019,"Entire home/apt",109,5,33,"1509292800",0.31,1,0
+46666,"Charming flat near Père-Lachaise!",209127,"Julie",NA,"Ménilmontant",48.85716,2.39633,"Entire home/apt",60,5,33,"1532966400",0.32,1,159
+47155,"Charming appartment in paris 16 ème",212393,"Nina",NA,"Passy",48.84299,2.25845,"Entire home/apt",130,5,51,"1556899200",0.58,1,86
+48498,"SAINT HONORE VENDOME",152242,"Delphine",NA,"Louvre",48.86563,2.33244,"Entire home/apt",175,2,29,"1560873600",0.29,6,313
+48584,"Le Marais Beautreillis Place des Vosges",152242,"Delphine",NA,"Hôtel-de-Ville",48.85316,2.36302,"Entire home/apt",165,30,37,"1536940800",0.37,6,304
+48592,"Champs Elysees Franklin Roosevelt",152242,"Delphine",NA,"Élysée",48.87204,2.30966,"Entire home/apt",190,3,26,"1552233600",0.35,6,292
+50677,"Sunny 2rooms  in Heart  of  Marais",232987,"Mami",NA,"Hôtel-de-Ville",48.85715,2.3573,"Entire home/apt",110,30,109,"1537113600",1.02,1,190
+50738,"Montmartre Studio 8",37107,"Michael",NA,"Buttes-Montmartre",48.88752,2.34536,"Entire home/apt",85,270,33,"1404230400",0.32,3,0
+51451,"Lovely 1-bedroom + living room by Canal St Martin",236485,"Johanna",NA,"Entrepôt",48.88173,2.36181,"Entire home/apt",89,4,12,"1537804800",0.11,1,315
+52157,"Paris, Le Marais, 100sqm flat/appartement 100m2",241004,"Thomas",NA,"Hôtel-de-Ville",48.85793,2.35864,"Entire home/apt",320,2,17,"1560528000",0.84,1,179
+52706,"Studio Villette",244183,"Maud",NA,"Buttes-Chaumont",48.87851,2.37161,"Entire home/apt",85,3,6,"1559750400",1.22,1,315
+53036,"YOUR HOME IN PARIS - Cozy, cute, comfortable!",245572,"Lorin",NA,"Popincourt",48.85959,2.38141,"Entire home/apt",70,3,268,"1546185600",2.81,2,0
+53353,"Rare 18th century washhouse convert",248319,"Trixie",NA,"Buttes-Montmartre",48.88929,2.3518,"Entire home/apt",160,2,15,"1540483200",0.14,1,364
+53567,"Ada's cozy place",247511,"Ada",NA,"Reuilly",48.83631,2.40076,"Private room",48,3,6,"1435420800",0.06,1,69
+53734,"BEAUTIFUL 2BR IN NORTH MARAIS : long term (1 YEAR)",250973,"Marion",NA,"Popincourt",48.86756,2.36909,"Entire home/apt",130,7,16,"1555948800",0.17,1,0
+53923,"Le Marais' Best Kept Secret- 1BR/1B",252297,"Carine",NA,"Temple",48.8588,2.36659,"Entire home/apt",120,3,113,"1561478400",1.07,1,56
+54377,"Charming duplex flat (50m2) near subway (Line 12)",247562,"Nicolas",NA,"Buttes-Montmartre",48.89057,2.35902,"Entire home/apt",61,2,25,"1560009600",0.71,1,284
+55071,"Amazing 1 bedroom near Montmartre",259503,"Marion",NA,"Opéra",48.87937,2.34331,"Entire home/apt",110,2,56,"1560614400",0.57,2,3
+55239,"Luxury, Calm & Pleasure in 915 sqf.",260696,"Joseph",NA,"Élysée",48.87204,2.31421,"Entire home/apt",360,1,14,"1539705600",0.17,1,282
+55348,"TOP LUXURY MARAIS DESIGN STUDIO APT",261355,"Pascal",NA,"Temple",48.85816,2.36028,"Entire home/apt",117,6,59,"1560009600",0.66,5,251
+56662,"180°view penthouse terrace jacuzzi- mobility lease",268825,"Sophie",NA,"Buttes-Chaumont",48.87516,2.38382,"Entire home/apt",150,5,48,"1559404800",0.46,1,276
+57207,"Nice Bedroom for short terms",129230,"Vale",NA,"Vaugirard",48.84618,2.30445,"Private room",31,2,270,"1562342400",2.57,1,8
+57766,"Private House 14pax  with terraces in Paris Center",275667,"Barbara",NA,"Vaugirard",48.8397,2.30442,"Entire home/apt",650,6,30,"1561132800",0.48,2,316
+58099,"The Luxembourg in the 6th",485671,"Bastien",NA,"Luxembourg",48.84488,2.33036,"Entire home/apt",150,2,288,"1561564800",2.85,4,0
+59182,"Champs Elysées at your feet - quiet 1bdr penthouse",193906,"Pascale",NA,"Passy",48.87082,2.29138,"Entire home/apt",65,2,190,"1561824000",1.81,1,294
+59508,"3 bdr Artist Studio in Montparnasse",266767,"Armand",NA,"Observatoire",48.83329,2.33063,"Entire home/apt",99,1,4,"1546272000",0.34,1,0
+59959,"PARIS ON THE QUAYS  : View ***, 2R, 750 sf + Balc",288512,"Celine",NA,"Buttes-Chaumont",48.89368,2.38419,"Entire home/apt",120,3,16,"1561824000",0.19,1,168
+60165,"Charming appt next to Montmartre!",289696,"Aurélie",NA,"Buttes-Montmartre",48.88741,2.34924,"Entire home/apt",70,3,35,"1559404800",0.34,1,19
+61016,"THE AUTHENTIC PARISIAN BOBO-LOFT IN BELLEVILLE",295001,"Francesca",NA,"Buttes-Chaumont",48.87332,2.38002,"Entire home/apt",120,2,29,"1502553600",0.29,2,0
+61259,"Charming apartment Canal St Martin",296278,"Virginie",NA,"Entrepôt",48.87477,2.36314,"Entire home/apt",103,4,94,"1561824000",0.91,1,179
+61453,"Large 2 bedroom Paris apartment (Phone number hidden by Airbnb) )",297577,"Josephine",NA,"Buttes-Chaumont",48.88935,2.37959,"Entire home/apt",105,118,20,"1546444800",0.34,5,0
+61459,"Arc de Triomphe area Sweet Home",297618,"Stéphanie",NA,"Batignolles-Monceau",48.87676,2.29362,"Entire home/apt",80,5,162,"1559318400",1.59,1,190
+61624,"BEST LOCATION WELL-ARRANGED SMALL STUDIO",264770,"Emmanuelle",NA,"Louvre",48.86085,2.34372,"Entire home/apt",75,10,6,"1303660800",0.06,1,332
+62410,"Beautiful apartment with a view",303768,"Imane",NA,"Batignolles-Monceau",48.89523,2.3231,"Entire home/apt",60,4,1,"1534521600",0.09,1,8
+62622,"Etoile Champs Elysées 3 bedrooms",305021,"Patrick",NA,"Batignolles-Monceau",48.8763,2.29428,"Entire home/apt",290,6,65,"1562083200",0.66,1,98
+63480,"Notre Dame Latin Quarter: 1BR Flat, Central Paris",309970,"Paul",NA,"Panthéon",48.85082,2.34951,"Entire home/apt",160,4,24,"1562688000",0.33,1,246
+63873,"The best apt in Place des Vosges!!!",312145,"Gabriela",NA,"Hôtel-de-Ville",48.85459,2.36499,"Entire home/apt",320,3,146,"1560528000",1.45,1,284
+63881,"GRACIOUS PENTHOUSE+BALCONY OVERLOOKING PANTHEON!",79843,"Nadia",NA,"Panthéon",48.8482,2.35281,"Entire home/apt",130,3,130,"1560960000",1.33,8,260
+65916,"Lovely studio in the Heart of Paris",322380,"Carine & Davy",NA,"Entrepôt",48.87188,2.35649,"Entire home/apt",100,7,98,"1560960000",0.96,1,302
+68414,"Parisian loft - Butte aux Cailles",339190,"Donna",NA,"Gobelins",48.82896,2.35228,"Entire home/apt",225,4,1,"1328371200",0.01,1,331
+69083,"BIG DESIGNER STUDIO NEAR BUTTES CHAUMONT",295001,"Francesca",NA,"Buttes-Chaumont",48.87338,2.37879,"Entire home/apt",60,2,3,"1337443200",0.03,2,0
+69588,"Studio for 2 people max",349245,"Philipp",NA,"Louvre",48.86347,2.34118,"Entire home/apt",95,2,179,"1561478400",1.77,1,170
+70586,"Charming Comfortable Marais 1 Bedrm",277494,"Frédéric",NA,"Hôtel-de-Ville",48.8603,2.35387,"Entire home/apt",139,3,112,"1560528000",1.1,3,252
+70858,"2 storey flat near Les Gobelins",360583,"Pascal",NA,"Gobelins",48.83573,2.3464,"Entire home/apt",80,6,5,"1534521600",0.12,1,200
+71495,"secret charm 2-rooms Liberty apt",366238,"Lo",NA,"Buttes-Chaumont",48.88188,2.39385,"Entire home/apt",60,3,151,"1562688000",1.49,1,206
+71719,"Appt in Saint Germain des Prés",214262,"Laure",NA,"Palais-Bourbon",48.85116,2.31935,"Entire home/apt",180,3,45,"1559232000",0.46,1,365
+72427,"Bastille -Night Life/ Market/ Metro",193007,"Alexander",NA,"Reuilly",48.84967,2.37816,"Entire home/apt",50,5,71,"1561737600",0.95,1,0
+72895,"Charming attic 45m² appartment",377875,"Agathe",NA,"Entrepôt",48.87153,2.37342,"Entire home/apt",80,2,12,"1436457600",0.12,1,159
+73533,"Apartment near The Louvre",69294,"Elisabeth",NA,"Louvre",48.86411,2.34309,"Entire home/apt",135,3,96,"1557676800",0.96,1,106
+74561,"Designer central Marais Studio",383581,"Cecile",NA,"Temple",48.85701,2.36331,"Entire home/apt",48,30,15,"1538236800",0.18,5,232
+75708,"Independent Studio 30m2 Paris 20e Père Lachaise",402348,"Faina",NA,"Ménilmontant",48.86895,2.40142,"Private room",45,4,188,"1560528000",1.91,1,337
+75709,"Room Révolution in trendy Marais",402365,"Marie-Christine",NA,"Temple",48.85756,2.36519,"Private room",99,2,213,"1561910400",2.1,2,265
+76348,"Separate room with private bathroom",407462,"Helene",NA,"Gobelins",48.82417,2.35078,"Private room",27,7,36,"1532448000",0.36,1,238
+77482,"LOFT HOUSE 150sqm (4bd/4br) on 3 level floors",396472,"Antoinette",NA,"Batignolles-Monceau",48.88658,2.32538,"Entire home/apt",600,2,435,"1562169600",4.42,1,352
+78366,"Montmartre perfect flat for Family",420656,"Sophie",NA,"Opéra",48.88116,2.33446,"Entire home/apt",110,5,60,"1559404800",0.6,1,93
+79690,"Le MARAIS  Vieille du Temple",152242,"Delphine",NA,"Hôtel-de-Ville",48.85689,2.3577,"Entire home/apt",185,5,7,"1558195200",0.52,6,298
+80260,"Nice studio in Jourdain's village",333548,"Charlotte",NA,"Ménilmontant",48.87146,2.38845,"Entire home/apt",90,2,193,"1538668800",1.93,1,0
+80301,"toits de Paris",433758,"Genevieve",NA,"Panthéon",48.83926,2.34695,"Private room",60,30,35,"1537977600",0.36,2,233
+81106,"BRIGHT & QUIET FLAT - GARE DU NORD",439130,"Edouard",NA,"Buttes-Montmartre",48.88502,2.36017,"Entire home/apt",85,5,51,"1562428800",0.51,1,0
+84820,"Bird's nest in Montmartre: Sun/view all over Paris",464019,"Laure",NA,"Buttes-Montmartre",48.88414,2.33831,"Entire home/apt",79,3,86,"1561478400",0.86,1,16
+84988,"Charming flat only for you (11th)",465014,"Marjolaine",NA,"Popincourt",48.85597,2.38757,"Entire home/apt",53,5,37,"1556121600",0.37,1,2
+85145,"Victor Hugo : ideal for lovers!",402365,"Marie-Christine",NA,"Temple",48.85659,2.36502,"Private room",125,2,74,"1561564800",0.78,2,278
+86053,"Charmful flat facing a gothic church!",296615,"Richard",NA,"Louvre",48.86015,2.34198,"Entire home/apt",190,3,128,"1562256000",1.37,1,191
+87481,"ST GERMAIN 1 bed High ceiling ,AC and LIFT",438828,"Polo",NA,"Luxembourg",48.85624,2.33838,"Entire home/apt",155,30,18,"1553961600",0.19,2,139
+87590,"Cosy 70m2 top floor, city heart",475878,"Loic",NA,"Entrepôt",48.87039,2.3611,"Entire home/apt",150,6,11,"1318262400",0.11,1,106
+87732,"The Eiffel Tower Lookout",480428,"Barthelemy Brendan",NA,"Vaugirard",48.84118,2.31775,"Entire home/apt",105,4,54,"1559664000",1.35,2,149
+91139,"Romantic Flat on mews, 1 Bedrm",492966,"April",NA,"Gobelins",48.8302,2.35406,"Entire home/apt",95,365,15,"1533312000",0.18,1,364
+93287,"MONTORGUEIL BEAUTIFUL APARTMENT",500672,"Jean-François",NA,"Bourse",48.86599,2.34747,"Entire home/apt",134,3,291,"1560960000",2.93,2,165
+94270,"Artist's atelier in Montparnasse",276063,"Guglielmo",NA,"Observatoire",48.83638,2.33082,"Entire home/apt",140,4,22,"1560009600",0.22,2,35
+94711,"SWEET APT... near Menilmontant",505518,"Géraldine",NA,"Ménilmontant",48.86428,2.39393,"Entire home/apt",55,7,12,"1558627200",0.13,1,206
+95915,"Apt de charme 2 pieces 35m terrasse",97702,"Julie",NA,"Popincourt",48.85538,2.38957,"Entire home/apt",80,2,10,"1562342400",0.1,1,223
+97286,"The Eiffel Tower Tradition",480428,"Barthelemy Brendan",NA,"Vaugirard",48.84079,2.31731,"Entire home/apt",105,4,76,"1561478400",2.38,2,211
+97773,"Loft/apt 1970sqft - Heart of Paris",517155,"Barbara",NA,"Popincourt",48.85535,2.37214,"Entire home/apt",389,3,39,"1560528000",0.4,1,333
+97992,"A few steps away from Montmartre",517814,"Isabelle",NA,"Buttes-Montmartre",48.89048,2.34504,"Entire home/apt",119,3,18,"1412956800",0.18,1,0
+100779,"BedRoom in a 48m² parisian flat in the center",166638,"Polyca",NA,"Popincourt",48.86232,2.37465,"Private room",55,2,6,"1561132800",0.06,1,177
+101682,"Tiny Flat near Place d'Italie",532468,"Delphine",NA,"Gobelins",48.82671,2.35568,"Entire home/apt",50,31,84,"1561651200",0.88,1,284
+105210,"Quiet, nice apt in """"Le Marais""""m",546512,"Michel",NA,"Temple",48.86396,2.35408,"Entire home/apt",150,4,228,"1561910400",2.3,1,183
+106220,"lovely and cozy paris (3ème arrndt)",550653,"Ilana",NA,"Temple",48.86764,2.35836,"Entire home/apt",115,9,9,"1500998400",0.09,1,1
+107038,"In the heart of Montmartre",554431,"Aurore",NA,"Buttes-Montmartre",48.88569,2.34514,"Entire home/apt",100,7,199,"1560355200",2.04,1,75
+108025,"Quiet studio in Le Marais -  Paris",556375,"Thomas",NA,"Popincourt",48.86485,2.36667,"Entire home/apt",60,1,35,"1431360000",0.36,3,42
+108591,"Luxury 1600 sqft on Champs Elysees with A/C",561870,"Madame D",NA,"Élysée",48.87283,2.29638,"Entire home/apt",449,4,20,"1561824000",0.46,2,291
+109161,"QUIET&COSY FLAT IN LATIN DISTRICT",564058,"Marie-Odile",NA,"Panthéon",48.84473,2.35309,"Entire home/apt",120,3,146,"1560009600",1.48,1,250
+109385,"Great view. Two real beds. Republique/Belleville.",564819,"Gianni",NA,"Entrepôt",48.87151,2.37141,"Entire home/apt",80,5,59,"1561305600",0.65,2,207
+110322,"Balcon au 5eme Ciel quiet romantic",433758,"Genevieve",NA,"Panthéon",48.84023,2.34573,"Entire home/apt",150,3,15,"1547827200",0.15,2,203
+111155,"Be a Guest in typical, sweet Paris",569938,"Aurelia",NA,"Buttes-Chaumont",48.87631,2.39084,"Entire home/apt",70,7,21,"1470931200",0.21,1,182
+111270,"charming flat near Champs-Elysées",570314,"François & Pascale",NA,"Batignolles-Monceau",48.87961,2.29445,"Entire home/apt",60,5,53,"1546358400",0.54,2,2
+113011,"Confortable flat - Ideal for 2 !",162708,"Vérane & Thomas",NA,"Ménilmontant",48.87249,2.39491,"Entire home/apt",45,10,5,"1557504000",0.1,1,42
+114543,"Charming 55m² flat - Eiffel Tower",581233,"Frédéric",NA,"Vaugirard",48.84953,2.29022,"Entire home/apt",95,4,45,"1562601600",1.12,1,191
+115655,"Family loft with a garden in Paris!",584977,"Fabien And Rachael",NA,"Buttes-Montmartre",48.89269,2.36512,"Entire home/apt",130,30,118,"1560873600",1.93,1,341
+118731,"****NICE**** Cheap *** GOOD bed****ALL PRIVATE****",599491,"Lea",NA,"Batignolles-Monceau",48.89509,2.32202,"Entire home/apt",49,6,289,"1560268800",2.97,1,49
+119569,"Lovely Flat to rent in Paris 11th",603393,"Peggy",NA,"Popincourt",48.8611,2.38275,"Entire home/apt",35,15,5,"1496592000",0.05,1,191
+120494,"Romantic Hideout in Paris",606427,"Amy Et Suzette",NA,"Gobelins",48.83063,2.35377,"Entire home/apt",69,3,300,"1558886400",3.06,1,34
+121893,"PARIS 2EME LOFT/STUDIO RETRO DESIGN 55m2",281054,"Sharon",NA,"Bourse",48.86806,2.34744,"Entire home/apt",109,1,52,"1562256000",0.59,1,2
+122179,"Cirque d'hiver / Marais/ République",612687,"Marie",NA,"Temple",48.86541,2.36491,"Entire home/apt",110,5,187,"1562169600",1.91,1,238
+122222,"CHARMING STUDIO near BASTILLE",612215,"Olivier",NA,"Popincourt",48.85344,2.38713,"Entire home/apt",65,6,65,"1560182400",0.66,1,132
+128796,"Studio Marais near Place des Vosges",636362,"Studio St Paul",NA,"Hôtel-de-Ville",48.8551,2.36271,"Entire home/apt",88,1,156,"1561737600",1.59,1,365
+130213,"Charming flat Luxembourg garden",641445,"Julie",NA,"Luxembourg",48.84813,2.32856,"Entire home/apt",135,5,45,"1561305600",0.46,1,25
+130420,"Charming Apartment 2BR in Paris 9e",641777,"Yassine",NA,"Opéra",48.88066,2.3442,"Entire home/apt",175,1,146,"1562083200",1.49,1,351
+132994,"charmant studio dans le marais",653074,"Victoire",NA,"Temple",48.8634,2.35826,"Entire home/apt",90,3,35,"1489334400",0.36,1,190
+136687,"Nice studio Latin district/Sorbonne",656386,"Emanuele - Maria",NA,"Panthéon",48.84218,2.35008,"Entire home/apt",90,90,8,"1515168000",0.09,35,284
+136872,"1-bedroom Paris apt. (Invalides)",669739,"Fabien",NA,"Palais-Bourbon",48.85228,2.31132,"Entire home/apt",140,120,10,"1500739200",0.14,1,365
+137112,"Quiet Loft  Bastille-Père Lachaise",670637,"Pablo",NA,"Popincourt",48.85626,2.38844,"Entire home/apt",120,3,186,"1561478400",1.89,1,361
+137857,"Nice and lovely flat ! Paris- 28m2",673733,"Célia",NA,"Ménilmontant",48.85566,2.39708,"Entire home/apt",40,7,7,"1559750400",0.1,1,173
+138548,"Romantic studio in center of Paris",676353,"Danielle",NA,"Bourse",48.86384,2.34932,"Entire home/apt",110,90,292,"1546531200",2.97,1,0
+139889,"A summer house in Paris",630305,"Philippe (Mario)",NA,"Buttes-Chaumont",48.89232,2.37926,"Entire home/apt",150,7,17,"1534521600",0.23,1,32
+140211,"STUDIO APT CITY CENTRE FOR NEW YEAR",683098,"Freddy",NA,"Bourse",48.86602,2.35117,"Private room",50,1,0,"",NA,1,0
+140355,"TOP FLAT BUTTES CHAUMONT PARKING AND FREE COFFEE",683627,"Nadege",NA,"Buttes-Chaumont",48.87488,2.37725,"Entire home/apt",67,2,159,"1561132800",2.75,1,79
+141727,"appartment for a couple in Paris",689117,"Anne-Cécile",NA,"Ménilmontant",48.85632,2.40521,"Entire home/apt",40,2,1,"1310227200",0.01,1,277
+142507,"Great Studio - 10 Min of Notre Dame",596692,"Martin",NA,"Gobelins",48.82521,2.35752,"Entire home/apt",50,1,91,"1562428800",1.05,2,203
+144559,"1076 sq feet Home in MONTMARTRE",700490,"Didier",NA,"Buttes-Montmartre",48.8936,2.34587,"Entire home/apt",133,4,47,"1548432000",0.48,1,100
+145473,"Family friendly 80m2 heart of Paris",704379,"Elodie Et Simon",NA,"Temple",48.86542,2.35231,"Entire home/apt",190,2,21,"1546358400",0.21,1,30
+146926,"Heart of Paris Charming 2 bedrooms",551556,"Amélie",NA,"Entrepôt",48.87061,2.36778,"Entire home/apt",120,4,2,"1534003200",0.02,1,3
+148360,"Lovely Studio, Canal Saint Martin",5780909,"Carole",NA,"Entrepôt",48.87173,2.36553,"Entire home/apt",65,4,110,"1531065600",1.12,1,0
+148675,"SUNNY & QUIET STUDIO WITH FREE PARKING",707788,"Jerome",NA,"Gobelins",48.82877,2.34918,"Entire home/apt",80,2,141,"1557072000",1.48,2,234
+148885,"Studio on a high floor Eiffel Tower",718576,"Milena",NA,"Passy",48.85855,2.28978,"Entire home/apt",160,90,40,"1547049600",0.41,4,32
+149534,"GREAT WARM FULL APT LE HAUT MARAIS",715590,"Eric",NA,"Temple",48.86636,2.36184,"Entire home/apt",169,5,32,"1561392000",0.35,1,355
+149695,"LOFT with a view on the Sacre Coeur",9845,"Marion",NA,"Opéra",48.88222,2.34465,"Entire home/apt",95,6,9,"1437580800",0.1,1,283
+149959,"Cocoon in Canal Saint Martin",646162,"Arletty",NA,"Entrepôt",48.87488,2.36509,"Entire home/apt",120,3,97,"1560182400",1.02,1,0
+150751,"3bdr loft Canal St Matin Belleville",108584,"ALicia",NA,"Entrepôt",48.87065,2.37263,"Entire home/apt",180,2,2,"1476460800",0.02,1,365
+150800,"PRIVATE BEDROOM TYPICAL PARIS APT 1",726311,"Anne",NA,"Buttes-Chaumont",48.87439,2.38476,"Private room",40,1,17,"1539532800",0.17,5,356
+151020,"PARIS CENTER BEAUTIFUL 1 BEDROOM",727223,"Cedric",NA,"Bourse",48.86421,2.34815,"Entire home/apt",100,1,49,"1546272000",0.51,1,3
+151935,"★LOVELY St-Germain-Des-Prés & Louvre Apartment★",731088,"Kevin",NA,"Palais-Bourbon",48.85509,2.32809,"Entire home/apt",90,7,191,"1561824000",2.14,2,10
+153190,"Le Petit Paradis de Paris",736580,"Chantal & Georges",NA,"Panthéon",48.85289,2.34524,"Entire home/apt",128,7,71,"1561305600",0.82,1,243
+153674,"Sunny flat- 1 bedroom & living room (30m2)",739021,"Catherine",NA,"Entrepôt",48.88183,2.3651,"Entire home/apt",80,4,174,"1562169600",1.78,1,110
+154292,"Stylish apt, designed by architect",137719,"Mattis",NA,"Buttes-Chaumont",48.87562,2.38597,"Entire home/apt",65,5,36,"1557158400",0.37,1,100
+154984,"PRIVATE BEDROOM TYPICAL PARIS APT 2",726311,"Anne",NA,"Buttes-Chaumont",48.87442,2.3834,"Private room",40,1,18,"1507564800",0.18,5,362
+155072,"ROOM WITH VIEW ON ALL PARIS/CENTRAL",726311,"Anne",NA,"Buttes-Chaumont",48.8746,2.38487,"Private room",40,1,10,"1476633600",0.1,5,350
+155540,"Painter's works in Paris-Montmartre",748129,"Joel",NA,"Buttes-Montmartre",48.88575,2.35228,"Entire home/apt",70,10,6,"1412697600",0.06,1,160
+156309,"A deux pas de Montmartre ....",751415,"Corto",NA,"Buttes-Montmartre",48.88436,2.35258,"Entire home/apt",80,7,2,"1559318400",0.86,1,257
+156649,"Private Room - Pere Lachaise",209754,"Antonio",NA,"Popincourt",48.86311,2.38591,"Private room",89,2,1,"1309276800",0.01,1,365
+157240,"Bright studio-flat to rent",755412,"Thomas",NA,"Ménilmontant",48.87252,2.38956,"Entire home/apt",50,5,6,"1558886400",0.29,1,227
+158027,"Lovely double room - Paris centre",758589,"Louise Et Louis",NA,"Ménilmontant",48.85866,2.40049,"Private room",39,5,66,"1542556800",0.68,2,37
+159077,"Hidden gem in the center of Paris",763328,"Noemie",NA,"Popincourt",48.87036,2.37618,"Entire home/apt",49,80,29,"1526745600",0.3,1,0
+160220,"Paris Centre Wonderful neighborhood",767876,"Pelin",NA,"Bourse",48.86619,2.34482,"Entire home/apt",65,1,3,"1340812800",0.03,1,100
+160554,"Chambre Paris Canal Saint Martin",727413,"Pascal",NA,"Entrepôt",48.87572,2.37005,"Private room",60,3,9,"1561132800",3.33,1,113
+161703,"Very nice Parisian apartment",773449,"Nosybe",NA,"Buttes-Montmartre",48.88735,2.34295,"Private room",88,15,0,"",NA,1,365
+162163,"Amazing design flat heart of Paris close to sights",775000,"Justin & Catherine",NA,"Élysée",48.87373,2.32456,"Entire home/apt",59,1,593,"1562428800",6.25,2,320
+163384,"PRIVATE BEDROOM TYPICAL PARIS APT 3",726311,"Anne",NA,"Buttes-Chaumont",48.87497,2.38483,"Private room",40,1,18,"1496505600",0.19,5,358
+163655,"1BDR Charming & typical appartment!",780982,"Alexandre",NA,"Entrepôt",48.87804,2.36517,"Entire home/apt",100,4,4,"1365091200",0.05,1,81
+164255,"35m² flat - Marais - Central Paris",777614,"David",NA,"Temple",48.8614,2.3643,"Entire home/apt",69,3,72,"1561824000",0.76,1,11
+165409,"studio charme Haut Marais PARIS",788732,"Marylin & Ophelie",NA,"Temple",48.86623,2.36213,"Entire home/apt",89,2,72,"1555257600",0.75,1,0
+166370,"Big  appartment with view",793032,"Thibaut",NA,"Entrepôt",48.87641,2.36748,"Entire home/apt",160,2,75,"1562256000",0.79,1,362
+166679,"Chic, Cozy, Central Apt Near Montmartre (9th Arr)",794093,"Michael",NA,"Opéra",48.87893,2.3472,"Entire home/apt",100,7,4,"1422720000",0.04,1,242
+167998,"Cosy luxe, central Paris.",469865,"Louise",NA,"Louvre",48.86606,2.3304,"Entire home/apt",300,1,112,"1560873600",1.22,1,324
+168217,"Calm&Nice 2p. 34m2, Buttes Chaumont",801658,"Emilie",NA,"Buttes-Chaumont",48.87906,2.3887,"Entire home/apt",70,300,2,"1469980800",0.05,1,365
+168652,"Appt 35m²  in Paris18e",803981,"Elsa",NA,"Buttes-Montmartre",48.88889,2.35566,"Entire home/apt",65,3,74,"1560268800",0.91,1,250
+168695,"studio flat close to Eiffel Tower en bail mobilité",804158,"Serge",NA,"Passy",48.84884,2.27446,"Entire home/apt",25,30,8,"1537718400",0.13,1,7
+168757,"Charming apartment Paris Marais",804390,"Fiona",NA,"Temple",48.85835,2.36437,"Entire home/apt",120,5,123,"1555862400",1.73,2,296
+169050,"Student room 1p near Arc deTriomphe",805564,"Carole",NA,"Batignolles-Monceau",48.88094,2.29474,"Private room",59,10,39,"1561910400",0.4,3,215
+170327,"A cosy room in PARIS - above Canal",811980,"Lyosha",NA,"Buttes-Chaumont",48.88702,2.37735,"Private room",38,1,6,"1546790400",0.13,1,131
+170599,"Sunny modern studio in Gambetta",813809,"Natacha",NA,"Ménilmontant",48.86756,2.40265,"Entire home/apt",35,20,12,"1498752000",0.13,1,191
+171159,"Lovely little nest near the Opera!",193142,"Carole",NA,"Élysée",48.8758,2.32622,"Entire home/apt",60,2,260,"1561478400",2.7,1,80
+171658,"In the Chinese quarter of Paris",819015,"David",NA,"Gobelins",48.82425,2.36236,"Entire home/apt",70,7,8,"1535212800",0.11,1,198
+171664,"Cosy Apartment in Montmartre !",819051,"Sebastiano",NA,"Buttes-Montmartre",48.88801,2.34548,"Entire home/apt",85,4,14,"1398009600",0.15,2,242
+172026,"Cute 2 room appt - Heart of Les Batignolles",820786,"Adrien",NA,"Élysée",48.88242,2.32243,"Entire home/apt",55,4,11,"1483027200",0.12,1,0
+173294,"Peaceful and sunny studio. Paris. Baille Mobilité",825857,"Areg",NA,"Entrepôt",48.88228,2.35047,"Entire home/apt",60,30,27,"1549728000",0.45,1,203
+173734,"Montmartre's Heart : Amelie Poulain",829646,"Eric",NA,"Buttes-Montmartre",48.88495,2.33809,"Entire home/apt",85,3,129,"1560873600",1.41,1,43
+174048,"Paris La Chapelle /// 45m²",831317,"Charline",NA,"Buttes-Montmartre",48.88517,2.36317,"Entire home/apt",60,1,28,"1558627200",0.47,1,281
+175338,"Beautiful apt for 2 - Eiffel Tower",738410,"Olivier",NA,"Vaugirard",48.85063,2.29867,"Entire home/apt",150,2,49,"1561478400",0.57,1,56
+177838,"Amazing location,  2-bedroom Flat",850565,"Genevieve",NA,"Panthéon",48.85021,2.34857,"Entire home/apt",150,5,160,"1560182400",1.67,1,111
+177892,"Five minute walk to flea markets",804438,"Mary B",NA,"Buttes-Montmartre",48.89623,2.34614,"Entire home/apt",56,5,2,"1399651200",0.02,1,283
+178188,"Charming & bright 1-Bedroom Apt / 3 min to metro",852658,"Camille",NA,"Ménilmontant",48.86654,2.40583,"Entire home/apt",69,1,48,"1556380800",0.54,1,0
+178899,"Charming Apartment - Père Lachaise",856488,"Sarah",NA,"Ménilmontant",48.85887,2.39049,"Entire home/apt",100,4,28,"1561564800",0.61,1,134
+179149,"Charming quiet flat in Bastille",857641,"Ludivine",NA,"Popincourt",48.85409,2.37202,"Entire home/apt",80,4,0,"",NA,1,0
+179604,"Cosy flat in fancy Marais, Paris",787903,"Edouard",NA,"Temple",48.85966,2.36572,"Entire home/apt",79,2,34,"1468080000",0.35,1,0
+179817,"Charming studio with a terrace 5P Wi-Fi",861010,"Alain",NA,"Vaugirard",48.84322,2.31418,"Entire home/apt",88,4,139,"1562256000",1.49,2,278
+179872,"A lovely nest, easy to live, nice neighborhood",861518,"Julien",NA,"Ménilmontant",48.85514,2.4008,"Entire home/apt",53,4,5,"1553961600",0.06,1,15
+180331,"Lovely 1 Bedroom Flat in the Heart of PARIS",863908,"Alexandra",NA,"Bourse",48.86713,2.34748,"Entire home/apt",90,2,142,"1498492800",1.47,1,0
+180348,"Left Bank, Classic Parisian Charm  ",864023,"Deborah",NA,"Luxembourg",48.84531,2.32137,"Entire home/apt",86,5,114,"1561824000",1.19,1,14
+180627,"Marais:great 2BR + 2 sleeping lofts",656386,"Emanuele - Maria",NA,"Hôtel-de-Ville",48.85778,2.35886,"Entire home/apt",126,90,20,"1534176000",0.23,35,212
+180950,"Charming  furnished studio in Paris",876958,"Dominique",NA,"Temple",48.86767,2.35799,"Entire home/apt",59,1,134,"1561392000",1.76,1,96
+182744,"Oh ! nice view ! - paris Center",872647,"Jean François",NA,"Popincourt",48.85887,2.37041,"Entire home/apt",130,3,134,"1562342400",1.41,1,132
+182830,"Cosy bedroom 1p / Arc de Triomphe",805564,"Carole",NA,"Batignolles-Monceau",48.87957,2.29519,"Private room",74,5,83,"1556985600",0.87,3,286
+183599,"Champs Elysees Chic- Charming",876138,"Dina",NA,"Élysée",48.8746,2.31328,"Entire home/apt",300,3,1,"1372176000",0.01,1,328
+183913,"Duplex(Link-up) on TERRACE and GARD",882501,"Marie",NA,"Gobelins",48.8255,2.3741,"Private room",140,1,1,"1527696000",0.07,1,365
+184031,"Architecte apartment near Montmartre",882806,"Nathalie",NA,"Buttes-Montmartre",48.89305,2.33109,"Entire home/apt",30,3,27,"1558368000",0.28,1,59
+185068,"Charming and calm apartment",888150,"Mania",NA,"Ménilmontant",48.86678,2.39839,"Private room",46,20,10,"1545321600",0.12,1,136
+185575,"PEACEFUL OASIS IN THE MONTMARTRE",398254,"Heide",NA,"Buttes-Montmartre",48.89318,2.35261,"Entire home/apt",75,3,211,"1561824000",2.21,1,13
+185842,"★★★★ Parisian Experts Receive You",892556,"Peggy & Jeff",NA,"Buttes-Chaumont",48.89309,2.37777,"Private room",65,4,172,"1559404800",1.81,1,347
+186896,"Entire home/apt in Paris",137851,"Flavia",NA,"Palais-Bourbon",48.86051,2.30585,"Entire home/apt",94,4,16,"1525017600",0.77,1,0
+187570,"Big Loft 170 m² Canal Saint Martin",902558,"Marie",NA,"Entrepôt",48.87449,2.36437,"Entire home/apt",190,5,12,"1509724800",0.13,1,14
+189378,"Room in trendy & lively area",913715,"Magda",NA,"Entrepôt",48.87038,2.35406,"Private room",30,3,103,"1559232000",1.09,2,69
+189589,"Bedroom, Paris, Canal St martin",914660,"Célia",NA,"Entrepôt",48.87377,2.36379,"Private room",50,1,31,"1531411200",0.32,1,0
+191531,"LOVELY DUPLEX  IN  LE  MARAIS",926484,"Alex",NA,"Temple",48.86322,2.36255,"Entire home/apt",150,1,0,"",NA,1,0
+192162,"5th Heaven: Quartier Latin Studio",909793,"Cristina",NA,"Panthéon",48.84927,2.35354,"Entire home/apt",76,3,375,"1561392000",4.42,1,174
+192311,"Superb large two bedroom",931338,"Barbara",NA,"Gobelins",48.82592,2.34464,"Entire home/apt",90,270,4,"1499702400",0.08,1,0
+192540,"Bed and Breakfast- Lower Montmartre",932565,"Guillaume",NA,"Buttes-Montmartre",48.89048,2.34864,"Private room",55,3,135,"1542902400",1.4,1,0
+193620,"Bright and cosy parsisian studio",939326,"Amélie",NA,"Observatoire",48.82862,2.32976,"Entire home/apt",40,2,22,"1544371200",0.23,1,0
+193632,"Charming Studio - Heart of Marais",777533,"Celine",NA,"Temple",48.86188,2.35846,"Entire home/apt",95,2,415,"1561132800",4.37,1,233
+195564,"Charming apartment in Paris (13)",938912,"Mehdi",NA,"Gobelins",48.82699,2.37108,"Entire home/apt",45,2,38,"1554825600",0.52,1,321
+195927,"Wonderful flat (130m²) in the heart of Montmartre",952923,"Deconinck",NA,"Buttes-Montmartre",48.88241,2.3413,"Entire home/apt",300,2,21,"1561392000",0.22,1,20
+197609,"1 bedroom+1 alcove bedroom DOWNTOWN",656386,"Emanuele - Maria",NA,"Bourse",48.86721,2.34344,"Entire home/apt",190,90,6,"1556812800",0.06,35,12
+197763,"Eiffel Tower at your footsteps",964536,"Greta",NA,"Palais-Bourbon",48.85874,2.3062,"Entire home/apt",300,3,156,"1560700800",1.65,1,46
+200436,"Nice flat in Paris",792411,"Francine",NA,"Reuilly",48.83663,2.39469,"Entire home/apt",55,3,1,"1546358400",0.16,1,362
+200845,"Studio in 16th next to Eiffel Tower",982391,"Edouard",NA,"Passy",48.86349,2.29162,"Entire home/apt",72,90,166,"1517932800",1.73,1,283
+201257,"Parisian style flat near Republique",984209,"Pierre & Gabrielle",NA,"Popincourt",48.86747,2.37064,"Entire home/apt",160,4,80,"1546272000",0.89,1,0
+202782,"Lovely Apartment in Montmartre",993278,"Thomas",NA,"Buttes-Montmartre",48.89046,2.34247,"Entire home/apt",99,15,232,"1533484800",2.6,1,286
+203116,"4 ROOMS WITH VIEW OF THE EIFFEL TOUR",995645,"Lucia",NA,"Vaugirard",48.84499,2.29425,"Entire home/apt",172,3,119,"1560700800",1.37,6,84
+205140,"Faubourg organic calm bnb Bastille",1008345,"Olivier & Barbara",NA,"Reuilly",48.84714,2.38744,"Private room",85,1,98,"1562256000",1.18,2,176
+206216,"Sweet (Website hidden by Airbnb) a lovely place !",1014239,"Camille",NA,"Buttes-Montmartre",48.89518,2.34291,"Entire home/apt",50,3,12,"1371916800",0.13,1,0
+206625,"City center loft next to Bastille",1016513,"Elodie",NA,"Popincourt",48.85469,2.38294,"Entire home/apt",75,2,4,"1371398400",0.05,1,0
+208080,"Duplex in the heart of the Latin Quarter",1024111,"Valérie",NA,"Panthéon",48.84973,2.34868,"Entire home/apt",160,2,202,"1562515200",2.14,1,260
+209025,"CHARMING FAMILY FLAT IN BATIGNOLLE",1029694,"Christophe",NA,"Batignolles-Monceau",48.88616,2.32223,"Entire home/apt",550,7,13,"1464019200",0.15,1,363
+209796,"Charming parisian house",1033854,"Assia",NA,"Buttes-Chaumont",48.88607,2.38251,"Entire home/apt",50,5,54,"1546358400",0.57,1,277
+212853,"Best spot/ParisVIEW in MONTMARTRE",1097498,"Agnès Jan",NA,"Buttes-Montmartre",48.88462,2.33844,"Entire home/apt",129,3,222,"1561564800",2.34,1,57
+213360,"Paris Montmartr (Website hidden by Airbnb) personnes",1100291,"Laurence",NA,"Buttes-Montmartre",48.89103,2.33812,"Entire home/apt",75,7,19,"1467734400",0.22,1,160
+213667,"appartment marais/pompidou",892387,"Olivier",NA,"Hôtel-de-Ville",48.8588,2.34887,"Entire home/apt",110,3,71,"1562601600",0.93,1,161
+213744,"Lovely, modern, comfortable flat",467797,"Jacqueline",NA,"Ménilmontant",48.85048,2.40161,"Entire home/apt",95,30,0,"",NA,1,365
+214046,"2 bed Marais Rue Vieille du Temple",438828,"Polo",NA,"Hôtel-de-Ville",48.85661,2.35635,"Entire home/apt",195,30,179,"1560441600",1.89,2,190
+214217,"MARAIS COSY",674521,"Jerome",NA,"Hôtel-de-Ville",48.85697,2.35904,"Entire home/apt",189,2,107,"1553875200",1.13,17,0
+214578,"Cosy Duplex Paris Private Bedroom",972051,"Cyril",NA,"Entrepôt",48.87503,2.35585,"Private room",60,4,231,"1560182400",2.43,1,347
+214596,"appartement in Paris 14eme",1107785,"Sorina",NA,"Observatoire",48.82435,2.33219,"Entire home/apt",50,6,0,"",NA,1,0
+215638,"APARTMENT IN THE """"SOHO"""" OF PARIS",1113009,"Viviana",NA,"Bourse",48.86526,2.34421,"Entire home/apt",70,2,218,"1558800000",2.33,1,298
+215756,"1BR apartment w/ Eiffel Tower view (bail mobilité)",1113790,"Graciela & Carla PLOUIN",NA,"Panthéon",48.84635,2.34198,"Entire home/apt",98,120,44,"1551801600",0.5,1,199
+215763,"Chic and cosy central flat",1113807,"Franck",NA,"Entrepôt",48.8716,2.36204,"Entire home/apt",60,10,42,"1562515200",0.44,1,54
+216546,"Stylish, Sun-drenched Oberkampf Apt",1117732,"Jami And Kris",NA,"Popincourt",48.86496,2.37776,"Entire home/apt",150,120,1,"1338048000",0.01,1,364
+218836,"GREAT PLACE TO BE IN ST GERMAIN",656386,"Emanuele - Maria",NA,"Luxembourg",48.84934,2.33879,"Entire home/apt",115,30,6,"1465833600",0.07,35,119
+219564,"LOFT IN THE 8th (view, terrace...)",189040,"Morgane & Quentin",NA,"Élysée",48.88126,2.32379,"Entire home/apt",130,7,5,"1432310400",0.08,1,0
+219871,"Private & quiet with green patio",1138741,"Bill",NA,"Popincourt",48.86464,2.38298,"Entire home/apt",70,4,79,"1561305600",0.83,2,258
+220063,"Cosy and calm appart in Montmatre",1140685,"Yann",NA,"Buttes-Montmartre",48.88483,2.34387,"Private room",65,3,254,"1561478400",2.69,2,276
+220276,"Paris Montmartre - Marché St Pierre",1141263,"Suzanne",NA,"Buttes-Montmartre",48.88366,2.34471,"Entire home/apt",90,6,19,"1561305600",0.22,1,33
+221754,"Magic Loft+Private Outdoor 10th arr",1150845,"Valerie",NA,"Entrepôt",48.88393,2.36726,"Entire home/apt",85,1,253,"1562169600",2.68,1,134
+221844,"Why do our guests return so often?",1138741,"Bill",NA,"Popincourt",48.86485,2.38347,"Entire home/apt",90,4,36,"1561046400",0.38,2,339
+222369,"Charming Cosy Duplex Paris Maillot",1153405,"Emmanuel",NA,"Batignolles-Monceau",48.88002,2.28633,"Entire home/apt",99,4,6,"1509811200",0.07,1,160
+222707,"A Parisienne Dream under Montmartre",1156650,"Delphine",NA,"Opéra",48.88225,2.33273,"Entire home/apt",179,2,34,"1524326400",0.36,1,345
+225747,"Exactly in Saint Germain des Prés",1176386,"Isabelle",NA,"Luxembourg",48.85261,2.33198,"Entire home/apt",230,6,73,"1560787200",0.77,1,246
+226556,"charming room in lovely flatshare",1181306,"Jen",NA,"Temple",48.86118,2.36579,"Private room",70,3,21,"1438099200",0.24,2,0
+227521,"Fully renovated flat - Paris 16",1186733,"Jean",NA,"Vaugirard",48.8471,2.27667,"Entire home/apt",89,15,18,"1540828800",0.19,1,0
+227846,"2 room cosy flat / Montmartre",1188610,"Leslie",NA,"Buttes-Montmartre",48.8899,2.34589,"Entire home/apt",45,2,5,"1498406400",0.18,1,0
+229501,"Sunny apartment in  Montmartre",1175281,"Isabelle",NA,"Buttes-Montmartre",48.88284,2.33843,"Entire home/apt",170,2,108,"1562601600",1.27,1,193
+230036,"SPLENDID MONTMARTRE APARTMENT",1172903,"Guillaume",NA,"Opéra",48.88221,2.34487,"Entire home/apt",79,1,76,"1561132800",0.92,1,194
+230616,"Deluxe 1 Bed Home in Marais Paris",1205362,"Edwin",NA,"Temple",48.86499,2.35406,"Entire home/apt",295,4,25,"1535817600",0.27,3,341
+231442,"Paris' Marais exquisite studio flat",1210122,"Judith",NA,"Temple",48.86074,2.35777,"Entire home/apt",150,2,92,"1561651200",1.11,1,27
+232293,"Cosy studio near Champs Elysees",1215154,"Fabrice",NA,"Batignolles-Monceau",48.8834,2.29878,"Entire home/apt",65,6,120,"1557590400",1.5,1,0
+232437,"Studio vintage in Paris Downtown",515870,"Brice",NA,"Ménilmontant",48.87151,2.38956,"Entire home/apt",100,5,95,"1535040000",1.01,1,0
+232956,"A flat B&B in a district of artists",1219288,"Dorothée",NA,"Observatoire",48.83059,2.32499,"Private room",95,1,135,"1562428800",1.56,1,354
+233110,"Top floor apartment in Le Marais",1220078,"Sebastien",NA,"Temple",48.86282,2.36638,"Entire home/apt",152,6,175,"1559404800",1.86,2,267
+233401,"cozy & bright room in paris",1221660,"Nina",NA,"Buttes-Chaumont",48.89148,2.38165,"Private room",35,4,16,"1428595200",0.18,1,0
+234926,"Midnight in Paris Studio 75005",1230328,"Rachele",NA,"Panthéon",48.84725,2.34744,"Entire home/apt",85,3,167,"1562688000",2.21,1,5
+240434,"Beautiful apartment in the 17eme",1210696,"Françoise",NA,"Batignolles-Monceau",48.88526,2.31987,"Entire home/apt",96,6,1,"1432656000",0.02,1,0
+240484,"ETOILE FOCH MAILLOT - FULL SERVICE RENOVATED FLAT",1260856,"Elisabeth",NA,"Passy",48.87447,2.28254,"Entire home/apt",225,5,24,"1561737600",0.28,1,362
+240930,"Street art Montmartre up to 5guests",1014188,"Lilou",NA,"Buttes-Montmartre",48.88785,2.35215,"Entire home/apt",95,3,49,"1562601600",0.54,1,289
+240938,"ROOM IN A CHARMING FLAT WITH TERRAC",1264200,"Valérie",NA,"Bourse",48.86913,2.35184,"Private room",55,1,583,"1561219200",6.24,2,191
+241770,"Sunny & cosy 100 sqm flat down Montmartre",1269128,"Siriac",NA,"Entrepôt",48.88361,2.34992,"Entire home/apt",125,3,37,"1561305600",0.44,1,10
+242486,"Appartement duplex avec terrasse",1264200,"Valérie",NA,"Bourse",48.86923,2.35238,"Entire home/apt",98,2,8,"1502553600",0.16,2,0
+243040,"Apart Hotel / Paris Opera Madeleine",1275649,"Gwenael",NA,"Élysée",48.87252,2.32433,"Entire home/apt",125,4,57,"1550851200",0.61,2,0
+243738,"Spacious 3 bdr near Canal St Martin",804192,"Stephanie",NA,"Entrepôt",48.87148,2.37028,"Entire home/apt",95,5,6,"1471276800",0.12,2,31
+243961,"Beautifull loft - Grands Boulevards",1280100,"Olivier  Et Elisa",NA,"Entrepôt",48.87338,2.35094,"Entire home/apt",100,4,118,"1561392000",1.52,1,13
+245027,"cozy and welcoming  studio apart",1285443,"Nicolas",NA,"Ménilmontant",48.84837,2.40296,"Entire home/apt",73,5,13,"1549555200",0.15,1,191
+245715,"Apart Hotel, Paris Champs Elysee",1275649,"Gwenael",NA,"Passy",48.86457,2.30115,"Entire home/apt",143,4,38,"1558800000",0.62,2,0
+245981,"Amazing APT, 5 min from Le Marais",1290079,"Edwin De",NA,"Popincourt",48.86758,2.37069,"Entire home/apt",120,4,30,"1509811200",0.34,1,250
+246647,"charming duplex",1293609,"Gilles",NA,"Reuilly",48.84899,2.37928,"Entire home/apt",200,7,5,"1528819200",0.06,1,34
+246667,"Quintessentially Parisian Studio",349484,"Matthieu",NA,"Ménilmontant",48.87323,2.4045,"Entire home/apt",59,4,58,"1556380800",0.66,1,262
+247728,"Apartment Republic Canal St Martin",1298369,"Delphine & Guillaume",NA,"Popincourt",48.86857,2.36975,"Entire home/apt",80,4,49,"1559404800",0.52,2,2
+247764,"appartment next to canal st martin",1298530,"Laure",NA,"Entrepôt",48.87457,2.36063,"Entire home/apt",80,3,26,"1561737600",0.28,1,297
+249304,"Bright 5th flr aptmnt near Voltaire + Bastille",1306131,"James",NA,"Popincourt",48.86,2.37921,"Entire home/apt",45,7,0,"",NA,1,0
+250378,"Kids Welcome Apartment """"Le Marais""""",1312192,"Laetitia",NA,"Temple",48.85969,2.36487,"Entire home/apt",170,2,25,"1560096000",0.27,1,206
+252049,"Grand appartement, 2 chambres, 2 salles de bain",1322340,"Mireille",NA,"Popincourt",48.85412,2.37444,"Entire home/apt",150,6,33,"1562083200",0.9,1,67
+252095,"2-room apt Buttes-Chaumont 436 P²",624794,"Laurent",NA,"Buttes-Chaumont",48.88229,2.38025,"Entire home/apt",98,2,26,"1537027200",0.29,1,0
+252525,"charming bedroom near  metro OPERA",1164453,"Antonella",NA,"Louvre",48.86673,2.33517,"Private room",55,1,387,"1562601600",4.39,1,13
+253877,"Montmartre Moulin Rouge Constance",1333366,"Alain",NA,"Buttes-Montmartre",48.88593,2.33382,"Entire home/apt",59,3,151,"1559923200",1.64,1,212
+254042,"beautiful room whit privat bathroom",1334325,"Mika",NA,"Entrepôt",48.87421,2.34846,"Private room",105,2,23,"1540569600",0.33,4,365
+254467,"Perfect@Parc Buttes Chaumont Paris",328772,"Louise And Rodney",NA,"Buttes-Chaumont",48.87968,2.37878,"Entire home/apt",95,1,176,"1543075200",1.99,1,190
+255958,"Nice and Trendy in the Marais",1345719,"Camille",NA,"Hôtel-de-Ville",48.85812,2.34965,"Entire home/apt",105,5,33,"1560960000",0.4,1,126
+256643,"Lovely apt, rue Oberkampf Paris 11",1032884,"Daphne",NA,"Popincourt",48.86447,2.37561,"Entire home/apt",90,14,9,"1531929600",0.1,1,0
+256758,"Lovely Flat Right in Paris Center",1347744,"Odile",NA,"Louvre",48.86513,2.33327,"Entire home/apt",150,1,3,"1412956800",0.04,1,160
+259807,"DUPLEX 135m2, 3 BEDROOMS, COURTYARD",1363515,"Loic",NA,"Ménilmontant",48.87343,2.39022,"Entire home/apt",149,4,20,"1556726400",0.22,1,43
+261875,"Paris Lovely flat Mouffetard Monge",1373780,"Isabelle",NA,"Panthéon",48.84275,2.35257,"Entire home/apt",120,4,28,"1538496000",0.3,1,315
+262455,"Paris Apartment 2 Bedrooms Palais R",1377064,"Virginie",NA,"Louvre",48.86337,2.34137,"Entire home/apt",175,2,252,"1506009600",2.98,1,11
+262557,"Joli studio 2 pièces à République",1353874,"Vincent",NA,"Entrepôt",48.87067,2.36195,"Entire home/apt",79,2,113,"1561132800",1.22,1,324
+262778,"Artist Studio near Montmartre-Paris",1373350,"Diane",NA,"Entrepôt",48.88341,2.34997,"Entire home/apt",50,29,20,"1559404800",0.32,1,0
+263020,"Beautiful quiet duplex at Bastille",1380153,"Armelle",NA,"Popincourt",48.85131,2.38344,"Entire home/apt",126,4,45,"1533052800",0.49,1,222
+263044,"Cosy Flat- Paris/Opéra/Saint-Lazare",1380268,"Raphaelle",NA,"Élysée",48.87541,2.32621,"Entire home/apt",120,3,109,"1561219200",1.59,1,78
+263237,"BEAUTIFUL 2 BR w/BALCONY NICE AREA",1345937,"Johanna",NA,"Vaugirard",48.83288,2.29451,"Entire home/apt",170,7,7,"1420646400",0.09,2,0
+263389,"4* HAVEN in trendy North Marais",373051,"Benoit",NA,"Temple",48.86459,2.35958,"Entire home/apt",115,3,261,"1561219200",2.83,1,0
+264167,"PARIS GORGEOUS 2BR+balcony",1345937,"Johanna",NA,"Vaugirard",48.83422,2.29446,"Entire home/apt",170,7,0,"",NA,2,0
+265648,"Heart of Paris on Ile St. Louis",1393124,"Barbara",NA,"Hôtel-de-Ville",48.85196,2.35402,"Entire home/apt",65,4,145,"1560700800",1.84,1,9
+266484,"Lovely Apartment/Bois de Vincennes (with a piano)",1397411,"Hélène",NA,"Ménilmontant",48.84897,2.41614,"Entire home/apt",60,2,27,"1496851200",0.31,1,278
+266648,"Jardin du Luxembourg - Assas Paris",259503,"Marion",NA,"Observatoire",48.84119,2.32999,"Entire home/apt",127,15,39,"1445702400",0.44,2,312
+266725,"Cosy Flat and Eiffel Romantic View at Montmartre",1395914,"Pierre",NA,"Buttes-Montmartre",48.88688,2.33241,"Entire home/apt",115,2,92,"1562515200",1.06,1,324
+266812,"Room fully independent",1399053,"Marielena",NA,"Entrepôt",48.87249,2.36984,"Entire home/apt",45,4,95,"1557763200",1.68,1,130
+266838,"Appartement Paris/Père Lachaise",1387678,"Celina",NA,"Popincourt",48.86515,2.3843,"Entire home/apt",72,1,1,"1386518400",0.01,1,0
+268302,"By the water and up in the sky !",1406251,"Fabienne",NA,"Buttes-Chaumont",48.88743,2.3764,"Entire home/apt",60,3,12,"1545062400",0.15,1,0
+270067,"3 or 4 bedrooms Champs Elysées",1414111,"Christian",NA,"Élysée",48.87307,2.31402,"Entire home/apt",600,3,33,"1562601600",0.44,1,314
+270072,"Apartment campagne, Paris Pyrénées",1414202,"Marjorie",NA,"Buttes-Chaumont",48.87598,2.38562,"Entire home/apt",150,5,5,"1546272000",0.05,1,95
+271825,"ELEGANT COSY STUDIO-TROCADERO/PASSY",1404290,"Joseph",NA,"Passy",48.86108,2.28612,"Entire home/apt",120,7,16,"1556553600",0.18,1,0
+272269,"Appartement Montmartre avec jardin",1424998,"Humfred",NA,"Buttes-Montmartre",48.89173,2.34411,"Entire home/apt",150,2,101,"1561824000",1.16,1,290
+272303,"Luxury Studio in Marais Paris",1205362,"Edwin",NA,"Temple",48.86416,2.35369,"Entire home/apt",125,4,25,"1553788800",0.27,3,314
+272351,"60m2 modern loft - 7th floor with a view - Paris 6",443737,"Alberic",NA,"Luxembourg",48.84469,2.32242,"Entire home/apt",95,3,55,"1560528000",0.6,1,357
+272927,"Sunny Apt in heart of Paris next to Luxembourg Garden",1428257,"Pierre",NA,"Luxembourg",48.84953,2.33907,"Entire home/apt",125,3,94,"1557244800",1.01,3,75
+273423,"Studio tout neuf au coeur de l'île Saint Louis",415933,"Fabrice",NA,"Hôtel-de-Ville",48.85212,2.35664,"Entire home/apt",95,7,24,"1530892800",1.03,1,37
+273662,"Charming Studio - Montmartre (20m2)",1431806,"Vianney",NA,"Buttes-Montmartre",48.8858,2.33878,"Entire home/apt",90,2,0,"",NA,1,0
+273780,"Charming studio in center Paris",1432283,"Sabrina",NA,"Louvre",48.86708,2.32584,"Entire home/apt",89,3,30,"1559577600",0.34,1,219
+274172,"Feuillantines-Panthéon-Luxembourg",1433482,"Sophia",NA,"Panthéon",48.84105,2.34241,"Entire home/apt",147,5,13,"1546444800",0.15,2,307
+274576,"Appartement 2 pièces",1359381,"Virginie",NA,"Buttes-Montmartre",48.88769,2.3496,"Entire home/apt",50,3,6,"1455984000",0.14,1,0
+274590,"Heart of Paris - Louvre Opéra",1435861,"Marie-Laure",NA,"Louvre",48.86562,2.33562,"Entire home/apt",365,4,37,"1562342400",0.43,1,351
+274731,"Love nest - Upper Marais",1436343,"Aurore",NA,"Temple",48.86472,2.36362,"Entire home/apt",140,3,10,"1545926400",0.12,1,0
+274877,"Amazing loft in the heart of Paris",1437168,"Jeremix",NA,"Bourse",48.86624,2.34518,"Entire home/apt",130,3,53,"1561651200",0.59,1,359
+275219,"Chic Studio in the Paris Marais! Book for 2019!!",1438759,"Christine",NA,"Hôtel-de-Ville",48.85653,2.35918,"Entire home/apt",82,4,192,"1561219200",2.16,1,235
+275549,"Your home in Montmartre Sacré Coeur",1012294,"Matt Carter",NA,"Buttes-Montmartre",48.88595,2.34881,"Entire home/apt",90,3,42,"1534089600",0.46,1,159
+275645,"Charming Montmartre flat (up to 3)",1440891,"Agathe",NA,"Buttes-Montmartre",48.88741,2.33577,"Entire home/apt",90,3,106,"1561651200",1.15,1,1
+277077,"Studio flat in the heart of Paris",1447154,"Gilles",NA,"Temple",48.861,2.3585,"Entire home/apt",88,30,108,"1539446400",1.2,1,209
+277555,"Luxurious place close to the Marais",1449299,"Nancy",NA,"Popincourt",48.86287,2.37411,"Private room",59,3,189,"1560873600",2.08,1,146
+277915,"100m2 Apartment Montorgueuil/Marais",1450878,"Jeremy",NA,"Bourse",48.86711,2.35197,"Entire home/apt",190,5,1,"1325606400",0.01,1,0
+278472,"Spacious and atypical loft in Paris",1453283,"Barbara",NA,"Entrepôt",48.87732,2.35306,"Entire home/apt",230,2,16,"1449590400",0.19,1,0
+278815,"Charming Eiffel Tower Houseboat",1446883,"Jean",NA,"Passy",48.8579,2.28725,"Entire home/apt",200,4,140,"1559404800",1.53,1,6
+278842,"COSY OPEN SPACE IN CUTE PARIS!",1454675,"Alexandra",NA,"Opéra",48.87876,2.34331,"Entire home/apt",70,3,27,"1553961600",0.3,1,348
+280475,"**NEW**Super luxury w/Super view",1461981,"Sabah *Sam*",NA,"Passy",48.8597,2.2882,"Entire home/apt",1000,365,0,"",NA,1,364
+281221,"James-Joyce Flat, silent+central",1466028,"Vittorio",NA,"Panthéon",48.84643,2.35035,"Entire home/apt",147,2,323,"1561478400",3.66,1,250
+281357,"Architect's studio under the roofs",1466666,"Maud",NA,"Buttes-Chaumont",48.8736,2.37785,"Entire home/apt",70,7,37,"1536508800",0.4,1,0
+281420,"Beautiful Flat in le Village Montmartre, Paris",1466919,"Pierre",NA,"Buttes-Montmartre",48.88668,2.33343,"Entire home/apt",50,2,2,"1500739200",0.08,1,0
+281965,"Sweet room in Nation area",1469624,"David",NA,"Reuilly",48.84634,2.40766,"Private room",45,4,41,"1559577600",0.5,3,8
+282008,"HyperCentral Real Paris 3 BR Montorgueil Calm",1469886,"Marie-Pierre",NA,"Bourse",48.86801,2.34594,"Entire home/apt",250,4,25,"1535644800",0.27,1,16
+282872,"Paris Centre Marais 3e Arr Large Studio",1473642,"Marguerite",NA,"Temple",48.86197,2.36168,"Entire home/apt",180,28,44,"1561824000",0.6,1,127
+283583,"Cosy apartment in a private street",1477071,"Amandine",NA,"Buttes-Montmartre",48.88953,2.32685,"Entire home/apt",80,6,1,"1337356800",0.01,1,257
+283632,"Cosy Studio - Le Marais",1477270,"Elsa",NA,"Popincourt",48.85657,2.36834,"Entire home/apt",60,2,30,"1480435200",0.53,1,0
+284255,"Good location in the heart of Paris",1024340,"Olivier",NA,"Entrepôt",48.86866,2.36651,"Entire home/apt",58,14,78,"1559232000",0.85,1,4
+284315,"Cosy & quiet Nation area apartment",1469624,"David",NA,"Reuilly",48.84697,2.40827,"Entire home/apt",90,4,41,"1561219200",0.45,3,58
+285108,"Studio flat for lovers in Paris!",1484225,"Mathilde",NA,"Buttes-Chaumont",48.886,2.38629,"Private room",57,3,0,"",NA,1,0
+285786,"HEART OF PARIS typical parisian",1487400,"Dominique",NA,"Louvre",48.86377,2.3483,"Entire home/apt",129,17,133,"1561478400",1.52,1,53
+286005,"Really nice place in Paris!!!",1487808,"Hind",NA,"Ménilmontant",48.87264,2.40765,"Private room",175,2,0,"",NA,1,0
+286364,"BEAUTIFUL APT IN PARIS, BELLEVILLE",1274260,"Jasmina",NA,"Buttes-Chaumont",48.87377,2.38076,"Entire home/apt",80,1,6,"1430236800",0.07,1,0
+287037,"Private room in Paris 19è. Calm",1493417,"Javier",NA,"Ménilmontant",48.87326,2.38609,"Private room",38,10,59,"1509379200",0.66,2,219
+287223,"The art of simple Luxury in Paris",1299285,"Alain",NA,"Élysée",48.87665,2.30577,"Entire home/apt",300,4,4,"1411660800",0.06,1,363
+287674,"Rambuteau Paris",1466866,"Chokri",NA,"Temple",48.85837,2.36019,"Entire home/apt",119,2,174,"1561478400",2.19,8,267
+287690,"Beautiful duple: Family and refined",1496369,"Grecia",NA,"Batignolles-Monceau",48.89295,2.31599,"Entire home/apt",100,5,5,"1408464000",0.07,1,0
+287932,"Flat - 10' from Montmartre or Opera",1497135,"Laurent",NA,"Opéra",48.87577,2.34198,"Entire home/apt",92,3,86,"1425052800",0.94,1,0
+288842,"Charming Parisian appartment",1500801,"Jacqui",NA,"Popincourt",48.85088,2.38272,"Entire home/apt",55,3,5,"1469980800",0.07,1,0
+289021,"CHARMING FLAT st germain des pres",1501555,"Emilie",NA,"Observatoire",48.84181,2.33009,"Entire home/apt",95,3,2,"1366819200",0.03,1,361
+289647,"NICE VIEW IN THE MARAIS  top floor",1503759,"Virgile",NA,"Hôtel-de-Ville",48.85745,2.35185,"Private room",145,4,100,"1562428800",1.16,2,325
+289892,"Appartment near Le Marais in Paris",1504718,"Ivan",NA,"Popincourt",48.85638,2.3806,"Entire home/apt",116,2,62,"1554048000",0.69,1,78
+290633,"GOLDEN VILLAGE",1507357,"Valeria",NA,"Popincourt",48.86855,2.37848,"Entire home/apt",45,4,37,"1561824000",0.4,1,271
+290670,"Nice Studio close to Champs Elysees",58653,"Viviane Rahma",NA,"Élysée",48.87418,2.31107,"Entire home/apt",80,4,58,"1556121600",0.64,2,355
+290988,"Amazng Best Paris Location Rmntc Wi",846758,"Karl",NA,"Bourse",48.86533,2.3468,"Entire home/apt",69,30,9,"1551024000",0.1,1,9
+291235,"Big quiet studio Paris 13 / BNF",1509667,"Frédéric",NA,"Gobelins",48.82576,2.3711,"Entire home/apt",75,2,145,"1535731200",1.8,1,0
+293228,"Studio au coeur du marais",804390,"Fiona",NA,"Temple",48.85998,2.36513,"Entire home/apt",130,5,38,"1560009600",2.84,2,296
+297658,"Guesthouses in the heart of Paris!",1534767,"Martine&Robert",NA,"Batignolles-Monceau",48.88715,2.29575,"Entire home/apt",245,2,3,"1531324800",0.04,2,325
+298423,"Central and warm 97m2 duplex apt.",1538406,"François",NA,"Ménilmontant",48.87054,2.37954,"Entire home/apt",125,3,116,"1544976000",1.34,1,190
+298548,"Scenic view  from your dining room",1538816,"Remi",NA,"Gobelins",48.8324,2.36559,"Entire home/apt",120,3,57,"1562169600",0.66,1,100
+301233,"ExeptCharm Balcony View Sun AirCond",1551963,"Danièle",NA,"Batignolles-Monceau",48.88701,2.31716,"Entire home/apt",150,30,17,"1556121600",0.2,2,299
+302194,"Charming apartment 50 in Belleville",716205,"Ann",NA,"Popincourt",48.87065,2.37781,"Entire home/apt",86,2,46,"1561478400",0.53,5,43
+304920,"Your private room near the Opéra",1499918,"Isabelle",NA,"Opéra",48.87277,2.34559,"Private room",75,2,71,"1561305600",0.78,1,30
+306538,"Charming Parisian Studio",1576670,"Brigitte",NA,"Buttes-Chaumont",48.87754,2.38774,"Entire home/apt",80,5,35,"1556812800",0.43,1,6
+306624,"Cosy & quiet Montmartre apartment",1577116,"Sylvie",NA,"Buttes-Montmartre",48.88384,2.34302,"Entire home/apt",120,4,158,"1561824000",1.78,1,287
+306652,"chambre calme et ensoleillée",1577190,"Angelique",NA,"Buttes-Chaumont",48.88778,2.38503,"Private room",50,2,16,"1561046400",0.18,1,89
+307154,"AMAZING LOFT MARAIS 1BR",248423,"Slimane",NA,"Temple",48.86353,2.35498,"Entire home/apt",189,4,31,"1562601600",0.35,1,43
+308572,"Sunny & Nice Studio - Paris - St Germain des près!",1586572,"Rina",NA,"Luxembourg",48.84718,2.32563,"Entire home/apt",105,2,249,"1561910400",2.86,1,256
+309092,"Superb Palais Royal Opera Studio",1561596,"Jean",NA,"Bourse",48.86812,2.33757,"Entire home/apt",115,3,89,"1475164800",1.03,1,0
+310103,"Loft 150 m2 for rent minimum 7 nights for 6 people",1317183,"Annie",NA,"Entrepôt",48.87201,2.37486,"Entire home/apt",250,7,1,"1486656000",0.03,1,159
+310765,"Nice & bright flat near Montmartre",1570250,"Olivia",NA,"Opéra",48.88027,2.33519,"Entire home/apt",88,2,31,"1562515200",0.35,2,140
+310942,"Room in a loft with a piano",1599212,"Marisa",NA,"Passy",48.86132,2.27593,"Entire home/apt",550,3,21,"1546358400",0.23,1,129
+311483,"Nice flat : 11eme arrondissement",1602275,"Gaël",NA,"Popincourt",48.86824,2.3735,"Entire home/apt",63,5,7,"1542729600",0.15,1,0
+311499,"Big and calm studio in Montmartre",1602320,"Manuel",NA,"Buttes-Montmartre",48.89612,2.34276,"Entire home/apt",60,2,0,"",NA,1,191
+311573,"ARTIST FLAT  IN  LE  MARAIS 77 M2",1602493,"Jean Michel",NA,"Temple",48.86454,2.36338,"Entire home/apt",151,3,51,"1561910400",0.58,1,190
+312283,"90m2 Superb Central Flat for 5 (+ Private Garden)",1605593,"James",NA,"Popincourt",48.86189,2.37452,"Entire home/apt",149,4,102,"1562515200",1.13,1,40
+312437,"Loft apartment in Montorgueil (2e)",1539531,"Pascale",NA,"Bourse",48.8669,2.34452,"Entire home/apt",115,2,235,"1562428800",2.64,1,182
+312477,"Lovely 40m2 flat, Paris - left bank",1465330,"Lucile",NA,"Observatoire",48.83388,2.31736,"Entire home/apt",60,2,4,"1562428800",0.05,1,2
+314288,"Bed & breakfast Paris Gare de Lyon",1614803,"Blandine",NA,"Reuilly",48.84364,2.3824,"Private room",85,1,271,"1562169600",3.17,2,295
+314294,"Charming studio in historical site",1614865,"Carole",NA,"Reuilly",48.85012,2.38329,"Entire home/apt",100,5,238,"1561910400",2.7,1,89
+314588,"Lovely apartment in the center",1334325,"Mika",NA,"Temple",48.86696,2.36175,"Entire home/apt",94,5,152,"1538755200",1.74,4,203
+314903,"Typical Parisian loft in Bastille",1617534,"Thierry",NA,"Popincourt",48.85339,2.37326,"Entire home/apt",160,5,25,"1556553600",0.28,1,360
+315665,"Paris Centre SweetHomeLeMarais",1621242,"Christophe",NA,"Temple",48.86336,2.35492,"Entire home/apt",120,2,512,"1562601600",5.73,2,304
+316090,"Charming apartment with a balcony",1590522,"Elsa",NA,"Gobelins",48.82499,2.34999,"Entire home/apt",70,3,5,"1449331200",0.07,1,0
+317690,"Eiffel Tower - Art Déco Apartment",1630680,"Martine",NA,"Vaugirard",48.85227,2.29704,"Entire home/apt",140,3,184,"1559750400",2.07,1,148
+317715,"Cosy &Design apartment for 4 people",1630863,"Jez",NA,"Buttes-Montmartre",48.89376,2.34571,"Entire home/apt",90,2,71,"1560700800",0.81,2,338
+318358,"LOFT WITH TERRACE, IDEAL FAMILY",1633839,"Paul",NA,"Entrepôt",48.88418,2.36513,"Entire home/apt",218,6,1,"1468512000",0.03,1,300
+320698,"PARISIAN LOFT 3 BEDROOMS",1638040,"Christine",NA,"Louvre",48.862,2.3487,"Entire home/apt",210,5,26,"1505318400",0.31,1,0
+321300,"Bright Paris apartment with terrace",1645796,"Calvin",NA,"Popincourt",48.8546,2.38864,"Entire home/apt",72,3,0,"",NA,1,0
+321624,"Charming 2 bdrm apt near Bastille",533714,"Virgile",NA,"Popincourt",48.8559,2.38189,"Entire home/apt",70,4,65,"1561737600",0.74,1,31
+321897,"2-bedroom flat in Paris downtown",1648484,"Benedicte",NA,"Popincourt",48.86404,2.37324,"Entire home/apt",130,2,169,"1561392000",2.08,1,167
+322539,"Paris Etoile - Private rooms Loft",1651361,"Baidy",NA,"Passy",48.87487,2.28762,"Private room",55,2,224,"1561305600",2.48,1,263
+322881,"Cozy Marais Apt in Paris, Rambuteau",1653044,"Shawn",NA,"Temple",48.86136,2.35545,"Entire home/apt",150,2,21,"1488816000",0.23,2,0
+323132,"PANORAMIC VIEW, calm, nice area,3 nights minimum",1654538,"Eveline",NA,"Popincourt",48.86359,2.37532,"Entire home/apt",120,6,7,"1561824000",0.11,1,189
+323270,"74M2 Notre Dame Saint Germain",1602690,"Host In Paris",NA,"Panthéon",48.85096,2.35044,"Entire home/apt",99,30,19,"1559750400",0.22,24,226
+323292,"Saint Germain Apartment Beams",1602690,"Host In Paris",NA,"Luxembourg",48.8542,2.33743,"Entire home/apt",98,30,28,"1556467200",0.32,24,313
+323783,"Bienvenue à Paris !",648382,"Erwann",NA,"Buttes-Chaumont",48.88998,2.37633,"Private room",40,1,5,"1334937600",0.06,1,363
+324431,"Quiet 2 bedroom - Paris Bastille",1613616,"Yann",NA,"Hôtel-de-Ville",48.85287,2.36522,"Entire home/apt",40,21,0,"",NA,1,0
+325119,"Appartement de charme",1663408,"Pierre",NA,"Buttes-Chaumont",48.89057,2.38328,"Entire home/apt",69,2,15,"1521388800",0.17,1,0
+325263,"The Montmartre suite",719772,"Aurore",NA,"Buttes-Montmartre",48.89215,2.33927,"Entire home/apt",80,7,30,"1561824000",0.35,1,115
+325333,"Loft Terrace Arty Canal St Martin",1664385,"Bertrand",NA,"Buttes-Chaumont",48.87837,2.38388,"Entire home/apt",190,2,13,"1522425600",0.15,1,259
+325880,"Beautiful apt, Montmartre/Opera, Hip and Central.",1666814,"Charles",NA,"Opéra",48.87874,2.3389,"Entire home/apt",195,3,256,"1562256000",3.09,1,264
+326189,"House Boat - Center Paris, Louvre  ",1606372,"Gaetan",NA,"Palais-Bourbon",48.8617,2.32525,"Private room",90,3,145,"1560700800",1.64,1,326
+328271,"So parisian ! Sunny 4 Br appt in Montmartre",1677587,"Mathilde",NA,"Buttes-Montmartre",48.88264,2.33785,"Entire home/apt",250,5,28,"1556985600",0.33,1,5
+328695,"Cosy B&B in the heart of Paris",1678893,"Wladimir",NA,"Entrepôt",48.8761,2.35597,"Private room",100,3,127,"1541865600",1.43,1,194
+328697,"Pantheon's apartment best of Paris 4/5P Wi-Fi",861010,"Alain",NA,"Luxembourg",48.84687,2.34005,"Entire home/apt",135,6,216,"1561910400",2.42,2,272
+328847,"very nice apartment under roofs",1679255,"François",NA,"Ménilmontant",48.87127,2.3946,"Entire home/apt",35,6,22,"1469548800",0.25,1,0
+330030,"Charming and cozy Montparnasse flat",76355,"Julia Et Lucas",NA,"Vaugirard",48.84255,2.31819,"Entire home/apt",98,30,6,"1558713600",0.18,18,360
+332253,"Bright, quiet & spacious apartment",1693563,"Laure",NA,"Buttes-Montmartre",48.88448,2.35947,"Entire home/apt",150,4,83,"1561046400",0.95,1,140
+332670,"Sunny studio, rue Oberkampf",1694065,"Eva",NA,"Popincourt",48.86621,2.38108,"Entire home/apt",45,270,0,"",NA,2,356
+333104,"Ideal for exploring Paris",1697377,"Jonathan",NA,"Buttes-Chaumont",48.87347,2.37748,"Private room",60,2,19,"1545494400",0.21,1,364
+334292,"Charming 2br haussmannian 50 sqm on garden",1701937,"Aymeric",NA,"Ménilmontant",48.8686,2.39523,"Entire home/apt",69,60,9,"1552233600",0.55,2,89
+334304,"St Germain des près,Odéon, Sorbonne",1703088,"Marc",NA,"Luxembourg",48.84427,2.3286,"Private room",80,1,110,"1546272000",1.23,1,160
+334395,"Stylish Haussmannian 2 br 50m2 on garden",1701937,"Aymeric",NA,"Ménilmontant",48.86824,2.39558,"Entire home/apt",70,3,33,"1552579200",1.54,2,0
+335003,"Cosy parisian loft near Le Louvre - Champs Elysées",1706168,"Christine",NA,"Louvre",48.86608,2.32594,"Shared room",85,1,42,"1561132800",0.47,1,0
+335306,"paris mouffetard quartier latin",1707370,"Antonin",NA,"Panthéon",48.83792,2.35313,"Entire home/apt",35,21,18,"1558713600",0.21,1,282
+336528,"Charming Apartment in Montmartre",1688426,"Stéphane",NA,"Buttes-Montmartre",48.88494,2.33297,"Entire home/apt",70,3,20,"1555430400",0.71,2,44
+336904,"Sunny Private Fully-Furnished Guest Studio",135024,"Kay",NA,"Buttes-Montmartre",48.88966,2.3532,"Private room",65,1,355,"1562515200",4,2,0
+338811,"Charming renewed apartment in Paris",1720785,"Françoise",NA,"Popincourt",48.86014,2.37906,"Entire home/apt",65,5,62,"1515340800",0.7,1,0
+339613,"Maison de charme avec jardin, Paris",1724209,"Christophe",NA,"Observatoire",48.82916,2.31834,"Entire home/apt",440,3,1,"1414166400",0.02,1,0
+339752,"Perfect Pied à Terre Paris Marais",1646944,"Joanna",NA,"Temple",48.86389,2.35169,"Entire home/apt",150,6,8,"1558972800",0.11,16,253
+340048,"BEST PLACE TO STAY EIFFEL TOWER !!!",1703879,"Celine",NA,"Palais-Bourbon",48.86239,2.30526,"Entire home/apt",270,5,2,"1348243200",0.02,1,22
+341124,"PARIS XI AMAZING COZY STUDIO",1730137,"Rosaria",NA,"Popincourt",48.85794,2.3875,"Entire home/apt",70,4,28,"1562083200",0.34,1,236
+342532,"Paris  pleasant quiet  1-4 people CLIM/ NO TOBACCO",1706578,"Florence",NA,"Reuilly",48.84474,2.40667,"Entire home/apt",115,10,7,"1524153600",0.08,1,290
+342902,"Studio with terrace in Montparnasse",1739866,"Sophie",NA,"Vaugirard",48.84445,2.31775,"Entire home/apt",76,3,42,"1562342400",0.48,3,296
+343648,"Studio la Garçonniere Paris-Marais",1738418,"Virginie",NA,"Hôtel-de-Ville",48.85894,2.3568,"Entire home/apt",83,2,383,"1560009600",4.57,1,185
+343721,"family and friends in center of paris",1744083,"Patrice",NA,"Temple",48.86238,2.35442,"Entire home/apt",400,4,79,"1562169600",0.96,2,141
+343862,"Beautiful loft, heart of Paris",1744480,"Anne",NA,"Louvre",48.85855,2.34389,"Entire home/apt",188,4,64,"1562428800",0.74,1,355
+344230,"Appt centre historique de Paris",1746036,"Marie-Pierre",NA,"Panthéon",48.84797,2.34913,"Entire home/apt",100,5,24,"1561478400",0.28,1,54
+344258,"A cosy apartment in central Paris!",1746199,"Amel",NA,"Popincourt",48.86124,2.37094,"Private room",50,2,197,"1561910400",2.21,1,338
+344366,"Place de l'Odéon - En bail mobilité",1746701,"Frederic",NA,"Luxembourg",48.85115,2.33872,"Entire home/apt",120,3,56,"1560873600",0.98,1,47
+344390,"Under the Montmartre Sun ! Opera",213820,"Nicolas",NA,"Opéra",48.87933,2.34727,"Entire home/apt",79,3,164,"1560355200",1.84,1,0
+345341,"A last floor flat next to the Canal",1751542,"Hélène Abigail",NA,"Buttes-Chaumont",48.89436,2.38348,"Entire home/apt",65,3,34,"1561651200",0.76,1,306
+346619,"PARIS CHARONNE",1757223,"Violette",NA,"Ménilmontant",48.85402,2.39838,"Private room",78,3,5,"1528992000",0.23,3,8
+347470,"Light, Modern and Cheerful Studio!!",1750128,"Sabine",NA,"Buttes-Montmartre",48.88929,2.35533,"Entire home/apt",45,15,8,"1537632000",0.09,1,282
+347698,"Charming and central in Le Marais",1761624,"Pierre",NA,"Temple",48.86228,2.36155,"Entire home/apt",90,3,95,"1560182400",1.06,1,3
+347730,"B&B on top of Buttes Chaumont",1762402,"Benoit",NA,"Buttes-Chaumont",48.87645,2.39527,"Private room",49,3,104,"1556726400",1.17,2,8
+348037,"Cool apt. by the canal with wi-fi!",1557351,"Jason",NA,"Entrepôt",48.87284,2.36259,"Entire home/apt",80,4,56,"1561132800",1.69,1,5
+348577,"Montmartre (not quite Amélie!)",1766257,"Elizabeth",NA,"Buttes-Montmartre",48.88874,2.3445,"Entire home/apt",85,4,21,"1560700800",0.24,1,130
+348747,"Beautiful XIX c. Style Apartment",1767140,"Sylvia",NA,"Élysée",48.88206,2.32527,"Entire home/apt",210,1,128,"1562256000",1.96,1,191
+349296,"Le Marais, sunny flat with amazing view",1769269,"Charlie",NA,"Hôtel-de-Ville",48.85706,2.35848,"Entire home/apt",125,1,318,"1561478400",3.56,1,5
+349335,"Loft character with a view of court",1769987,"Patrick",NA,"Buttes-Chaumont",48.8874,2.3849,"Entire home/apt",200,4,24,"1545667200",0.3,1,195
+350092,"STUDIO IN THE HEART OF MONTMARTRE",1774024,"Blandine",NA,"Buttes-Montmartre",48.88467,2.33586,"Entire home/apt",70,10,19,"1439913600",0.22,1,0
+350571,"Pretty flat historical Paris center",1776024,"Lucile",NA,"Luxembourg",48.85209,2.3338,"Entire home/apt",90,3,166,"1561824000",1.89,1,9
+352851,"Views, 6 rooms, 120m2 : large, bright & beautiful!",1420560,"José",NA,"Buttes-Montmartre",48.8845,2.33813,"Entire home/apt",160,2,221,"1562688000",2.5,1,82
+353608,"Nice apprt belleville-oberkampf",1790962,"Stephane",NA,"Popincourt",48.86877,2.37982,"Entire home/apt",80,5,37,"1561996800",0.44,1,154
+354372,"Amazing view of Paris from balcony",1336988,"Mathieu Et Sonia",NA,"Popincourt",48.86797,2.37941,"Entire home/apt",70,5,1,"1414080000",0.02,1,28
+354427,"CHARMING PARISIAN APARTMENT",1786880,"Alice",NA,"Entrepôt",48.88238,2.36263,"Entire home/apt",65,3,0,"",NA,1,0
+354929,"Apartment, Paris center, Marais",1797165,"Stephane",NA,"Bourse",48.86867,2.35134,"Entire home/apt",90,4,74,"1561046400",1.21,1,330
+356213,"Bedroom next to the Plaza",1802844,"Olivier",NA,"Élysée",48.86523,2.302,"Private room",118,2,80,"1561824000",0.9,1,55
+361133,"one bedroom LATIN QUARTER",1802008,"Anémone",NA,"Panthéon",48.84467,2.34978,"Entire home/apt",130,3,16,"1521388800",0.18,19,346
+364567,"PARIS IN THE HEART du12é",1841982,"Franck",NA,"Reuilly",48.84151,2.38698,"Entire home/apt",100,7,68,"1530288000",0.78,1,243
+364761,"Chambre en appartement Paris centre",1842634,"Maria",NA,"Luxembourg",48.84292,2.33453,"Private room",44,1,219,"1546272000",4.39,1,0
+366110,"Full furnished 40m2",1848496,"Didier",NA,"Opéra",48.88221,2.33497,"Entire home/apt",75,4,2,"1401379200",0.03,1,0
+368573,"Luxurious 2bdrm in Le Marais",205988,"Diana",NA,"Temple",48.86134,2.35439,"Entire home/apt",500,4,44,"1562342400",0.87,2,341
+370340,"The Real Paris / Charme/ Le Marais",1658670,"Vladimir",NA,"Temple",48.86539,2.36076,"Entire home/apt",178,5,0,"",NA,1,99
+371299,"NEW FLAT IN MARAIS RUE DES ARCHIVES",1870265,"Thomas",NA,"Hôtel-de-Ville",48.85752,2.35701,"Entire home/apt",145,3,385,"1562601600",4.35,3,1
+371716,"BEAUTIFUL HAUT MARAIS APARTMENT",1816135,"Eric",NA,"Temple",48.86316,2.36036,"Entire home/apt",160,9,37,"1558886400",0.44,1,190
+371862,"loft in Paris (Belleville)",1872631,"Veronique",NA,"Entrepôt",48.87283,2.37165,"Entire home/apt",99,3,26,"1551542400",0.31,1,16
+372879,"Appartement calme au centre de Paris, tout équipé.",1876396,"Samuel",NA,"Panthéon",48.83695,2.35114,"Entire home/apt",80,2,122,"1561910400",5.53,1,26
+373070,"Center Paris at Latin Quarter",168064,"Kamila",NA,"Panthéon",48.84755,2.35287,"Private room",102,1,437,"1562515200",4.92,3,172
+374015,"Paris, Opéra, folies bergères, theater",1881878,"Vincent",NA,"Opéra",48.87936,2.34588,"Entire home/apt",95,1,231,"1561824000",2.6,2,317
+374935,"GRANDS BOULEVARDS MODERN APARTMENT",500672,"Jean-François",NA,"Entrepôt",48.87449,2.34883,"Entire home/apt",114,3,161,"1561910400",1.82,2,321
+375434,"Franklin",683140,"Oscar",NA,"Élysée",48.8686,2.30909,"Entire home/apt",375,6,12,"1532448000",0.14,1,25
+376034,"Modern apt - Center of Paris",1886011,"Victor",NA,"Popincourt",48.86424,2.36679,"Entire home/apt",110,5,95,"1503936000",1.07,1,159
+377276,"AMAZING  NEW REMODELED 1 BED APT BY EIFFEL TOWER",404884,"Isabella",NA,"Vaugirard",48.8484,2.29675,"Entire home/apt",80,12,16,"1492531200",0.18,1,0
+378233,"appartment faubourg saint antoine",1900008,"Isaline",NA,"Popincourt",48.85205,2.37733,"Entire home/apt",180,4,8,"1405008000",0.09,1,25
+378714,"Cosy 2 rooms flat  - Nearby Eiffel Tower.",796634,"Nicolas",NA,"Vaugirard",48.84139,2.2927,"Entire home/apt",110,7,24,"1561910400",0.27,1,128
+380239,"Bienvenue aux Batignolles!",1908045,"Melanie",NA,"Batignolles-Monceau",48.88866,2.31615,"Entire home/apt",80,3,0,"",NA,1,0
+383284,"COSY  2ROOM APT - CANAL ST MARTIN",1697461,"Antoine",NA,"Entrepôt",48.87275,2.37221,"Entire home/apt",80,8,30,"1556294400",0.34,1,0
+383550,"PERFECT PARISIAN STAY for 2-ONCANAL",1824328,"Umberto",NA,"Entrepôt",48.87203,2.36318,"Entire home/apt",60,2,84,"1560009600",1.13,2,306
+383975,"Studio Gros Caillou",1802008,"Anémone",NA,"Palais-Bourbon",48.85918,2.30797,"Entire home/apt",110,3,10,"1555689600",0.12,19,365
+384990,"Nice & charming in Paris best area",1927400,"Alice",NA,"Opéra",48.88174,2.34535,"Entire home/apt",155,3,37,"1560960000",0.42,1,365
+386220,"Charming studio next to Notre-Dame",1932944,"Catherine",NA,"Panthéon",48.85037,2.34729,"Entire home/apt",80,7,36,"1560528000",0.41,1,194
+390984,"AMAZING TERRACE WITH EIFFEL TOWER VIEW",1955579,"Olivier",NA,"Buttes-Montmartre",48.88549,2.34131,"Entire home/apt",150,3,153,"1562169600",1.78,1,196
+391189,"Cosy quiet room in central Paris",1956466,"Philippe",NA,"Reuilly",48.83741,2.39839,"Private room",57,2,419,"1562342400",4.86,2,6
+393434,"Cosy apartment in the artist area",1967506,"Julien",NA,"Buttes-Montmartre",48.88365,2.34381,"Entire home/apt",89,3,64,"1546617600",0.84,1,0
+395110,"Cozy apartment in Paris 16th",1974873,"Caroline",NA,"Passy",48.84001,2.26527,"Entire home/apt",40,2,1,"1459612800",0.03,1,0
+395585,"Paris,lux family duplex 130m² 5pax",1976948,"Laurence",NA,"Batignolles-Monceau",48.88804,2.29371,"Entire home/apt",185,2,56,"1503072000",0.66,1,0
+396355,"Luxury flat Invalides/Musée Rodin",1980592,"June",NA,"Palais-Bourbon",48.85598,2.31607,"Entire home/apt",125,5,85,"1556553600",0.98,1,314
+396600,"Charming apt in the heart of Paris",1914231,"Bertrand",NA,"Entrepôt",48.88195,2.35786,"Entire home/apt",119,3,6,"1434729600",0.08,1,0
+396824,"Studio for two between Montmarte",1630863,"Jez",NA,"Buttes-Montmartre",48.89306,2.34715,"Entire home/apt",59,2,72,"1560787200",0.83,2,365
+397652,"2 bedroom apartment near Louvre",205988,"Diana",NA,"Louvre",48.8673,2.33273,"Entire home/apt",200,3,16,"1560441600",0.18,2,246
+397753,"Appartement  52 m² Père Lachaise",1987047,"Camille",NA,"Popincourt",48.86005,2.38043,"Entire home/apt",55,28,1,"1531670400",0.08,1,0
+398860,"Center of Paris in a Trendy Area",1446512,"Aude",NA,"Temple",48.86709,2.35466,"Entire home/apt",200,3,29,"1547740800",0.89,1,0
+399237,"Charming house with a private court",1993577,"Freddy",NA,"Ménilmontant",48.85944,2.39069,"Entire home/apt",145,2,9,"1494172800",0.18,1,191
+400221,"Great flat available in Paris!!!",1997803,"Eloïse",NA,"Ménilmontant",48.85749,2.40109,"Entire home/apt",70,5,0,"",NA,1,0
+400471,"REPUBLIQUE & OBERKAMPF CHARMING & Q",1999094,"Stephanie",NA,"Popincourt",48.86684,2.3717,"Entire home/apt",80,9,0,"",NA,1,0
+400709,"Central apartement view over Paris",726311,"Anne",NA,"Buttes-Chaumont",48.87504,2.38528,"Entire home/apt",243,2,70,"1560096000",0.91,5,260
+401569,"Cozy and charming Parisian apartment St Mart",2004396,"Sarah",NA,"Entrepôt",48.88205,2.36415,"Entire home/apt",75,5,33,"1558454400",0.39,1,43
+401887,"Exceptional Penthouse - Le Marais",2005968,"Michaele",NA,"Temple",48.8578,2.36228,"Entire home/apt",168,2,95,"1562601600",1.09,1,59
+402413,"3 bedroom Loft  with view on Paris roofs!",2008576,"Irène",NA,"Entrepôt",48.87489,2.35249,"Entire home/apt",175,4,9,"1546358400",0.12,1,174
+402516,"2bedroom 1000sqf Loft  Montorgueil",2008880,"Marco",NA,"Bourse",48.86641,2.34624,"Entire home/apt",210,5,118,"1562256000",1.34,1,38
+404141,"Charmant appartement , Montmartre",2015446,"Mariama",NA,"Buttes-Montmartre",48.88829,2.3481,"Entire home/apt",47,3,34,"1547395200",0.67,1,0
+404374,"Sorbonne and Saint-Germain des prés",1651752,"Myriam",NA,"Panthéon",48.84378,2.35124,"Entire home/apt",195,21,2,"1556553600",0.15,14,249
+404717,"Great an typical apartment in Paris",2017043,"Noëlle",NA,"Ménilmontant",48.8681,2.38207,"Entire home/apt",120,6,52,"1561910400",0.62,1,16
+405212,"Bastille - A parisian apartment",2019390,"Guillaume",NA,"Popincourt",48.85158,2.38071,"Entire home/apt",100,3,35,"1561651200",0.42,1,76
+405847,"Paris Montparnasse sunny 57 m² flat",1574908,"Jürgen",NA,"Vaugirard",48.83644,2.3088,"Entire home/apt",52,300,0,"",NA,1,191
+406852,"Charming & Comfortable Paris House",2026539,"Stéphanie",NA,"Ménilmontant",48.86181,2.40285,"Entire home/apt",269,2,94,"1560614400",1.07,1,12
+406891,"PRIVATE ROOM IN MY CHARMING FLAT",2026938,"Fabrice",NA,"Popincourt",48.85806,2.38081,"Private room",39,2,257,"1561219200",2.91,1,258
+406902,"A quiet place to stay in Le Marais",971617,"Lara",NA,"Hôtel-de-Ville",48.8537,2.36794,"Entire home/apt",100,2,251,"1562342400",2.87,1,177
+407273,"Typical Parisien appartement",396975,"Olivier",NA,"Batignolles-Monceau",48.89001,2.3235,"Entire home/apt",200,2,0,"",NA,1,365
+407428,"A family flat in the heart of Paris",2029540,"Yan",NA,"Reuilly",48.84978,2.38015,"Entire home/apt",100,4,8,"1556812800",0.11,1,280
+407501,"Charming Studio in Center of Paris",903406,"Ken",NA,"Bourse",48.86813,2.35097,"Entire home/apt",45,3,16,"1465488000",0.2,2,0
+407502,"Charming Studio in Paris Center",903406,"Ken",NA,"Bourse",48.86799,2.35143,"Entire home/apt",45,3,71,"1469980800",0.82,2,0
+407579,"4 BR and magical views of rooftops!",2030065,"Anne",NA,"Entrepôt",48.87743,2.35121,"Entire home/apt",290,4,23,"1556985600",0.27,1,62
+408145,"BEAUTIFUL STUDIO IN BELLEVILLE",1894421,"Christine",NA,"Buttes-Chaumont",48.87713,2.38308,"Entire home/apt",70,2,60,"1561219200",0.81,1,25
+408172,"Cosy flat in North Paris close to Montmartre",1031080,"Nicolas & Thomas",NA,"Opéra",48.8812,2.34885,"Entire home/apt",90,2,11,"1559404800",0.43,1,0
+409039,"Lovely apt of 50 m² in Montmartre!",2036495,"Charles",NA,"Buttes-Montmartre",48.88966,2.3491,"Entire home/apt",80,3,103,"1558713600",1.18,1,0
+409112,"Appartment in Paris near Montmartre",2036771,"Cerise",NA,"Buttes-Montmartre",48.89595,2.34592,"Entire home/apt",49,5,53,"1552838400",0.61,1,0
+409618,"CHARMING 1BR HEART OF THE MARAIS",656386,"Emanuele - Maria",NA,"Hôtel-de-Ville",48.85769,2.35773,"Entire home/apt",146,90,4,"1501430400",0.11,35,283
+409638,"3 bedr & 2 bathr in trendy Paris",2039223,"Delphine",NA,"Popincourt",48.86345,2.3757,"Entire home/apt",175,2,56,"1562428800",0.7,2,13
+410242,"Haussmann-170 m2-3 bedrooms-",2042274,"Valérie",NA,"Opéra",48.88129,2.32855,"Entire home/apt",320,3,59,"1560873600",0.77,1,191
+411911,"Cosy 1 bedroom apartment (31 sqm)",1921063,"Virginie",NA,"Observatoire",48.83171,2.32065,"Entire home/apt",75,2,42,"1561824000",0.49,1,165
+412016,"Your Pretty Studio in Belleville",2050881,"Guido",NA,"Ménilmontant",48.87183,2.38819,"Entire home/apt",35,3,13,"1451923200",0.15,1,0
+412350,"Cosy&bohème in Belleville, Paris.",2052689,"Romain",NA,"Buttes-Chaumont",48.87513,2.37986,"Entire home/apt",50,50,14,"1509552000",0.16,1,192
+412379,"Cosy DUPLEX PARIS18è-5mn Montmartre",2052794,"Erik",NA,"Buttes-Montmartre",48.89117,2.35916,"Entire home/apt",70,3,24,"1558800000",0.39,1,193
+413159,"charming apartment under the roofs",2055732,"Séverine",NA,"Ménilmontant",48.86753,2.38709,"Entire home/apt",100,3,1,"1561910400",1,1,1
+413179,"Studio  au coeur de Paris",2055771,"Marjanovic",NA,"Popincourt",48.86186,2.37334,"Entire home/apt",120,3,141,"1562256000",1.7,1,203
+414390,"Perfect Apartment in the heart of P",2061052,"Agnès",NA,"Panthéon",48.84133,2.36166,"Entire home/apt",100,5,23,"1546358400",0.29,1,96
+416129,"Paris 06: 2R Flat in Latin Quarter.",2069228,"Isabelle",NA,"Luxembourg",48.85304,2.33885,"Entire home/apt",140,3,201,"1561910400",2.33,1,64
+417214,"Great Paris loft*style apt 4bdrms",2074890,"Aviva & Jean-Yves",NA,"Buttes-Montmartre",48.88931,2.34604,"Entire home/apt",250,7,1,"1504108800",0.04,1,206
+417445,"THE LOVE STUDIO : HEART OF ST GERMAIN with A.C",2075789,"Jeff",NA,"Luxembourg",48.85289,2.33821,"Entire home/apt",91,2,382,"1560873600",4.38,1,122
+417521,"Lovely 2bedrooms flat in Montmartre",2075945,"Rafael",NA,"Buttes-Montmartre",48.89405,2.34039,"Entire home/apt",80,14,20,"1532793600",0.23,2,319
+417641,"Elegant Studio, view Eiffel Tower.",2076540,"Federico",NA,"Luxembourg",48.84684,2.31798,"Entire home/apt",73,6,4,"1495296000",0.05,1,0
+418557,"Big room in shared flat/Ménilmonant",758589,"Louise Et Louis",NA,"Ménilmontant",48.86258,2.40065,"Private room",39,5,36,"1531929600",0.42,2,160
+418797,"4 pers Marais Place des Vosges",2069411,"Olivier",NA,"Hôtel-de-Ville",48.85514,2.36265,"Entire home/apt",299,1,342,"1527696000",3.88,1,340
+419721,"Furnished Studio Montmartre + Pool",2087462,"Marc",NA,"Buttes-Montmartre",48.89148,2.33792,"Entire home/apt",80,2,56,"1537027200",0.78,2,0
+419747,"Sunny Haven in the Heart of Paris",2087611,"Heidi",NA,"Reuilly",48.84768,2.37775,"Entire home/apt",181,5,2,"1529856000",0.15,1,0
+419757,"Lovely quiet Appartment Montmartre",2087649,"Frederique",NA,"Buttes-Montmartre",48.88416,2.35042,"Entire home/apt",125,2,14,"1560614400",0.16,1,303
+419758,"Appartement quartier pavillonnaire",2087682,"Virginie",NA,"Buttes-Chaumont",48.87981,2.39345,"Entire home/apt",135,5,112,"1560960000",1.29,1,234
+419840,"Charmant triplex in Montmartre",2087971,"Maria Donata",NA,"Buttes-Montmartre",48.88323,2.33721,"Entire home/apt",170,4,2,"1398528000",0.03,1,0
+420698,"Large Charming apartment, 90 sm",2092212,"Vanessa",NA,"Popincourt",48.86189,2.37221,"Entire home/apt",180,5,4,"1362499200",0.05,1,307
+420981,"Grand et beau loft sur cour privée",2093628,"Camille",NA,"Entrepôt",48.87302,2.37086,"Entire home/apt",190,6,12,"1469980800",0.14,1,183
+422107,"Magic view on the EiffelTower",2094629,"Pénélope & Georges",NA,"Vaugirard",48.83932,2.29933,"Private room",90,3,172,"1562515200",2,1,203
+422109,"Beautiful duplex in Bastille !",2009437,"David",NA,"Reuilly",48.85108,2.37345,"Entire home/apt",120,2,21,"1562688000",0.25,1,169
+422295,"Apart&balcony on the canal(parking)",2100127,"Candice & Alexandre",NA,"Buttes-Chaumont",48.89096,2.38218,"Entire home/apt",95,5,21,"1546358400",0.25,1,215
+422340,"Quartier Latin.Very bright andquiet",2100502,"Karen",NA,"Panthéon",48.8406,2.35669,"Private room",60,4,106,"1562428800",1.23,1,2
+422409,"UNIQUE APT IN A HOUSELIKE/TRIPLEX",2100843,"Sophie",NA,"Temple",48.863,2.3538,"Entire home/apt",150,6,45,"1561392000",0.52,1,337
+422901,"WHOLE FLAT Montparnasse /Denfert Rochereau",2095717,"Nina",NA,"Observatoire",48.83343,2.32572,"Private room",50,4,89,"1561132800",1.04,1,314
+423502,"Lovely two bedrooms apartment in Marais",2101219,"Bertrand",NA,"Hôtel-de-Ville",48.85704,2.35882,"Entire home/apt",315,6,3,"1555171200",0.04,1,315
+424737,"Montmartre/Martyrs - balcony flat",2111586,"Caroline",NA,"Opéra",48.8781,2.34291,"Entire home/apt",90,7,23,"1556812800",0.26,1,28
+425908,"60M2amazing, sunny flat center Pari",2032568,"Veronique",NA,"Reuilly",48.84701,2.4007,"Entire home/apt",56,6,6,"1532102400",0.07,1,264
+428594,"Great 2 bedrooms, 6 guests, central",1981912,"Titien",NA,"Gobelins",48.83393,2.3631,"Entire home/apt",100,1,21,"1472400000",0.24,1,0
+429194,"LOFT lumineux - Arts & Metiers",2133227,"Cédric",NA,"Temple",48.85931,2.36277,"Entire home/apt",139,3,115,"1560787200",1.31,1,267
+429331,"Bastille Bercy 4* Chic One Bedroom",2133898,"Pierrette",NA,"Reuilly",48.84058,2.39606,"Entire home/apt",105,4,38,"1538928000",0.44,2,191
+429716,"Cozy one bedroom apt near rue Cler.",2136248,"Nathalie Et Gil",NA,"Palais-Bourbon",48.86175,2.30655,"Entire home/apt",125,3,25,"1368892800",0.29,1,0
+431420,"Sweet, Cosy & Cheap Appart in PARIS",1262157,"Ben",NA,"Ménilmontant",48.87023,2.39256,"Entire home/apt",50,4,30,"1556985600",0.35,1,267
+432537,"Luxury loft: 15ft high, 1200sq ft!",2134754,"Phil",NA,"Batignolles-Monceau",48.89434,2.3059,"Entire home/apt",349,7,10,"1559232000",0.14,1,0
+432800,"Studio / Appartement in Paris close to Montmatre",2151212,"Vittorio",NA,"Buttes-Montmartre",48.88971,2.35464,"Entire home/apt",50,1,31,"1556035200",0.6,1,364
+432812,"The most central",2151250,"Nicolas",NA,"Palais-Bourbon",48.85822,2.32946,"Entire home/apt",160,4,56,"1562169600",0.65,1,84
+434622,"APPARTMENT PERE LACHAISE/VOLTAIRE",2159567,"Catherine",NA,"Popincourt",48.85989,2.38588,"Entire home/apt",65,3,12,"1466784000",0.14,1,2
+434658,"3 BEDROOMS STYLISH FLAT- GREAT AREA",2159676,"Emmanuel",NA,"Observatoire",48.83288,2.33059,"Entire home/apt",230,2,65,"1560873600",0.74,1,109
+434678,"Cosy appartement in Eastern Paris",2159626,"Agathe",NA,"Popincourt",48.85152,2.38999,"Entire home/apt",74,3,10,"1451750400",0.12,2,0
+434981,"Marais, nice flat in a quite street",1749250,"Arnaud",NA,"Temple",48.85946,2.36715,"Entire home/apt",120,30,36,"1500912000",0.41,1,68
+436226,"APARTEMENT MONTMARTRE",2166096,"Eve",NA,"Buttes-Montmartre",48.88743,2.34716,"Entire home/apt",70,360,8,"1349452800",0.09,1,365
+436357,"Loft style flat-trendy North Marais",2158796,"Lise",NA,"Popincourt",48.86656,2.37578,"Entire home/apt",68,7,53,"1551628800",0.61,1,218
+436362,"STUDIO IN VINTAGE STYLE IN PARIS",2167451,"Angèle",NA,"Buttes-Chaumont",48.87507,2.38337,"Entire home/apt",32,2,31,"1463414400",0.36,1,0
+436721,"Quartier latin/Sunny duplex/50m2",2168925,"Clemence",NA,"Panthéon",48.84929,2.35451,"Entire home/apt",140,3,45,"1557763200",0.52,1,280
+436955,"Au gros caillou, Studio, Paris",1863655,"Manon",NA,"Palais-Bourbon",48.85639,2.30321,"Entire home/apt",63,4,41,"1561996800",0.48,1,15
+438462,"3 rooms  typical and nice district",2177716,"Juliette",NA,"Buttes-Chaumont",48.87757,2.38943,"Entire home/apt",70,5,6,"1545408000",0.2,1,21
+440257,"Bastille studio flat - view rooftop",2250132,"Emmanuel",NA,"Reuilly",48.84994,2.36996,"Entire home/apt",80,2,166,"1561910400",1.91,1,10
+440466,"Cosy home in Trocadéro   1.bdrm",2188481,"Talia",NA,"Passy",48.86638,2.29023,"Entire home/apt",79,60,59,"1545494400",0.68,1,0
+440509,"Charming loft in the heart of Paris",2188618,"Bastien",NA,"Louvre",48.86365,2.34845,"Entire home/apt",230,3,77,"1562428800",0.88,1,23
+440717,"Nice 'n Gorgeous! 1BR on Oberkampf!",2189693,"Felix",NA,"Popincourt",48.86369,2.36872,"Entire home/apt",90,3,1,"1350835200",0.01,1,0
+440849,"QUIET NEAR THE ST MARTIN CANAL",2190253,"Fabienne",NA,"Entrepôt",48.87398,2.36436,"Entire home/apt",95,3,25,"1561824000",0.29,1,362
+440959,"Cosy bedroom 1 or 2p /Arc Triomphe",805564,"Carole",NA,"Batignolles-Monceau",48.88048,2.29603,"Private room",84,5,66,"1559664000",0.77,3,313
+440985,"Charming Parisien appartement",2191103,"Elinoar",NA,"Ménilmontant",48.87327,2.39001,"Entire home/apt",90,3,32,"1556726400",0.4,1,178
+441972,"Private room in Ménilmontant !",810221,"Bastien & Jessica",NA,"Ménilmontant",48.86803,2.38349,"Private room",37,2,8,"1439740800",0.09,1,0
+445253,"♥ NICE & COSY 70 M² NEAR MONTMARTRE",2211681,"Violaine",NA,"Buttes-Montmartre",48.88912,2.35188,"Entire home/apt",80,3,7,"1439136000",0.08,2,0
+447208,"Charming 1 Bedroom Apt Paris Louvre",2220797,"Cyrielle",NA,"Bourse",48.86691,2.34379,"Entire home/apt",322,2,49,"1538323200",0.57,1,161
+448894,"Large studio apartment Ourcq Canal",2228974,"Emilie",NA,"Buttes-Chaumont",48.89438,2.3728,"Entire home/apt",50,7,11,"1414771200",0.13,2,0
+449093,"Design flat in city center (65m2)",744883,"Christophe",NA,"Bourse",48.87013,2.34951,"Entire home/apt",129,2,48,"1560096000",0.56,1,0
+449296,"Nice flat in Paris, 12° Daumesnil",1807931,"Adeline",NA,"Reuilly",48.83964,2.39223,"Entire home/apt",53,5,2,"1546012800",0.05,1,0
+449988,"2 room family appt. in trendy 10th",2234993,"Anne",NA,"Entrepôt",48.88168,2.36336,"Entire home/apt",90,2,55,"1560700800",0.68,1,9
+450398,"2bd apartment Bastille-Marais 90m2",232021,"Florence",NA,"Popincourt",48.85382,2.37623,"Entire home/apt",210,1,136,"1561996800",1.58,1,242
+451293,"welcome",2241644,"Caroline",NA,"Opéra",48.87859,2.34687,"Entire home/apt",300,5,35,"1546531200",0.48,2,158
+451629,"NICE APT WITH TERRACE NEAR BASTILLE",2242715,"Laure",NA,"Popincourt",48.85216,2.38667,"Entire home/apt",95,3,56,"1556812800",0.65,1,279
+452481,"Charming bedroom under the roofs",547926,"Nicole",NA,"Batignolles-Monceau",48.88418,2.30524,"Entire home/apt",60,2,137,"1561737600",1.59,1,191
+452822,"2 rooms 50m² - Canal Saint Martin",2249395,"Charlotte",NA,"Entrepôt",48.8738,2.36418,"Entire home/apt",105,2,76,"1561737600",0.88,1,232
+453168,"Large Family Duplex in Montmartre, 3 bedrooms",797179,"Marc",NA,"Buttes-Montmartre",48.89328,2.33981,"Entire home/apt",210,3,59,"1559404800",0.69,1,48
+453689,"Beautiful appartment, Belleville",2254627,"Sébastien",NA,"Ménilmontant",48.87023,2.38575,"Entire home/apt",170,7,0,"",NA,1,229
+453823,"Handsom 2 pieces near Montmartre",2055368,"Giancarlo",NA,"Entrepôt",48.88223,2.35014,"Entire home/apt",85,15,6,"1519488000",0.07,2,0
+455196,"Quiet central Belleville flat Paris",2218238,"Shoshi",NA,"Ménilmontant",48.87222,2.38123,"Entire home/apt",55,2,10,"1410192000",0.14,1,0
+455235,"Le Marais near to Place des Vosges",2262663,"Philippe",NA,"Hôtel-de-Ville",48.85491,2.36102,"Entire home/apt",130,5,37,"1556985600",0.43,1,41
+455974,"Hollydays under a Little Roof in Paris Montorgueil",2266654,"Un Petit Toit",NA,"Bourse",48.86745,2.34487,"Entire home/apt",59,2,119,"1562428800",1.42,2,158
+456179,"2-story private house and courtyard within Paris",2267454,"Laurette",NA,"Observatoire",48.83307,2.32877,"Entire home/apt",150,21,1,"1419609600",0.02,2,110
+457096,"Paris.Lovely flat close Sacre Coeur",2187920,"Rosita",NA,"Buttes-Montmartre",48.89254,2.35145,"Entire home/apt",65,4,5,"1354032000",0.06,1,353
+457440,"Cosy studio near Montmartre for 2p",1525207,"Joshua",NA,"Buttes-Montmartre",48.8882,2.35419,"Entire home/apt",60,3,121,"1559318400",1.39,1,89
+458499,"LOVELY FLAT IN TYPICAL FRENCH AREA!",2229569,"Sylvain",NA,"Gobelins",48.83242,2.35871,"Entire home/apt",80,3,5,"1551974400",0.11,1,5
+458673,"Stusio, Paris 16- Close to E.Tower",2280781,"Aline",NA,"Passy",48.84806,2.26089,"Entire home/apt",115,2,0,"",NA,1,0
+458703,"Apt in the heart of Montmartre",2280891,"Marion",NA,"Buttes-Montmartre",48.88596,2.33907,"Entire home/apt",68,5,65,"1558713600",0.75,1,26
+458807,"3 rooms - 38m2 in """"Marais"""" - Paris",2281140,"Marie",NA,"Hôtel-de-Ville",48.85484,2.3593,"Entire home/apt",65,2,7,"1474905600",0.1,1,0
+458986,"Quiet studio in the heart of paris!",2281871,"Emmanuel",NA,"Bourse",48.86605,2.34832,"Entire home/apt",90,2,194,"1561910400",2.28,1,93
+459184,"Walk to Opéra Bastille From a Book-Filled Gem with a Leafy Garden Patio",2282726,"Adrian",NA,"Popincourt",48.85302,2.37448,"Entire home/apt",175,3,69,"1561910400",0.84,1,0
+459950,"QUIET and SPACIOUS LOFT in BASTILLE Area",2287011,"Sophie",NA,"Popincourt",48.85099,2.38772,"Entire home/apt",150,6,18,"1556208000",0.21,1,267
+460301,"Great 2bed- & 2bath-room Notre Dame",656386,"Emanuele - Maria",NA,"Panthéon",48.85175,2.34948,"Entire home/apt",227,90,7,"1473177600",0.08,35,251
+461131,"Sunny Rooftop Spacious Montmartre",2292032,"Nadine",NA,"Buttes-Montmartre",48.89078,2.33567,"Entire home/apt",75,2,4,"1506700800",0.05,1,0
+461380,"3-room flat, bright and stylish, huge balcony",2280544,"Pierre",NA,"Entrepôt",48.87323,2.35587,"Entire home/apt",99,8,54,"1561910400",0.63,1,76
+461860,"Lovely apartment in Montmartre",2295636,"Benoît",NA,"Buttes-Montmartre",48.88818,2.33505,"Entire home/apt",75,2,108,"1561219200",1.24,1,291
+461906,"a sunny place in the sky of Paris",2295760,"Anne",NA,"Vaugirard",48.84494,2.28612,"Private room",120,3,56,"1561392000",0.69,1,363
+462105,"Spacious apartment, trendy location",2296567,"Betsy & Gregory",NA,"Popincourt",48.86759,2.37496,"Private room",99,2,0,"",NA,1,0
+462307,"In the very heart of Paris",2297465,"Virginie",NA,"Bourse",48.86413,2.34801,"Entire home/apt",110,2,119,"1560441600",1.37,1,152
+462625,"Exceptional, modern LOFT ",1009168,"India",NA,"Palais-Bourbon",48.85383,2.31857,"Entire home/apt",210,3,0,"",NA,1,0
+462721,"COSY FAMILY APT Metro Commerce 15èm",2299362,"Thomas",NA,"Vaugirard",48.84292,2.29436,"Entire home/apt",180,99,7,"1374940800",0.08,1,289
+462863,"Design Bedroom 4min Canal St Martin",2300103,"Alba",NA,"Entrepôt",48.87623,2.35841,"Entire home/apt",55,2,35,"1559923200",0.41,2,101
+463726,"1000 secrets apartment",2296121,"Stephanie",NA,"Hôtel-de-Ville",48.85244,2.36144,"Entire home/apt",400,4,97,"1545840000",2.11,1,221
+464235,"Montmartre Flat with lovely terrace",2306879,"Priscilla",NA,"Buttes-Montmartre",48.89123,2.34186,"Entire home/apt",70,1,10,"1433865600",0.12,1,0
+466074,"apartment 36m2 near Eiffel Tower",2314744,"Mathilde",NA,"Vaugirard",48.84661,2.30316,"Entire home/apt",95,3,23,"1561305600",0.29,1,36
+466434,"Between nature and Eiffel tower.",2316378,"Rod",NA,"Passy",48.86648,2.27336,"Entire home/apt",149,3,48,"1560960000",0.56,1,319
+467378,"Nice flat near Eiffel Tower",2320525,"Florence",NA,"Vaugirard",48.84289,2.29372,"Entire home/apt",72,29,31,"1504281600",0.36,3,16
+467782,"Private room with bathroom Montmartre",2321891,"Veronique",NA,"Buttes-Montmartre",48.89212,2.34165,"Private room",28,1,52,"1485878400",1.46,1,0
+468441,"Great Studio Montmartre-Sacre Cœur",2325206,"Tobias",NA,"Buttes-Montmartre",48.88384,2.3378,"Entire home/apt",79,3,101,"1562256000",1.18,1,178
+468465,"Hip & spacious apt at Père Lachaise",1574586,"Faith",NA,"Ménilmontant",48.85775,2.40083,"Entire home/apt",65,2,48,"1525363200",0.55,1,0
+469203,"Great Apartment (4 nights minimum)",2035302,"Vincent",NA,"Buttes-Montmartre",48.89349,2.35926,"Entire home/apt",150,4,3,"1351008000",0.04,1,365
+469485,"LOVELY APARTMENT IN PARIS NEAR BASTILLE FOR 2 PEOPLE",858460,"Mireille",NA,"Popincourt",48.85313,2.37288,"Entire home/apt",86,3,3,"1537459200",0.26,1,0
+469712,"Real parisian appartment center",2330657,"Pierre",NA,"Panthéon",48.83853,2.34983,"Entire home/apt",125,4,116,"1562515200",1.82,1,191
+470192,"A lovely family house in Paris",2332753,"Carole",NA,"Buttes-Chaumont",48.88077,2.39293,"Entire home/apt",176,3,13,"1532361600",0.27,1,9
+470361,"Magnifique appartement à Bastille",2333548,"Dompnier",NA,"Reuilly",48.84998,2.37397,"Entire home/apt",200,4,17,"1556121600",0.23,1,28
+471523,"Marais apartment in a private mansion",2338745,"Christine",NA,"Temple",48.85952,2.36412,"Entire home/apt",230,2,75,"1561824000",0.87,1,310
+471659,"Awesome Studio Paris Champs Elysées",2339329,"Pierre",NA,"Élysée",48.87451,2.30531,"Entire home/apt",78,5,60,"1503158400",0.7,1,0
+474612,"Spacious, quiet loft, rue Oberkampf",1694065,"Eva",NA,"Popincourt",48.86651,2.38272,"Entire home/apt",250,5,32,"1556985600",0.66,2,88
+474684,"Cosi Studette très calme , Tour Eiffel",2235619,"Astrid",NA,"Vaugirard",48.84392,2.28282,"Private room",69,7,32,"1561392000",0.61,1,274
+474725,"Luxurious flat with a big terrace",2353259,"Sarah",NA,"Entrepôt",48.87112,2.3483,"Entire home/apt",300,3,43,"1556640000",0.51,1,34
+475005,"Charming apt near Bastille/Marais",2354584,"Armand",NA,"Popincourt",48.85863,2.37148,"Entire home/apt",74,5,16,"1536076800",0.22,2,0
+475138,"2 room appt near canal and pompidou",2355151,"Nathalie",NA,"Entrepôt",48.87213,2.35482,"Entire home/apt",55,5,0,"",NA,1,0
+476307,"Joli 3 pièces au coeur de Paris",466683,"Tania",NA,"Batignolles-Monceau",48.88268,2.32044,"Entire home/apt",140,2,4,"1373731200",0.05,1,0
+476468,"Romantic Paris 2 rooms top location",2361749,"Julie",NA,"Popincourt",48.86158,2.37977,"Entire home/apt",95,6,108,"1562601600",1.3,1,131
+476708,"B&B in central Paris with possible cooking lessons",2362921,"Samia",NA,"Popincourt",48.86715,2.37298,"Private room",48,3,130,"1562515200",1.55,2,149
+477193,"90sqm, top of Buttes-Chaumont",1762402,"Benoit",NA,"Buttes-Chaumont",48.87666,2.39395,"Entire home/apt",85,6,7,"1546099200",0.08,2,6
+477650,"BEAUTIFUL STUDIO",2367063,"Caroline",NA,"Batignolles-Monceau",48.87733,2.28672,"Entire home/apt",90,7,5,"1352044800",0.06,3,201
+477766,"Very nice apartment in Paris center",2367525,"Céline",NA,"Popincourt",48.86937,2.37115,"Entire home/apt",210,2,42,"1560096000",0.58,1,41
+478380,"Lovely vintage flat in Paris",2369723,"Pauline",NA,"Reuilly",48.84356,2.38647,"Entire home/apt",50,4,29,"1560700800",0.34,1,12
+479634,"Stylish Apartment No.15",2376168,"Catherine & David",NA,"Observatoire",48.83892,2.33912,"Entire home/apt",80,4,18,"1559923200",0.21,1,266
+479737,"studio flat in the ile saint louis",2376495,"Herve",NA,"Hôtel-de-Ville",48.85449,2.35179,"Entire home/apt",40,120,1,"1467302400",0.03,1,365
+480084,"Duplex de charme / Haut Marais",2295494,"Axel",NA,"Temple",48.86518,2.36324,"Entire home/apt",78,2,15,"1555257600",0.18,1,185
+480274,"Beautiful room in Paris (13e)",2378621,"Julie",NA,"Gobelins",48.82549,2.36358,"Private room",60,2,1,"1342022400",0.01,1,0
+480808,"charming & central private appartment",2381076,"Sarah",NA,"Popincourt",48.85859,2.38034,"Entire home/apt",80,2,39,"1495468800",0.46,2,0
+482419,"Charming studio Mouffetard Village",2388584,"Isabelle",NA,"Panthéon",48.84022,2.3506,"Entire home/apt",55,30,226,"1561478400",2.72,1,284
+483819,"Superbe studette Batignolles calme,asc., vue, clim",1551963,"Danièle",NA,"Batignolles-Monceau",48.88697,2.31701,"Entire home/apt",65,30,16,"1560873600",0.2,2,226
+483921,"Paris, stylish flat in Belleville ",2366442,"Stephane",NA,"Ménilmontant",48.8707,2.38079,"Entire home/apt",64,4,34,"1559577600",0.39,1,5
+484315,"Romantic Montparnasse Garden House",2397483,"Geb",NA,"Observatoire",48.83431,2.31742,"Entire home/apt",100,6,5,"1560441600",0.06,1,294
+485571,"Beautiful One Bedroom Apartment",2404079,"Norman",NA,"Temple",48.86647,2.3591,"Entire home/apt",100,7,0,"",NA,1,0
+486114,"Incredible 2470sqft Haussmanien apt",2406155,"Veronique",NA,"Batignolles-Monceau",48.87958,2.30381,"Entire home/apt",599,4,27,"1561910400",0.37,1,356
+486138,"Historic center of Paris for 2 !",2406154,"Géraldine",NA,"Louvre",48.86078,2.34652,"Entire home/apt",95,2,56,"1524672000",0.7,1,1
+486547,"QUIET STUDIO IN THE HEART OF PARIS",2408130,"Nathalie",NA,"Entrepôt",48.87401,2.35052,"Entire home/apt",80,3,208,"1562256000",2.42,1,218
+487228,"chambre avec balcon dans gd appart",2411321,"Elise",NA,"Buttes-Chaumont",48.88645,2.3833,"Private room",39,2,35,"1553616000",0.48,2,36
+487378,"Large Studio at Montmartre's foot",2411993,"Emma",NA,"Buttes-Montmartre",48.88825,2.34717,"Entire home/apt",90,60,2,"1357315200",0.02,1,364
+487587,"Appart. 43 m2 proche Tour Eiffel!",2210432,"Frédéric",NA,"Vaugirard",48.84662,2.30242,"Entire home/apt",99,5,20,"1470153600",0.23,1,50
+487806,"Apartment close to Eiffel Tower",2413669,"Emmanuel",NA,"Passy",48.86596,2.28349,"Entire home/apt",90,1,367,"1561219200",4.24,1,213
+488911,"Confortable 40m² proche Bastille",2145046,"Christophe",NA,"Reuilly",48.83976,2.39337,"Entire home/apt",74,3,20,"1526832000",0.28,1,222
+489136,"Quiet and Bright Loft",2419705,"Nicole",NA,"Ménilmontant",48.85579,2.39901,"Private room",70,1,49,"1555344000",0.65,1,286
+489419,"Peaceful flat under Paris roofs",2420606,"Edith",NA,"Opéra",48.88099,2.34468,"Entire home/apt",140,5,118,"1561046400",1.37,1,109
+489497,"Le MARAIS SPACIOUS and SUNNY 3Br",2421204,"François",NA,"Temple",48.85832,2.35995,"Entire home/apt",250,4,67,"1556294400",0.79,1,20
+489636,"Bucolic Studio canal Saint Martin",2421683,"Anne",NA,"Entrepôt",48.86856,2.36634,"Entire home/apt",75,2,20,"1507219200",0.31,1,0
+490527,"Refurbished flat Canal St Martin",2300103,"Alba",NA,"Entrepôt",48.87453,2.35817,"Entire home/apt",70,10,12,"1561478400",0.15,2,7
+490554,"parisian flat, Canal St Martin",2425973,"Thibault",NA,"Entrepôt",48.87403,2.36055,"Entire home/apt",115,2,43,"1560528000",0.55,1,230
+491512,"Easy Montmartre Paris Exclusive",1903323,"Tato",NA,"Buttes-Montmartre",48.89002,2.34352,"Private room",53,1,0,"",NA,1,0
+491915,"Paris flat holidays 2,4,6 people",2431177,"Annalisa",NA,"Ménilmontant",48.85038,2.40423,"Entire home/apt",80,4,4,"1410710400",0.05,2,0
+492842,"cozy flat for 2 in latin quarter",2435625,"Elina Et Marc",NA,"Panthéon",48.83828,2.35523,"Entire home/apt",65,100,184,"1560873600",2.18,1,315
+493013,"Typical Parisian Apt - Montsouris",2436233,"Claire",NA,"Observatoire",48.82296,2.33426,"Entire home/apt",60,3,11,"1445097600",0.13,1,0
+493269,"Luminous Apartment - Le Marais",2324461,"Alexandre",NA,"Temple",48.8579,2.36321,"Entire home/apt",130,3,128,"1559923200",1.52,1,190
+493815,"Charming studio in the Marais",2439716,"Maris",NA,"Temple",48.86119,2.35559,"Entire home/apt",98,2,12,"1420473600",0.14,1,0
+495703,"Family appartment near Montmartre",2448343,"Emmanuelle",NA,"Opéra",48.87705,2.34341,"Entire home/apt",290,3,26,"1561651200",0.31,1,315
+495927,"CHARMING NEST IN THE HEART OF PARIS",1617094,"Ahouva",NA,"Luxembourg",48.85651,2.33832,"Entire home/apt",100,3,131,"1562169600",1.81,1,158
+497601,"STUDIO SUR LA BUTTE  MONTMARTRE",1853318,"Marie",NA,"Buttes-Montmartre",48.88807,2.33922,"Entire home/apt",42,2,305,"1561392000",3.61,1,278
+497746,"FAMILY FLAT FOR HOLIDAYS!!!!!!!!!!!",2457456,"Tania",NA,"Entrepôt",48.87093,2.36463,"Entire home/apt",140,4,38,"1556899200",0.45,1,8
+498449,"Charming flat in Belleville",2460730,"Alexandre",NA,"Ménilmontant",48.8735,2.38854,"Entire home/apt",55,2,43,"1549555200",0.59,1,29
+498485,"Little cosy room - canal st martin",2460953,"Eric",NA,"Entrepôt",48.88245,2.36584,"Entire home/apt",40,30,52,"1559664000",0.68,1,106
+498891,"LIKE LIVING IN PARIS@HEART OFMARAIS",1824328,"Umberto",NA,"Temple",48.85722,2.36638,"Entire home/apt",95,2,271,"1560700800",3.23,2,284
+500114,"PANORAMIC VIEW HEART OF """"LE MARAIS""""",2406186,"Brigitte",NA,"Hôtel-de-Ville",48.85397,2.35886,"Entire home/apt",150,5,80,"1562169600",0.94,1,334
+500577,"Charming studio, Eiffel Tour area ",2469931,"Astrid",NA,"Vaugirard",48.84581,2.28999,"Entire home/apt",80,5,0,"",NA,1,0
+500580,"CHARMING APARTMENT IN THE 9TH arron",2324710,"Alexandre Et Chani",NA,"Opéra",48.87869,2.33622,"Entire home/apt",90,4,15,"1562342400",0.18,1,297
+501192,"LOVELY LOFT IN THE MARAIS DISTRICT",656386,"Emanuele - Maria",NA,"Hôtel-de-Ville",48.85711,2.35747,"Entire home/apt",146,60,5,"1513699200",0.06,35,216
+502895,"Paris Centre Appartement of charm.",2481219,"Charlotte",NA,"Entrepôt",48.87458,2.35492,"Entire home/apt",190,2,129,"1562342400",1.56,1,309
+503231,"Luxurious Apart by Champs Elysées",2482371,"Sofia",NA,"Batignolles-Monceau",48.87653,2.29381,"Entire home/apt",100,2,203,"1561392000",2.44,1,0
+503376,"Duplex with terrace, Paris / Nation",2482951,"Cécile",NA,"Ménilmontant",48.85578,2.4056,"Entire home/apt",75,5,2,"1436630400",0.04,1,10
+503569,"Charming bedroom Near Mouffetard",2483760,"Christophe",NA,"Panthéon",48.83813,2.3476,"Private room",35,3,154,"1512748800",1.78,1,0
+504207,"quiet apartment nearby Montparnasse",2486496,"Pauline",NA,"Observatoire",48.83002,2.32356,"Entire home/apt",70,3,19,"1557244800",0.22,1,50
+504964,"Little house in Paris, Loft, Canal",2490225,"Segire",NA,"Entrepôt",48.87613,2.36389,"Entire home/apt",145,3,166,"1560528000",1.93,2,346
+505425,"Large studio wth open air terrace",2481460,"Thomas",NA,"Popincourt",48.85035,2.39019,"Entire home/apt",80,2,20,"1443628800",0.26,1,0
+505610,"1-bedroom apt with amazing view!",2492564,"Danièle",NA,"Gobelins",48.83403,2.36669,"Entire home/apt",85,3,105,"1561478400",1.23,1,195
+506135,"Nice and cosy Flat near Montmartre",2494981,"Mathilde",NA,"Batignolles-Monceau",48.88824,2.32407,"Entire home/apt",60,4,62,"1560096000",0.73,1,3
+507108,"Paris Hausmannian style family flat",2493604,"Hélène",NA,"Observatoire",48.83063,2.32679,"Entire home/apt",180,4,8,"1560787200",0.11,1,278
+507193,"Bright, Modern, Central Location",2500067,"Joseph",NA,"Bourse",48.86869,2.35128,"Entire home/apt",36,1,60,"1561910400",0.7,2,6
+507255,"30 mtr ROMANTIC MONTMARTRE - STUDIO",2491914,"Suzie",NA,"Buttes-Montmartre",48.8846,2.34137,"Entire home/apt",90,3,141,"1562601600",1.85,1,284
+507420,"Cozy Studio near Saint Augustin/ Saint Lazare",76355,"Julia Et Lucas",NA,"Élysée",48.87768,2.32143,"Entire home/apt",60,3,14,"1561910400",0.16,18,356
+508144,"Spacious artists flat in Marais",2503969,"Egé",NA,"Temple",48.85722,2.36515,"Entire home/apt",150,5,12,"1556812800",0.14,1,307
+508163,"Large 1 BD Champs Elysee Paris",2428658,"Laurent",NA,"Élysée",48.87135,2.31198,"Entire home/apt",120,4,2,"1517500800",0.09,1,0
+508235,"Spacious&pleasant in best neighbor",1878580,"Nour",NA,"Entrepôt",48.87428,2.35089,"Entire home/apt",154,3,35,"1562256000",0.41,1,285
+508850,"Charming&cosy nr canal Saint-Martin",2508272,"Charley",NA,"Entrepôt",48.8691,2.36831,"Entire home/apt",80,2,107,"1558800000",1.24,1,19
+509332,"Cosy 65m2 flat Bastille-Le Marais",2124759,"Claire & Ben",NA,"Popincourt",48.85723,2.37355,"Entire home/apt",90,3,50,"1559404800",0.58,1,5
+509344,"Amazing Apartment Center of Paris",1281575,"Marc",NA,"Entrepôt",48.87199,2.36389,"Entire home/apt",110,5,111,"1558800000",1.3,1,100
+509357,"Sympathique appartement lumineux.",2510200,"Jacqueline",NA,"Gobelins",48.82732,2.35335,"Entire home/apt",70,5,115,"1561478400",1.37,1,332
+509705,"Le Marais / Beaubourg  peacefull Duplex",2511495,"Paul",NA,"Temple",48.86482,2.35602,"Entire home/apt",125,3,25,"1562256000",0.29,1,74
+510375,"Stylish Apartment NUM.15",2514640,"Bonita",NA,"Observatoire",48.83907,2.32955,"Entire home/apt",140,4,6,"1562428800",0.12,2,19
+510651,"Private Room with Breakfast - Paris",2514214,"Antoine",NA,"Buttes-Chaumont",48.88975,2.37535,"Private room",83,1,309,"1561737600",3.72,1,335
+510741,"Bright and calm",2516800,"Marielle",NA,"Buttes-Chaumont",48.87775,2.40117,"Entire home/apt",99,3,66,"1538409600",0.77,1,11
+510769,"PARIS:2 LOVELY DOUBLE ROOMS",2431177,"Annalisa",NA,"Ménilmontant",48.84921,2.40377,"Private room",60,4,0,"",NA,2,0
+510983,"Hey Paris !!",2593614,"Charlotte",NA,"Ménilmontant",48.87087,2.39497,"Private room",46,8,135,"1561564800",1.58,2,331
+511035,"Charme apartment 11th arr 4people",281528,"Anne-Sophie",NA,"Popincourt",48.85458,2.38667,"Entire home/apt",114,30,16,"1516550400",0.19,6,1
+511386,"Charming flat in Montmartre, Paris",2386821,"Florent",NA,"Buttes-Montmartre",48.88548,2.34609,"Entire home/apt",60,13,17,"1501344000",0.2,1,132
+512717,"Cute quiet & sunny appart Paris",2525750,"Emilie",NA,"Ménilmontant",48.85258,2.40394,"Entire home/apt",43,7,31,"1546358400",0.36,1,0
+513384,"Chez Lilas",2528864,"Lilas Louise",NA,"Buttes-Montmartre",48.89507,2.34584,"Entire home/apt",55,3,123,"1555862400",1.43,1,43
+514402,"Duplex in Paris XI",2533682,"Christophe",NA,"Popincourt",48.86315,2.37344,"Entire home/apt",100,5,49,"1546704000",0.58,1,245
+514562,"Perfect place in the heart of Paris",2517149,"Julien",NA,"Reuilly",48.85077,2.37486,"Entire home/apt",100,2,80,"1560614400",1.52,1,40
+514746,"apartment to rent 700€/m julyaugust",2534957,"Hélène",NA,"Buttes-Chaumont",48.8767,2.40273,"Entire home/apt",50,4,0,"",NA,1,0
+514870,"Sunny apartment in central Paris!",2535616,"Sara",NA,"Vaugirard",48.84407,2.29398,"Entire home/apt",109,5,0,"",NA,1,0
+515970,"Luxury Duplex - Place des Vosges Marais with  AC",2474755,"Artiste Sandrine",NA,"Hôtel-de-Ville",48.85452,2.36571,"Entire home/apt",741,4,88,"1561824000",1.05,1,297
+516334,"CHARMING apartment with 6 Windows",2542684,"Agathe",NA,"Popincourt",48.86571,2.37448,"Entire home/apt",95,2,57,"1559664000",0.67,1,36
+516537,"Cosy, calm and warm Flat Paris11",2543262,"Romain",NA,"Popincourt",48.86613,2.38015,"Entire home/apt",70,2,9,"1469894400",0.12,1,0
+516847,"Pent house in Paris rive gauche",716205,"Ann",NA,"Observatoire",48.83208,2.33109,"Entire home/apt",140,7,0,"",NA,5,365
+516993,"Eden LUTECIA @ MONGE Quartier Latin",2545542,"BruNab",NA,"Panthéon",48.84428,2.35112,"Entire home/apt",168,4,151,"1561046400",1.76,1,52
+517121,"A typical studio in real Paris !",2545523,"Marie",NA,"Entrepôt",48.87174,2.37061,"Entire home/apt",35,10,38,"1504368000",0.45,1,0
+517137,"Big and Sunny flat in Montmartre!",2442448,"Matthieu",NA,"Buttes-Montmartre",48.88733,2.34987,"Entire home/apt",80,3,43,"1542643200",0.56,1,0
+517323,"Cosy studio in Le Marais",849150,"Laure",NA,"Temple",48.86375,2.36066,"Entire home/apt",55,14,11,"1409500800",0.13,2,0
+517488,"Splendid flat at Montmartre!!",2547426,"Sophie",NA,"Buttes-Montmartre",48.88605,2.33634,"Entire home/apt",110,1,1,"1435593600",0.02,1,0
+518231,"PrivateSuite Cosy-1à4p-B&B-PANTHEON",2550681,"Marine",NA,"Panthéon",48.84078,2.34775,"Private room",160,2,36,"1561132800",0.42,1,262
+518650,"Lovely Parisian studio @ Nation",2552594,"Tamara",NA,"Popincourt",48.85057,2.39228,"Entire home/apt",60,4,172,"1557504000",2.08,1,14
+518742,"True Parisien life. Great amenities",2553180,"Michelle",NA,"Luxembourg",48.8514,2.33924,"Entire home/apt",130,2,107,"1559404800",1.25,2,273
+520555,"2 bdr flat near Grands Magasins",74519,"Delphine",NA,"Opéra",48.87241,2.34228,"Entire home/apt",155,1,0,"",NA,1,0
+520891,"Nice apartment 30m2 Oberkampf (11e)",2562051,"Vanessa",NA,"Popincourt",48.86594,2.37731,"Entire home/apt",66,3,105,"1562342400",1.46,1,25
+520929,"Sunny flat with a view, city center",2562637,"Julien",NA,"Popincourt",48.86931,2.38022,"Entire home/apt",120,4,5,"1437926400",0.07,1,0
+520951,"A typically parisian apartment",2562621,"Miriam",NA,"Entrepôt",48.87047,2.36903,"Entire home/apt",120,7,1,"1533571200",0.09,1,13
+521080,"Quiet LOFT with a glimpse at the EIFFEL tower",2563180,"Camille",NA,"Vaugirard",48.8442,2.31775,"Entire home/apt",59,2,31,"1562083200",0.6,1,32
+521583,"❤Very close to Paris Center, authentic french area",2564891,"Cindy",NA,"Entrepôt",48.88391,2.35564,"Private room",19,2,105,"1562256000",1.22,5,20
+521773,"charming 3 pieces near Trocadero",2565937,"Géraldine",NA,"Passy",48.86141,2.2765,"Entire home/apt",120,4,1,"1546444800",0.16,1,218
+522428,"Buttes chaumont and Belleville",2569842,"Raphaële",NA,"Buttes-Chaumont",48.87522,2.3804,"Entire home/apt",75,4,4,"1560614400",0.05,2,5
+522835,"Charming flat near Pere Lachaise",2571099,"Jeanne",NA,"Ménilmontant",48.87029,2.39507,"Entire home/apt",90,3,11,"1561219200",0.13,1,362
+523161,"Appartement familiale proche Canal St Martin",2511305,"Gaelle",NA,"Entrepôt",48.87355,2.35475,"Entire home/apt",98,3,14,"1560700800",0.73,1,5
+523446,"Great central apartment in Paris!",2572527,"Almog",NA,"Palais-Bourbon",48.85354,2.31993,"Entire home/apt",60,5,27,"1471104000",0.31,1,0
+524067,"Beautiful & comfy 1 bdrm in trendy 9th district",873774,"Flora",NA,"Opéra",48.88324,2.34741,"Entire home/apt",93,30,26,"1553270400",0.3,1,305
+524805,"Charming Apartment Paris Center",2580047,"Claude",NA,"Bourse",48.86837,2.34989,"Entire home/apt",89,4,21,"1441468800",0.25,1,70
+524809,"Appartement au calme centre Paris",2580152,"Anne Marie",NA,"Popincourt",48.85552,2.37742,"Entire home/apt",30,6,0,"",NA,2,0
+524896,"Saint Martin 212 Charming studio",2580483,"Georges",NA,"Entrepôt",48.88088,2.36728,"Entire home/apt",60,3,351,"1562342400",4.08,1,172
+524924,"PARIS CANAL ST MARTIN!",2074284,"Stéphane",NA,"Entrepôt",48.87098,2.36229,"Entire home/apt",50,2,37,"1561219200",0.44,1,31
+525128,"typical charming parisian apartment",2581044,"Clemence",NA,"Luxembourg",48.8492,2.34179,"Entire home/apt",130,2,93,"1560873600",1.1,1,340
+526235,"★Montmartre★Opera★design★Cozy 45m2!",2586740,"Julien",NA,"Batignolles-Monceau",48.88601,2.32472,"Entire home/apt",84,1,51,"1482508800",0.64,1,295
+526316,"2 pièces au coeur de Paris",2136939,"Catherine",NA,"Opéra",48.87844,2.34119,"Private room",39,1,0,"",NA,1,0
+526351,"sous location vacances à Paris",2580152,"Anne Marie",NA,"Popincourt",48.85533,2.37852,"Entire home/apt",40,8,0,"",NA,2,0
+526719,"Cosy apt. near Arch of Triumph",2551827,"Louis & Marie",NA,"Batignolles-Monceau",48.88247,2.29502,"Entire home/apt",120,5,24,"1457020800",0.29,1,90
+526838,"Charming apartment in Saint-Michel",227176,"Jeremie",NA,"Panthéon",48.85214,2.3443,"Entire home/apt",120,7,0,"",NA,1,0
+526920,"Montmartre at the best price !",2589501,"Pierre",NA,"Buttes-Montmartre",48.89079,2.34427,"Entire home/apt",50,3,10,"1430236800",0.12,1,0
+527267,"Spacious Apt on Canal Saint-Martin",2591204,"Eric",NA,"Entrepôt",48.8735,2.36186,"Entire home/apt",200,2,5,"1468771200",0.07,1,16
+528039,"COZY FLAT - Le Marais - PARIS",2594596,"Anne & Will",NA,"Temple",48.86109,2.36237,"Entire home/apt",99,4,202,"1561305600",2.54,1,0
+528088,"Wonderful sunny 2BD in Paris !",2594827,"Vero",NA,"Reuilly",48.83871,2.40093,"Entire home/apt",160,3,20,"1468339200",0.24,1,208
+528263,"Lovely & Sunny, near Menilmontant",2595078,"Aurélie",NA,"Popincourt",48.86461,2.38029,"Entire home/apt",78,7,20,"1560355200",0.38,1,0
+528274,"Nice family apartment+large terrace",2595265,"Mathilde",NA,"Passy",48.86442,2.27971,"Entire home/apt",290,5,7,"1533916800",0.08,1,39
+528415,"Perfect MARAIS flat best location!",410805,"Monique",NA,"Popincourt",48.86171,2.36713,"Entire home/apt",90,2,30,"1502380800",0.36,1,0
+528685,"Charming FamilyApartment Belleville",2597485,"Valerie",NA,"Entrepôt",48.87314,2.37233,"Entire home/apt",100,3,6,"1439913600",0.09,1,0
+528769,"SUNNY STUDIO HEART OF PARIS MARAIS",2597876,"Kyrie Et Nico",NA,"Hôtel-de-Ville",48.86069,2.35048,"Entire home/apt",80,2,9,"1503158400",0.12,1,16
+529071,"CHARMING HOUSE WITH PRIVATE GARDEN",2599352,"Daniel",NA,"Reuilly",48.84621,2.4081,"Entire home/apt",120,5,4,"1501171200",0.14,1,24
+529463,"Beautiful apartment  heart of Paris",2601711,"Félicité",NA,"Bourse",48.86632,2.34742,"Entire home/apt",100,4,24,"1560096000",0.4,1,53
+529549,"Charmant 2 pièces près de montparna",944297,"Nada",NA,"Observatoire",48.82446,2.32798,"Entire home/apt",97,3,85,"1560182400",1,1,191
+529711,"Lovely Apartment in Montmartre",819051,"Sebastiano",NA,"Buttes-Montmartre",48.88548,2.34623,"Entire home/apt",90,4,47,"1540656000",0.6,2,242
+529891,"Try me! Functional duplex in Marais",2543997,"Nicolas",NA,"Temple",48.86325,2.36397,"Entire home/apt",99,2,179,"1561046400",2.08,1,192
+530246,"Very Nice & Comfy Flat Eiffel Tower",2604436,"Nicolas",NA,"Vaugirard",48.85385,2.29121,"Entire home/apt",130,1,487,"1562515200",5.9,5,235
+530288,"Design flat next the Eiffel Tower",2604436,"Nicolas",NA,"Vaugirard",48.85398,2.29099,"Entire home/apt",130,1,503,"1562688000",6.08,5,190
+530318,"Great flat near Eiffel Tower",2604436,"Nicolas",NA,"Vaugirard",48.85058,2.28932,"Entire home/apt",130,1,424,"1562601600",5.22,5,212
+530324,"Great location near Eiffel Tower",2604436,"Nicolas",NA,"Vaugirard",48.84813,2.29343,"Entire home/apt",130,1,510,"1562601600",6.2,5,231
+530942,"Paris Center - Le Marais / Bastille",2607103,"Richard",NA,"Popincourt",48.85899,2.37424,"Entire home/apt",290,5,78,"1558195200",0.95,1,202
+531577,"",2612549,"Satchie",NA,"Entrepôt",48.8749,2.35803,"Entire home/apt",54,4,12,"1472572800",0.15,2,0
+532407,"Heart of the Marais, beautiful flat",2615877,"Yael",NA,"Hôtel-de-Ville",48.85376,2.35782,"Entire home/apt",160,1,48,"1432569600",0.57,1,0
+532504,"Charmant 3 pièces, sans vis-à-vis",2616866,"Isabelle",NA,"Reuilly",48.84759,2.39731,"Entire home/apt",94,3,15,"1536940800",0.25,1,5
+532531,"Charming 1 bedroom Parisian apt.",2572320,"Mary Ann",NA,"Buttes-Montmartre",48.89058,2.34316,"Entire home/apt",52,2,10,"1396972800",0.14,1,0
+532991,"PARIS hipster area -buttes chaumont.",2302145,"Edith",NA,"Buttes-Chaumont",48.87608,2.37888,"Entire home/apt",80,6,9,"1561132800",0.11,1,365
+533399,"Beautiful and typical parisian aprt",2621374,"Aymeric",NA,"Passy",48.87513,2.28051,"Entire home/apt",300,7,0,"",NA,1,179
+533951,"Over the roofs of Montmartre",2615334,"Pierre",NA,"Buttes-Montmartre",48.88587,2.34697,"Entire home/apt",120,5,8,"1480867200",0.1,1,0
+534016,"Flat near Eiffel tower",2625121,"Sam",NA,"Vaugirard",48.84613,2.29723,"Entire home/apt",120,4,243,"1561219200",2.94,2,129
+534266,"MOUFFETARD / JARDIN DU LUXEMBOURG",2625988,"Constance",NA,"Panthéon",48.84231,2.34211,"Entire home/apt",110,6,17,"1535731200",0.23,1,0
+534568,"Made for you - Center of Paris !",2627161,"Maxime",NA,"Panthéon",48.83933,2.35029,"Private room",39,1,140,"1560528000",1.64,15,34
+534650,"Small house in Paris Center 5p",2526137,"Gilian",NA,"Temple",48.86681,2.3529,"Entire home/apt",80,1,308,"1561219200",3.58,5,259
+535068,"one room flat in le Marais",2075925,"Anne",NA,"Temple",48.86553,2.36078,"Entire home/apt",85,500,17,"1467648000",0.21,2,363
+535165,"CHARMING APART 10 MIN MONTMARTRE",2629401,"Natacha",NA,"Buttes-Montmartre",48.88449,2.35037,"Private room",85,1,391,"1562428800",4.57,1,0
+536082,"Appart parisien avec vue sur le square Gardette",2634222,"Aurore",NA,"Popincourt",48.86211,2.38132,"Entire home/apt",225,5,3,"1519920000",0.05,1,211
+536347,"New Spacious Studio a Madeleine 
+BAIL DE MOBILITÉ",2635132,"Nina",NA,"Louvre",48.86845,2.32544,"Entire home/apt",170,30,28,"1544976000",0.34,1,253
+536653,"Trocadero - Georges Mandel - 100 M2",2635952,"Anne",NA,"Passy",48.86397,2.28252,"Entire home/apt",285,4,6,"1538150400",0.44,1,365
+536766,"2 rooms to rent. Lovely appartement",2636529,"Tom",NA,"Passy",48.83484,2.24834,"Entire home/apt",69,6,3,"1458748800",0.07,1,357
+536831,"ARTIST STUDIO VIEW ON EIFFEL TOWER",1802008,"Anémone",NA,"Palais-Bourbon",48.85547,2.30874,"Entire home/apt",120,3,53,"1556553600",0.73,19,137
+536884,"TROCADERO LUXURY 2 BEDROOM APT",1802008,"Anémone",NA,"Passy",48.85828,2.28207,"Entire home/apt",240,4,20,"1561305600",0.23,19,85
+537192,"Charming appart near Montparnasse",2638524,"Cécilia",NA,"Observatoire",48.82848,2.31658,"Entire home/apt",109,3,20,"1560614400",0.24,1,276
+537443,"Lovely Studio Paris / Eiffel Tower",2249452,"Jean-Jacques",NA,"Vaugirard",48.85508,2.28886,"Entire home/apt",100,4,161,"1561219200",1.9,1,357
+537823,"Studio in charming district Marais",2642376,"David",NA,"Temple",48.86539,2.36155,"Entire home/apt",70,3,74,"1556985600",0.87,1,11
+537970,"Ideal Three-Room Parisian Flat",2474463,"Camille",NA,"Gobelins",48.82438,2.35859,"Entire home/apt",94,1,1,"1487088000",0.03,2,0
+538222,"Eiffel Tower view from the terrace",2643968,"Grégoire",NA,"Buttes-Montmartre",48.88489,2.33418,"Entire home/apt",250,2,30,"1561132800",0.36,1,326
+538278,"Charming 3 bedrooms, in a nice Parisian flat",2586184,"Anne",NA,"Opéra",48.87185,2.34245,"Private room",80,3,124,"1560268800",1.45,1,93
+538767,"Lovely Flat - Canal Saint-Martin",2646531,"Clement",NA,"Entrepôt",48.8715,2.36244,"Entire home/apt",79,4,77,"1559836800",0.9,1,240
+539317,"Family flat near Canal St Martin",2650223,"Sophie",NA,"Buttes-Chaumont",48.88156,2.37036,"Entire home/apt",110,3,29,"1559404800",0.34,1,3
+539722,"2 bed family in heart of Marais",2428645,"Anna And Dylan",NA,"Hôtel-de-Ville",48.85991,2.35366,"Entire home/apt",260,2,145,"1560700800",1.73,1,317
+539800,"Charming apartment in Paris",2652399,"Nina",NA,"Hôtel-de-Ville",48.85888,2.3541,"Entire home/apt",250,3,65,"1543161600",0.89,2,54
+539876,"Grand studio aux 30 m2 de terrasse",2652596,"Lydie",NA,"Passy",48.84735,2.26852,"Entire home/apt",60,3,4,"1459872000",0.07,1,0
+539880,"80m2 PARIS CENTRE @ Bonne Nouvelle",2639311,"Pierre Alain",NA,"Opéra",48.87149,2.34779,"Entire home/apt",170,4,32,"1499788800",0.38,1,0
+540206,"Cosy Apartment St-Germain-des-Prés",2654735,"Mathieu",NA,"Luxembourg",48.85451,2.33405,"Entire home/apt",98,4,17,"1562256000",0.21,1,171
+540214,"charmant studio lumineux paris 10e",2654712,"Isabelle",NA,"Entrepôt",48.87548,2.37157,"Entire home/apt",49,3,16,"1467302400",0.24,1,0
+541503,"Charming 2 rooms, clear and calm",2662130,"Françoise",NA,"Batignolles-Monceau",48.88599,2.31865,"Entire home/apt",65,2,90,"1560528000",1.11,1,0
+541509,"Very lovely flat on the canal",2662013,"Annabelle",NA,"Entrepôt",48.87831,2.36919,"Entire home/apt",70,2,19,"1401638400",0.29,2,0
+541521,"Cosy & Quiet flat_refurbished 2018_Bastille",2662206,"Marcela",NA,"Popincourt",48.85853,2.37459,"Entire home/apt",75,1,78,"1560787200",0.92,1,0
+541578,"Sous les toits à Montmartre!",2662529,"Juliette",NA,"Buttes-Montmartre",48.88769,2.35305,"Entire home/apt",60,7,2,"1350489600",0.02,1,0
+541619,"maison d'artiste sur cour fleurie",2662503,"Sophia",NA,"Entrepôt",48.87413,2.35514,"Entire home/apt",160,2,4,"1538496000",0.26,1,35
+541720,"Spacious 2 bd by Luxembourg Garden",1424143,"Aysegul",NA,"Gobelins",48.83621,2.34402,"Entire home/apt",100,3,11,"1503504000",0.14,1,0
+541927,"Studioflat near the marais/Bastille",2664502,"Lou",NA,"Popincourt",48.86265,2.37156,"Entire home/apt",59,2,200,"1560873600",2.34,3,239
+541941,"Private room #24 clean and good value in Paris",2664648,"Sophie, Fred Et Chaimaa",NA,"Ménilmontant",48.86813,2.40775,"Private room",24,1,196,"1561478400",2.29,22,362
+542029,"Chambre dans appart central Paris",2664704,"Claudine",NA,"Entrepôt",48.88298,2.36164,"Private room",70,1,0,"",NA,2,0
+542535,"Appartement Paris Bastille-Marais",2668105,"Géraldine",NA,"Popincourt",48.85766,2.36917,"Entire home/apt",88,1,5,"1432569600",0.06,1,0
+542808,"Sunny apartment 1bd - Bastille",2669064,"Walter",NA,"Reuilly",48.85226,2.37007,"Entire home/apt",103,2,47,"1560009600",0.76,1,231
+543233,"| Unique Design central paris |",2670749,"Thomas",NA,"Bourse",48.8668,2.35225,"Entire home/apt",120,10,45,"1560441600",0.54,1,357
+543241,"Grand 2 pièces parc Buttes Chaumont",2411321,"Elise",NA,"Buttes-Chaumont",48.88686,2.38226,"Entire home/apt",52,3,24,"1558454400",0.38,2,273
+543610,"amazing view of sacre coeur flat",76355,"Julia Et Lucas",NA,"Buttes-Montmartre",48.88271,2.34228,"Entire home/apt",160,3,1,"1398268800",0.02,18,365
+543694,"CHARMING LITTLE NEST IN MONTMARTRE",2672992,"Tinou",NA,"Buttes-Montmartre",48.88926,2.34647,"Entire home/apt",50,3,8,"1556640000",0.1,1,0
+543779,"Paris VI Big bedroom with bathroom",2673177,"Ogi",NA,"Luxembourg",48.84592,2.3196,"Private room",57,3,69,"1555171200",0.8,1,0
+543878,"Imperial Suite Haut-Marais, Paris",2673891,"Thy",NA,"Temple",48.86126,2.36321,"Entire home/apt",300,7,22,"1561737600",0.26,1,313
+545148,"(Phone number hidden by Airbnb) bedroom apartment - CHATELET SENTIER",2667370,"Gaëlle, Owner Of PARISIAN HOME",NA,"Bourse",48.86777,2.34326,"Entire home/apt",62,30,3,"1556726400",0.04,141,0
+545381,"ROOM GARE DU NORD 1pers 50e/night",2681154,"Lil",NA,"Entrepôt",48.87989,2.35289,"Private room",50,2,69,"1553270400",1.01,2,348
+546041,"Quiet bright flat in Montmartre",2684583,"Boris",NA,"Buttes-Montmartre",48.88571,2.33635,"Entire home/apt",50,2,114,"1561824000",1.35,1,0
+546099,"Quiet and cosy flat in Gambetta",2684782,"Nicolas",NA,"Ménilmontant",48.86706,2.39781,"Entire home/apt",70,2,55,"1561478400",1.11,1,14
+546128,"Beautiful apartment/Bastille area",2684318,"Flora",NA,"Reuilly",48.85017,2.37617,"Entire home/apt",90,2,4,"1439913600",0.06,1,0
+546396,"Magnificent view on Eiffel Tower",2012441,"Hélène",NA,"Passy",48.85651,2.28415,"Entire home/apt",405,4,16,"1561737600",0.19,1,95
+546719,"Cosy studio canal Saint-Martin",2688582,"Cyril",NA,"Entrepôt",48.87127,2.36986,"Entire home/apt",45,5,12,"1499529600",0.14,1,0
+546759,"Quiet and lovely flat in Paris",2688817,"Camille",NA,"Popincourt",48.8602,2.38174,"Entire home/apt",65,4,4,"1428854400",0.05,1,0
+546889,"502254 - PENTHOUSE WITH TERRASSE",2667370,"Gaëlle, Owner Of PARISIAN HOME",NA,"Bourse",48.86752,2.34498,"Entire home/apt",857,3,29,"1546617600",0.34,141,133
+547865,"Loft with terrace near Montmartre",1849634,"Juliette",NA,"Buttes-Montmartre",48.88791,2.36127,"Entire home/apt",84,5,9,"1558627200",0.11,2,1
+547907,"Cosy apartment / Center of Paris",2693378,"Agathe",NA,"Bourse",48.86933,2.35192,"Entire home/apt",55,4,7,"1491667200",0.14,1,0
+549201,"Lovely Latin Quarter 3mn Notre Dame",2627161,"Maxime",NA,"Panthéon",48.84814,2.34666,"Entire home/apt",86,3,121,"1560096000",1.42,15,244
+549226,"Private room #21 cheap and clean in Paris",2664648,"Sophie, Fred Et Chaimaa",NA,"Ménilmontant",48.86767,2.40899,"Private room",45,1,224,"1561219200",2.63,22,329
+549295,"Private room #33 cheap and clean in Paris",2664648,"Sophie, Fred Et Chaimaa",NA,"Ménilmontant",48.86817,2.40877,"Private room",30,1,207,"1561219200",2.42,22,362
+549546,"Duplex center 4 bedrooms 1300sqft",2701471,"Nicolas",NA,"Entrepôt",48.8705,2.3645,"Entire home/apt",250,4,9,"1477756800",0.13,1,0
+549941,"Heart of Le Marais, very secured building, .",2694418,"Emmanuel",NA,"Hôtel-de-Ville",48.8556,2.36409,"Private room",119,3,293,"1562428800",3.46,1,231
+550225,"studio en plein coeur de paris",746390,"Edouard",NA,"Hôtel-de-Ville",48.85997,2.3494,"Entire home/apt",70,2,386,"1560441600",4.67,3,166
+551481,"Le Marais, 55m2 beautiful apartment",2710505,"Carl",NA,"Temple",48.86415,2.35964,"Entire home/apt",155,3,18,"1558454400",0.23,1,257
+551560,"Stunning 1 Brd Apt - Paris 5",2710751,"Pauline",NA,"Panthéon",48.8478,2.35455,"Entire home/apt",130,2,27,"1538409600",0.33,1,191
+551613,"Joli 2 pièces au canal st martin",2710975,"Céline",NA,"Entrepôt",48.87423,2.37043,"Entire home/apt",61,3,60,"1562688000",0.85,1,0
+552628,"Your Own Duplex 50 m2 With Terrace",2715603,"Charlotte Et Mathieu",NA,"Gobelins",48.82616,2.3728,"Private room",80,2,247,"1561564800",2.9,1,238
+552916,"Private room in a lovely apartment",2717451,"Nono",NA,"Ménilmontant",48.86782,2.38508,"Private room",42,3,76,"1555516800",1.1,1,39
+553470,"54m2 au coeur de Paris - République",2719942,"Joann & Masha",NA,"Temple",48.86848,2.35803,"Entire home/apt",115,3,11,"1382716800",0.13,1,0
+553502,"Smart 325f flat 10min to Montmartre",2719591,"Florian",NA,"Buttes-Montmartre",48.89007,2.35181,"Entire home/apt",58,2,34,"1525968000",0.41,1,0
+553559,"Nice studio-flat luminous Paris 20",2720361,"Amanda",NA,"Ménilmontant",48.85304,2.40495,"Entire home/apt",38,1,3,"1531670400",0.07,1,0
+553689,"Paris 70m Apart Canal S Martin",2720849,"Katarzyna",NA,"Entrepôt",48.8705,2.36639,"Entire home/apt",110,3,1,"1446220800",0.02,1,0
+553823,"Artist cosy flat / Film studio",2721153,"Mélina",NA,"Ménilmontant",48.87047,2.38932,"Entire home/apt",50,15,8,"1440691200",0.14,1,130
+554302,"Lovely studio in standing residence",2313021,"Christian",NA,"Vaugirard",48.83542,2.28036,"Entire home/apt",80,5,22,"1551542400",0.98,2,25
+554455,"Big Studio Montmartre",2725712,"Sarah",NA,"Opéra",48.87894,2.34378,"Entire home/apt",60,1,0,"",NA,1,0
+554531,"terrasse Paris 20",2664857,"Cilvy",NA,"Ménilmontant",48.86817,2.39884,"Entire home/apt",90,5,33,"1551974400",0.4,1,90
+554569,"★ Luminous apartment - Eiffel Tower",2726237,"Julien",NA,"Vaugirard",48.84775,2.29963,"Entire home/apt",120,2,51,"1561132800",0.86,1,0
+554876,"Full apartement 60m², center + view",2727941,"Nicolas",NA,"Popincourt",48.8604,2.37454,"Entire home/apt",79,3,52,"1481990400",0.65,1,0
+555083,"**Trendy Paris, here you are!**",2728740,"Ella",NA,"Entrepôt",48.87195,2.36928,"Entire home/apt",70,1,5,"1383926400",0.06,1,0
+555148,"Very charming Montmartre apartment,",2729346,"Emmanuelle",NA,"Buttes-Montmartre",48.89328,2.34217,"Entire home/apt",110,7,2,"1434038400",0.02,1,0
+555437,"Lumineux, confortable, bien situé",2731156,"Juliette",NA,"Entrepôt",48.87596,2.35991,"Entire home/apt",150,1,1,"1347811200",0.01,1,0
+555552,"Large, bright and quiet apt. near Canal St-Martin",2731657,"Olivier",NA,"Popincourt",48.86903,2.36896,"Entire home/apt",115,3,28,"1546099200",0.38,1,0
+556108,"1 bdr apartment-Paris Eiffel Tower",2563093,"Laetitia",NA,"Palais-Bourbon",48.8612,2.3069,"Entire home/apt",160,3,0,"",NA,1,0
+556141,"Great studio at Bercy - Gare Lyon",2734962,"Yakelin",NA,"Reuilly",48.83546,2.38566,"Entire home/apt",49,4,15,"1493654400",0.24,1,0
+556379,"Paris - Bright and cozy 80m2 flat",2735858,"Franck",NA,"Buttes-Chaumont",48.87583,2.37728,"Entire home/apt",150,5,3,"1446393600",0.05,1,0
+556383,"CHARMING & SPACIOUS APT + BALCONY IN MONTMARTRE",2735949,"Marina",NA,"Buttes-Montmartre",48.89116,2.3402,"Entire home/apt",85,30,24,"1439740800",0.29,3,364
+556557,"location du musicien",2736768,"Octavio",NA,"Buttes-Chaumont",48.88604,2.37135,"Entire home/apt",70,7,0,"",NA,1,0
+556635,"Private room #03 cheap and clean in Paris",2664648,"Sophie, Fred Et Chaimaa",NA,"Ménilmontant",48.86704,2.40927,"Private room",45,1,171,"1561478400",2,22,357
+556673,"Private room #02 clean and good value in Paris",2664648,"Sophie, Fred Et Chaimaa",NA,"Ménilmontant",48.86834,2.4088,"Private room",29,1,203,"1561392000",2.39,22,360
+557051,"Live in the heart of Paris. Marais.",2738836,"Patrick",NA,"Hôtel-de-Ville",48.86101,2.35321,"Entire home/apt",145,5,38,"1562428800",0.46,1,227
+557192,"Beautiful flat in Montmatre/Paris",2739262,"Virginie",NA,"Buttes-Montmartre",48.89295,2.3337,"Entire home/apt",100,7,0,"",NA,1,0
+557246,"Family Loft between Montmartre & Champs Elysées",2736576,"Hélène",NA,"Batignolles-Monceau",48.88501,2.32137,"Entire home/apt",415,2,109,"1562256000",1.28,1,232
+557598,"Grand appartement de standing lumineux et calme.",2663980,"Jessica",NA,"Passy",48.84355,2.26928,"Entire home/apt",80,15,0,"",NA,1,0
+557604,"Lovely flat quartier Montmartre",2741673,"Fanny",NA,"Buttes-Montmartre",48.8927,2.34227,"Entire home/apt",70,6,10,"1534089600",0.19,1,24
+557647,"Lovely 1 bedroom Apt, Le Marais",2741838,"Pierre",NA,"Hôtel-de-Ville",48.8571,2.35899,"Entire home/apt",85,5,22,"1440432000",0.26,1,39
+557686,"Cosy flat near canal Saint Martin",2742051,"Jules",NA,"Entrepôt",48.873,2.36708,"Entire home/apt",57,7,8,"1546272000",0.09,1,0
+557717,"Beautiful old-style Paris home 10th",2741323,"Nicole",NA,"Entrepôt",48.87821,2.35222,"Entire home/apt",45,7,16,"1506700800",0.19,1,135
+557768,"designers loft in a trendy area",2742424,"Bruno",NA,"Entrepôt",48.87542,2.3525,"Entire home/apt",300,4,0,"",NA,1,0
+557913,"Cheap flat in Paris",2743162,"Anais",NA,"Buttes-Montmartre",48.88851,2.35525,"Entire home/apt",30,15,2,"1451145600",0.04,1,0
+558304,"Loft Design in Bastille by YUU",1711544,"Augusto",NA,"Popincourt",48.85395,2.3727,"Private room",108,2,204,"1559750400",2.78,4,330
+558368,"Apartment 3 min from Eiffel tower",2234666,"Astrid",NA,"Palais-Bourbon",48.85752,2.30237,"Entire home/apt",79,1,25,"1443974400",0.29,1,0
+558569,"60 m2 rooftop + Eiffel Tower view",2746545,"Patricia",NA,"Vaugirard",48.84209,2.29901,"Entire home/apt",150,3,89,"1561737600",1.07,1,161
+558768,"Penthouse and terrace in Montmartre",2747520,"Adila",NA,"Buttes-Montmartre",48.89434,2.36151,"Entire home/apt",60,4,26,"1532793600",0.31,1,14
+558913,"Lovely Appartement for 2 in Paris",2747741,"Laure-Anne",NA,"Ménilmontant",48.85758,2.40551,"Entire home/apt",50,2,2,"1404057600",0.03,1,0
+559091,"INCREDIBLE artist loft 200 m2",2232067,"Sophie",NA,"Popincourt",48.85828,2.38786,"Private room",70,2,20,"1514822400",0.24,3,365
+559474,"Live in Montmartre.....",2436860,"Krystell",NA,"Buttes-Montmartre",48.88492,2.34578,"Entire home/apt",100,2,40,"1561651200",0.61,1,308
+559493,"Le Marais    Cosy & Elegant",2750285,"Magali",NA,"Temple",48.86454,2.36389,"Entire home/apt",270,2,75,"1561910400",0.88,1,216
+560544,"house with private garden in Paris",2756491,"Françoise",NA,"Gobelins",48.82419,2.35433,"Entire home/apt",285,7,49,"1561910400",0.62,1,233
+560694,"Flat 2 Rooms in Paris, Bastille",2757008,"Ludovic",NA,"Popincourt",48.856,2.37538,"Entire home/apt",69,4,4,"1432569600",0.06,1,0
+560992,"un Paris typique de Parisien",2758125,"Francoise",NA,"Panthéon",48.84699,2.35327,"Entire home/apt",200,2,31,"1562083200",0.65,1,58
+561420,"Beautiful Loft in Paris - Le Marais",2760123,"Renaud",NA,"Temple",48.86715,2.36414,"Entire home/apt",85,4,128,"1561219200",1.55,2,187
+561567,"Beautiful summer in Paris",2760123,"Renaud",NA,"Popincourt",48.86697,2.36629,"Entire home/apt",70,4,91,"1559404800",1.18,2,343
+561819,"Studio for two on charming square.",2762562,"Léonard",NA,"Hôtel-de-Ville",48.85584,2.36321,"Entire home/apt",88,9,8,"1471881600",0.11,1,0
+562643,"Grande Chambre  Bd Brune-M4-T3  T bien desservie",2767647,"Brigitte",NA,"Observatoire",48.82518,2.31809,"Private room",55,2,7,"1561651200",0.09,1,98
+562783,"EIFEL TOWER LUXURY FLAT, 4 BEDROOMS, UPTO 11PEOPLE",1255551,"Emma",NA,"Palais-Bourbon",48.85017,2.30393,"Entire home/apt",411,3,78,"1562428800",0.96,1,79
+562894,"Bright Calm & Cosy Studio Le Marais",184456,"Martin",NA,"Temple",48.86026,2.36501,"Entire home/apt",65,5,17,"1523376000",0.24,1,0
+562951,"Paris Belleville: 2 rooms 40m2",2768873,"Quentin",NA,"Ménilmontant",48.87228,2.3806,"Entire home/apt",60,4,4,"1446393600",0.06,1,0
+563056,"Like a house terrasse/garden center",2769096,"Eléonore",NA,"Buttes-Chaumont",48.87638,2.38649,"Entire home/apt",100,4,12,"1534003200",0.17,1,0
+563514,"PARIS 16eme",2762084,"Lancelot",NA,"Passy",48.86026,2.27786,"Private room",69,3,138,"1561132800",4.11,2,26
+563587,"Bright&Cosy Pigalle/Montmartre !",2107602,"Gaelle",NA,"Opéra",48.88226,2.33627,"Entire home/apt",90,3,103,"1561824000",1.21,1,364
+563652,"LOVELY, COSY ROOM IN MONTMARTRE",2735949,"Marina",NA,"Buttes-Montmartre",48.88953,2.34015,"Private room",60,1,2,"1411056000",0.03,3,0
+564052,"Lovely flat near Montmartre",2773631,"Adèle",NA,"Buttes-Montmartre",48.88947,2.35451,"Private room",35,3,3,"1509033600",0.08,2,190
+564915,"In Paris, quiet and  cosy apartment",2778468,"Valerie Et Theo",NA,"Ménilmontant",48.85834,2.39768,"Entire home/apt",72,10,137,"1562342400",1.61,1,104
+565122,"Private room #22 clean and good value in Paris",2664648,"Sophie, Fred Et Chaimaa",NA,"Ménilmontant",48.86756,2.40921,"Private room",25,1,167,"1561132800",1.98,22,361
+565143,"Private room #14 cheap and clean in Paris",2664648,"Sophie, Fred Et Chaimaa",NA,"Ménilmontant",48.86698,2.40928,"Private room",30,1,87,"1561651200",1.03,22,361
+565148,"Private room #01 clean and good value in Paris",2664648,"Sophie, Fred Et Chaimaa",NA,"Ménilmontant",48.86887,2.40796,"Private room",45,1,211,"1561651200",2.48,22,355
+565243,"Double pièce 35m2 , tout confort",2779670,"Nathalie",NA,"Popincourt",48.86293,2.38633,"Private room",55,2,23,"1487433600",0.28,1,0
+565747,"Lovely dupleix in the old Paris",2781933,"Armelle",NA,"Popincourt",48.85763,2.38941,"Entire home/apt",114,4,105,"1560614400",1.42,1,352
+566186,"Aprt Montorgueil Louvre Beaubourg",2764413,"Thierry",NA,"Bourse",48.86595,2.34563,"Entire home/apt",145,3,74,"1561219200",0.98,1,364
+566456,"Chambre indépendante à Paris 15",2786324,"Monica",NA,"Vaugirard",48.8421,2.30923,"Private room",13,25,1,"1390924800",0.02,1,0
+566511,"SOFA bed in the heart of paris",2782865,"Marie Cecile",NA,"Hôtel-de-Ville",48.85711,2.35869,"Shared room",41,4,410,"1562601600",4.86,1,152
+566524,"Center of Paris, historical area",2786111,"Céline",NA,"Panthéon",48.84316,2.35197,"Entire home/apt",60,2,5,"1466956800",0.13,1,0
+566668,"COSY & CHIC STUDIO SEVRES BABYLONE/ST GERMAIN",3015724,"Lola",NA,"Palais-Bourbon",48.8487,2.31916,"Entire home/apt",100,3,34,"1561046400",0.41,1,182
+566867,"Stroll through the City of Light from an Artsy Apartment",2748667,"Rafic And Jasmine",NA,"Palais-Bourbon",48.85289,2.30877,"Entire home/apt",180,2,73,"1562601600",0.87,2,152
+566888,"apartmt with terrasse center Paris",2788330,"Justine",NA,"Bourse",48.87077,2.34715,"Entire home/apt",300,3,48,"1561478400",0.58,2,345
+567001,"Eiffel Tower amazing view  ! 760sqf",2789176,"Gildas",NA,"Vaugirard",48.83384,2.29355,"Entire home/apt",90,3,43,"1559491200",0.51,2,9
+567068,"Charming house with garden",2789518,"Catherine",NA,"Gobelins",48.82758,2.35864,"Entire home/apt",60,30,1,"1530288000",0.08,1,298
+567651,"Heart of the Marais! Newly renovated 1500s home.",1812024,"Kendal",NA,"Hôtel-de-Ville",48.85678,2.35842,"Entire home/apt",102,3,65,"1561046400",0.77,1,275
+567739,"room in the heart of paris center",2793431,"Didi",NA,"Bourse",48.86681,2.35239,"Private room",50,7,202,"1561737600",2.86,1,354
+568394,"2 Rooms in The Heart of the Marais - Calm - Bright",2796885,"Alain",NA,"Hôtel-de-Ville",48.85974,2.35576,"Entire home/apt",295,5,47,"1561046400",0.62,1,346
+568597,"Family duplex & rooftop with stunning view",1332617,"Nicolas",NA,"Buttes-Montmartre",48.8866,2.35285,"Entire home/apt",80,7,4,"1530201600",0.05,1,0
+568725,"Nice flat 2 rooms Paris Montmartre",2798714,"Baptiste",NA,"Buttes-Montmartre",48.88602,2.33478,"Entire home/apt",79,7,3,"1556726400",0.56,1,74
+568784,"COSY NICE PARISIAN APT MONTMARTRE",2793532,"Milena",NA,"Opéra",48.88037,2.33707,"Entire home/apt",110,7,53,"1560700800",0.64,1,282
+569393,"A calm island in central Paris",2802546,"Nathalie",NA,"Temple",48.86155,2.35308,"Entire home/apt",68,4,11,"1372953600",0.13,1,0
+569654,"CUTE&SUNNY TWO STOREY FLAT IN HISTORICAL PARIS",2792596,"Perrine",NA,"Ménilmontant",48.86614,2.38495,"Entire home/apt",90,5,11,"1561478400",0.15,1,17
+569831,"Architect's flat near Montmartre",2804544,"Jonathan",NA,"Buttes-Montmartre",48.89489,2.34762,"Entire home/apt",69,7,14,"1443369600",0.2,1,0
+569891,"Very cute flat near Canal St Martin",2804507,"Berto",NA,"Entrepôt",48.87965,2.36464,"Entire home/apt",99,30,115,"1561219200",1.37,1,299
+570113,"Nice studio flat (Phone number hidden by Airbnb) sq. ft)",2739136,"Jacques",NA,"Opéra",48.88011,2.33781,"Entire home/apt",90,3,10,"1451923200",0.17,1,0
+571017,"The ultimate luxury in Paris",2068923,"Laurent",NA,"Observatoire",48.82954,2.31976,"Entire home/apt",1204,1,17,"1561651200",0.2,2,345
+571447,"B&B, chambre calme, lumineuse, belle vue sur Paris",2812136,"Martine",NA,"Reuilly",48.84125,2.39526,"Private room",55,1,106,"1562688000",1.32,1,87
+571823,"BASTILLE/MARAIS - HAVEN OF QUIET - STYLISH PAD",2814558,"Richard",NA,"Popincourt",48.85584,2.37744,"Entire home/apt",103,3,15,"1501430400",0.24,1,0
+571966,"Sunny Loft Belleville/Menilmontant",2815155,"Bani",NA,"Ménilmontant",48.86898,2.38716,"Entire home/apt",80,5,5,"1368028800",0.06,1,199
+572913,"chacun cherche son chat...",2818756,"Anais",NA,"Popincourt",48.861,2.37799,"Entire home/apt",75,3,44,"1449158400",0.52,1,0
+573472,"Cosy studette Fantastic Marais",288594,"Marie J",NA,"Hôtel-de-Ville",48.85934,2.35258,"Entire home/apt",65,4,96,"1561305600",1.29,1,213
+574232,"GRAND 2 PIECES DE CHARME BIEN SITUE",2826016,"Nathalie",NA,"Popincourt",48.85075,2.38732,"Entire home/apt",110,3,115,"1562428800",1.4,1,344
+574683,"★ Bright duplex in the heart of the Marais",2827486,"Raphaël",NA,"Hôtel-de-Ville",48.85665,2.35843,"Entire home/apt",86,4,29,"1560700800",0.4,1,0
