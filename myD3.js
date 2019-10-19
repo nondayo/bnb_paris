@@ -91,13 +91,48 @@ d3.csv("data/demo2.csv").then(function (data) {
     let roomCount = roomDim.group().reduceCount();
     let neighbourhoodCount = neighbourhoodDim.group().reduceCount();
     let priceBin = priceDim.group().reduceCount();
+    // console.log(neighbourhoodDim);
+    // console.log(neighbourhoodCount);
 
+    // barchart x label
     let roomVec = ["home / apt", "Private room", "Shared room"];
-    let neighbourhoodVec = ["Observatoire", "Hôtel-de-Ville", "Opéra", "Ménilmontant", "Louvre", "Popincourt", "Buttes-Montmartre", "Élysée", "Panthéon", "Entrepôt", "Gobelins", "Buttes-Chaumont", "Luxembourg", "Palais-Bourbon", "Reuilly", "Bourse", "Vaugirard", "Batignolles-Monceau", "Passy", "Temple"];
+    let neighbourhoodVec = ["Buttes-Montmartre", "Observatoire", "Hôtel-de-Ville", "Opéra", "Ménilmontant", "Louvre", "Popincourt", "Élysée", "Panthéon", "Entrepôt", "Gobelins", "Buttes-Chaumont", "Luxembourg", "Palais-Bourbon", "Reuilly", "Bourse", "Vaugirard", "Batignolles-Monceau", "Passy", "Temple"];
+    // let sortByCnt = counts.sort(function (a, b) {
+    //     return a.cnt < b.cnt;
+    // });
+    // let neighbourhoodNames = sortByCnt.map(function (d) {
+    //     return d.neighbourhood;
+    // });
+
+    barNeighbourhood
+        .width(1000)
+        .height(400)
+        .margins({
+            "top": 10,
+            "right": 10,
+            "left": 50,
+            "bottom": 70
+        })
+        .dimension(neighbourhoodDim)
+        .group(neighbourhoodCount)
+        // .x(d3.scaleOrdinal().domain(roomVec))
+        .x(d3.scaleBand().domain(neighbourhoodVec))
+        // .x(d3.scaleBand().domain(neighbourhoodNames))
+        .xUnits(dc.units.ordinal)
+        .gap(4)
+        .elasticY(true)
+        .colors("rgb(255, 204, 0)")
+        .yAxis()
+        .ticks(3)
+    // 研究如何排序
+    // .ordering(dc.pluck('key'))
+    // .ordering(function (d) {
+    //     return neighbourhoodCount;
+    // })
 
     barRoomtype
-        // .width(300)
-        // .height(100)
+        .width(500)
+        .height(200)
         .margins({
             "top": 10,
             "right": 10,
@@ -115,34 +150,9 @@ d3.csv("data/demo2.csv").then(function (data) {
         .yAxis()
         .ticks(3)
 
-
-    barNeighbourhood
-        // .width(1000)
-        // .height(100)
-        .margins({
-            "top": 10,
-            "right": 10,
-            "left": 50,
-            "bottom": 20
-        })
-        .dimension(neighbourhoodDim)
-        .group(neighbourhoodCount)
-        // .x(d3.scaleOrdinal().domain(roomVec))
-        .x(d3.scaleBand().domain(neighbourhoodVec))
-        .xUnits(dc.units.ordinal)
-        .gap(4)
-        .elasticY(true)
-        .colors("rgb(255, 204, 0)")
-        .yAxis()
-        .ticks(3)
-    // 研究如何排序
-    // .ordering(dc.pluck('key'))
-    // .ordering(function (d) {
-    //     return neighbourhoodCount;
-    // })
-
-
     histPrice
+        .width(500)
+        .height(200)
         .margins({
             "top": 10,
             "right": 10,
@@ -161,6 +171,11 @@ d3.csv("data/demo2.csv").then(function (data) {
 
 
     dc.renderAll();
+    barNeighbourhood.renderlet(function (chart) {
+        chart.selectAll("g.x text")
+            .attr("text-anchor", "end")
+            .attr('transform', "rotate(-40)");
+    });
 
 })
 
