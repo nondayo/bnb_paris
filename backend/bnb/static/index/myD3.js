@@ -90,11 +90,6 @@ var breweryMarkers = new L.FeatureGroup();
 d3.csv("/static/index/data/demo2.csv").then(function (data) {
     // console.log(data[1]);
     // console.log(data[1].latitude);
-    // const groupByNeighbourhood = data.reduce((acc, it) => {
-    //     acc[it.neighbourhood] = acc[it.neighbourhood] + 1 || 1;
-    //     return acc;
-    // }, {});
-    // console.log(groupByNeighbourhood)
 
     let barRoomtype = dc.barChart("#roomtype");
     let barNeighbourhood = dc.barChart("#neighbourhood");
@@ -120,12 +115,24 @@ d3.csv("/static/index/data/demo2.csv").then(function (data) {
     let neighbourhoodCount = neighbourhoodDim.group().reduceCount();
     let priceBin = priceDim.group().reduceCount();
 
-    // var n = ndx.groupAll().reduceCount().value();
-    // console.log(n)
+    // Barchart 排序
+    let sortByroomCount = roomDim.group()
+        .all()
+        .sort((a, b) => b.value - a.value)
+        .map(d => d.key)
+    let sortByneighbourhoodCount = neighbourhoodDim
+        .group()
+        .all() //20區的個數
+        .sort((a, b) => b.value - a.value)
+        .map(d => d.key)
+    // console.log(neighbourhoodDim
+    //     .group()
+    //     .all())
+    // console.log(sortByneighbourhoodCount);
 
     // barchart x label
-    let roomVec = ["home / apt", "Private room", "Shared room"];
-    let neighbourhoodVec = ["Buttes-Montmartre", "Observatoire", "Hôtel-de-Ville", "Opéra", "Ménilmontant", "Louvre", "Popincourt", "Élysée", "Panthéon", "Entrepôt", "Gobelins", "Buttes-Chaumont", "Luxembourg", "Palais-Bourbon", "Reuilly", "Bourse", "Vaugirard", "Batignolles-Monceau", "Passy", "Temple"];
+    // let roomVec = ["home / apt", "Private room", "Shared room"];
+    // let neighbourhoodVec = ["Buttes-Montmartre", "Observatoire", "Hôtel-de-Ville", "Opéra", "Ménilmontant", "Louvre", "Popincourt", "Élysée", "Panthéon", "Entrepôt", "Gobelins", "Buttes-Chaumont", "Luxembourg", "Palais-Bourbon", "Reuilly", "Bourse", "Vaugirard", "Batignolles-Monceau", "Passy", "Temple"];
 
     barNeighbourhood
         .width(1000)
@@ -138,25 +145,17 @@ d3.csv("/static/index/data/demo2.csv").then(function (data) {
         })
         .dimension(neighbourhoodDim)
         .group(neighbourhoodCount)
-        .x(d3.scaleBand().domain(neighbourhoodVec))
+        .x(d3.scaleBand().domain(sortByneighbourhoodCount))
         // .x(d3.scaleBand().domain(neighbourhoodNames))
         .xUnits(dc.units.ordinal)
+        .brushOn(true)
         .gap(4)
         .elasticY(true)
         .colors("rgb(255, 204, 0)")
         .yAxis()
-        .ticks(3);
-    barNeighbourhood.on("renderlet", function (chart) {
-        chart.selectAll("g.x text")
-            .attr("text-anchor", "end")
-            .attr('transform', "rotate(-40)");
-    })
-
-    // 研究如何排序
-    // .ordering(dc.pluck('key'))
-    // .ordering(function (d) {
-    //     return neighbourhoodCount;
-    // })
+        .ticks(3)
+    // 如果要對 x 軸文字做調整，要在 render() 之後
+    // 或是在 css 做調整
 
     barRoomtype
         .width(500)
@@ -170,7 +169,8 @@ d3.csv("/static/index/data/demo2.csv").then(function (data) {
         .dimension(roomDim)
         .group(roomCount)
         // .x(d3.scaleOrdinal().domain(roomVec))
-        .x(d3.scaleBand().domain(roomVec))
+        // .x(d3.scaleBand().domain(roomVec))
+        .x(d3.scaleBand().domain(sortByroomCount))
         .xUnits(dc.units.ordinal)
         .gap(4)
         .elasticY(true)
@@ -223,8 +223,6 @@ d3.csv("/static/index/data/demo2.csv").then(function (data) {
                 return d.availability_365;
             }
         ])
-        // .sortBy(dc.pluck('price'))
-        // .order(d3.descending)
         .on('renderlet', function (table) {
             // each time table is rendered remove nasty extra row dc.js insists on adding
             table.select('tr.dc-table-group').remove();
@@ -267,9 +265,3 @@ d3.csv("/static/index/data/demo2.csv").then(function (data) {
 
     dc.renderAll();
 })
-
-// function updateGraph() {
-//     d3.selectAll(".marker")
-//         .data(monthDim.top(Infinity))
-//         .style("display", "inline");
-// }
