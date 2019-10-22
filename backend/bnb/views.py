@@ -2,6 +2,7 @@ from django.shortcuts import render
 from django.http import HttpResponse
 from datetime import datetime
 from bnb.models import BnbParis
+from api.models import ApiBnbParis
 import csv
 
 
@@ -16,6 +17,7 @@ def index(request):
         reader = csv.reader(f)
         for row in reader:
             _, created = BnbParis.objects.get_or_create(
+                # _, created=ApiBnbParis.objects.get_or_create(
                 bnb_id=row[0],
                 name=row[1],
                 host_id=row[2],
