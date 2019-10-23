@@ -22,4 +22,6 @@ urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^hello/$', hello_world),
     url(r'^index/$', index),
+    url(r'^api/', include('api.urls')),
+    # path('', include('myapi.urls'))
 ]
