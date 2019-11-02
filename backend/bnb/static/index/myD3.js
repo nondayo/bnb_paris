@@ -143,7 +143,7 @@ xhr.onreadystatechange = function () {
 
         barNeighbourhood
             .width(1000)
-            .height(400)
+            // .height(400)
             .margins({
                 "top": 10,
                 "right": 10,
@@ -239,28 +239,28 @@ xhr.onreadystatechange = function () {
                 _.each(allDim.top(Infinity), function (d) {
                     let name = d.name;
                     let price = d.price;
-                    // let roomColor;
-                    // switch (d.room_type) {
-                    //     case "Entire home/apt":
-                    //         roomColor = 'blue';
-                    //         break;
-                    //     case "Private room":
-                    //         roomColor = 'green';
-                    //         break;
-                    //     case "Shared room":
-                    //         roomColor = 'yellow';
-                    //         break;
-                    //     default:
-                    //         roomColor = 'red';
-                    //         break;
-                    // }
+                    let roomColor;
+                    switch (d.room_type) {
+                        case "Entire home/apt":
+                            roomColor = "#0084ff";
+                            break;
+                        case "Private room":
+                            roomColor = '#ffc300';
+                            break;
+                        case "Shared room":
+                            roomColor = '#fa3c4c';
+                            break;
+                        default:
+                            roomColor = '#d696bb';
+                            break;
+                    }
                     let point = L.circle([d.latitude, d.longitude], {
-                        color: "rgb(255, 204, 0)",
-                        fillColor: "rgb(255, 204, 0)",
-                        // color: "none",
+                        // color: "rgb(255, 204, 0)",
+                        // fillColor: "rgb(255, 204, 0)",
+                        color: "none",
                         // color: roomColor,
-                        // fillColor: roomColor,
-                        fillOpacity: 0.5
+                        fillColor: roomColor,
+                        fillOpacity: 0.2
                         // radius: 20
                     });
                     point.bindPopup(name + " price: $" + price + " per night");

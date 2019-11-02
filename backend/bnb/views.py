@@ -12,12 +12,16 @@ def hello_world(request):
     })
 
 
+def index(request):
+    return render(request, 'index.html')
+
+
 # def index(request):
-#     with open("csv/demo2.csv") as f:
+#     with open("csv/listings.csv") as f:
 #         reader = csv.reader(f)
 #         for row in reader:
-#             _, created = BnbParis.objects.get_or_create(
-#                 # _, created=ApiBnbParis.objects.get_or_create(
+#             # _, created = BnbParis.objects.get_or_create(
+#             _, created = ApiBnbParis.objects.get_or_create(
 #                 bnb_id=row[0],
 #                 name=row[1],
 #                 host_id=row[2],
@@ -37,6 +41,3 @@ def hello_world(request):
 #             )
 #     print("ok!")
 #     return render(request, 'index.html')
-
-def index(request):
-    return render(request, 'index.html')
