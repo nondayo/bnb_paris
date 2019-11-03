@@ -87,7 +87,7 @@ var cartoMap = L.tileLayer(cartoURL, {
 //Map creation
 var map = L.map('map', {
     layers: [cartoMap]
-}).setView([48.864516, 2.349014], 11);
+}).setView([48.864516, 2.349014], 10);
 
 var breweryMarkers = new L.FeatureGroup();
 
@@ -98,6 +98,7 @@ xhr.send();
 xhr.onreadystatechange = function () {
     if (this.readyState === 4 && this.status === 200) {
         var data = JSON.parse(this.responseText);
+        console.log(data[1]);
         let barRoomtype = dc.barChart("#roomtype");
         let barNeighbourhood = dc.barChart("#neighbourhood");
         let histPrice = dc.barChart("#price")
@@ -256,12 +257,14 @@ xhr.onreadystatechange = function () {
                             break;
                     }
                     let point = L.circle([d.latitude, d.longitude], {
-                        // color: "rgb(255, 204, 0)",
-                        // fillColor: "rgb(255, 204, 0)",
-                        color: "none",
-                        // color: roomColor,
+                        // https://leafletjs.com/reference-1.5.0.html#path
+                        stroke: true,
+                        color: roomColor,
+                        weight: 1,
+                        opacity: 0.2,
+                        fill: true,
                         fillColor: roomColor,
-                        fillOpacity: 0.2
+                        fillOpacity: 0.5
                         // radius: 20
                     });
                     point.bindPopup(name + " price: $" + price + " per night");
